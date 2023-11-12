@@ -1,0 +1,11 @@
+id,contestant,contestant_label,task,task_label,episode,episode_label,series,series_label,observed,official
+1,51,Katy Wix,416,Throw something into a pedal bin,,,,,2,3
+2,52,Rose Matafeo,416,Throw something into a pedal bin,,,,,3,2
+3,51,Katy Wix,,,72,Shaqinahat.,,,14,15
+4,52,Rose Matafeo,,,72,Shaqinahat.,,,18,17
+5,51,Katy Wix,,,,,9,Series 9,157,158
+6,52,Rose Matafeo,,,,,9,Series 9,160,159
+7,66,Mike Wozniak,,,86,It's not your fault.,,,16,17
+8,67,Sarah Kendall,,,86,It's not your fault.,,,19,18
+9,66,Mike Wozniak,,,,,11,Series 11,153,154
+10,67,Sarah Kendall,,,,,11,Series 11,159,158

@@ -1,0 +1,1025 @@
+id,task,task_label,winner,winner_label,team,live
+1,1,The most unusual item,7,Tim Key,0,0
+2,2,Eat as much watermelon as possible,6,Romesh Ranganathan,0,0
+3,3,Paint a horse while riding a horse,3,Frank Skinner,0,0
+4,4,Empty the bathtub,6,Romesh Ranganathan,0,0
+5,5,Pop up a tent and pop on a onesie,7,Tim Key,0,1
+6,6,Find Alex,3,Frank Skinner,0,0
+7,7,The most impressive item,7,Tim Key,0,0
+8,8,High-five a 55-year-old,4,Josh Widdicombe,0,0
+9,9,Identify the contents of the pies,7,Tim Key,0,0
+10,10,Do something that will look impressive in reverse,5,Roisin Conaty,0,0
+11,10,Do something that will look impressive in reverse,6,Romesh Ranganathan,0,0
+12,11,Unshackle yourself and sprint one metre,5,Roisin Conaty,0,1
+13,12,The most meaningful item,6,Romesh Ranganathan,0,0
+14,13,Throw a teabag into a mug,7,Tim Key,0,0
+15,14,Draw an image using a GPS device,4,Josh Widdicombe,0,0
+16,15,Buy a gift for the Taskmaster,4,Josh Widdicombe,0,0
+17,16,Get an egg as high as possible,4,Josh Widdicombe,0,0
+18,17,Stand up after 100 seconds,4,Josh Widdicombe,0,1
+19,18,Guess Frank’s age in minutes,4,Josh Widdicombe,0,1
+20,19,The most beautiful item,7,Tim Key,0,0
+21,20,Make a block of ice disappear,4,Josh Widdicombe,0,0
+22,23,Score 11 points,4,Josh Widdicombe,1,0
+23,23,Score 11 points,5,Roisin Conaty,1,0
+24,23,Score 11 points,6,Romesh Ranganathan,1,0
+25,24,Fill an eggcup with tears,3,Frank Skinner,0,0
+26,26,Memorise an Australian Rules Football team,3,Frank Skinner,0,1
+27,26,Memorise an Australian Rules Football team,4,Josh Widdicombe,0,1
+28,26,Memorise an Australian Rules Football team,5,Roisin Conaty,0,1
+29,26,Memorise an Australian Rules Football team,6,Romesh Ranganathan,0,1
+30,26,Memorise an Australian Rules Football team,7,Tim Key,0,1
+31,27,The most valuable item,4,Josh Widdicombe,0,0
+32,28,Move the boulder as far as possible,4,Josh Widdicombe,0,0
+33,29,Grow the longest nail,4,Josh Widdicombe,0,0
+34,30,Make a bed while holding hands,3,Frank Skinner,1,0
+35,30,Make a bed while holding hands,7,Tim Key,1,0
+36,31,Make a Swedish person blush,5,Roisin Conaty,0,0
+37,32,Inflate the largest balloon while blindfolded,5,Roisin Conaty,0,1
+38,33,The most satisfying item,7,Tim Key,0,0
+39,34,Play mini golf with eggs,5,Roisin Conaty,0,0
+40,35,Stage a realistic home movie blooper,3,Frank Skinner,1,0
+41,35,Stage a realistic home movie blooper,7,Tim Key,1,0
+42,36,Make an alphabet meal,3,Frank Skinner,0,0
+43,37,Separate the blue sweets,7,Tim Key,0,1
+44,38,The most important document,9,Joe Wilkinson,0,0
+45,39,Place the exercise balls on the yoga mat,12,Richard Osman,0,0
+46,40,Get the potato into the hole,10,Jon Richardson,0,0
+47,41,Find out about the Swedish person,11,Katherine Ryan,0,0
+48,42,Pack a suitcase,12,Richard Osman,0,1
+49,43,The trendiest item of clothing,8,Doc Brown,0,0
+50,44,Quickly eat an egg,12,Richard Osman,0,0
+51,45,Create a nursery rhyme video,8,Doc Brown,0,0
+52,45,Create a nursery rhyme video,10,Jon Richardson,0,0
+53,46,A photo of an object that looks like you,12,Richard Osman,0,0
+54,47,Order a pizza without using certain words,10,Jon Richardson,0,0
+55,48,Put potatoes in a basket,10,Jon Richardson,0,1
+56,49,The best dinner party guest,9,Joe Wilkinson,0,0
+57,50,Impress the Mayor,11,Katherine Ryan,0,0
+58,51,Make an unexpected silhouette,10,Jon Richardson,0,0
+59,52,Buy a gift for the Taskmaster,12,Richard Osman,0,0
+60,53,"See no potato, hear no potato, speak no potato",10,Jon Richardson,1,0
+61,53,"See no potato, hear no potato, speak no potato",12,Richard Osman,1,0
+62,54,Throw rabbits into a hat,11,Katherine Ryan,0,1
+63,55,The coolest blue item,10,Jon Richardson,0,0
+64,56,Rescue Patatas from the tree,11,Katherine Ryan,0,0
+65,57,Conceal a pineapple on your person,10,Jon Richardson,0,0
+66,58,Set a task / Guess who set the tasks,10,Jon Richardson,0,0
+67,59,Construct something for the Taskmaster,8,Doc Brown,1,0
+68,59,Construct something for the Taskmaster,9,Joe Wilkinson,1,0
+69,59,Construct something for the Taskmaster,11,Katherine Ryan,1,0
+70,60,Build the tallest tower using potato products,8,Doc Brown,0,1
+71,61,The best piece of memorabilia,12,Richard Osman,0,0
+72,62,Move items across a stream,9,Joe Wilkinson,0,0
+73,63,Create a stop-motion film starring a potato,10,Jon Richardson,1,0
+74,63,Create a stop-motion film starring a potato,12,Richard Osman,1,0
+75,64,Build a bridge for the potato,10,Jon Richardson,0,0
+76,65,"Put on gloves, eat a banana, put on a tie, and clap",12,Richard Osman,0,1
+77,66,The most flamboyant clock,17,Sara Pascoe,0,0
+78,67,Reach the microwave in the fewest steps,16,Rob Beckett,0,0
+79,68,Propel a pea along a red carpet,13,Al Murray,0,0
+80,69,Make the best snowman,14,Dave Gorman,0,0
+81,70,Balance swedes on a Swede,13,Al Murray,0,1
+82,71,The heaviest shoebox-sized item,14,Dave Gorman,0,0
+83,72,Surprise Alex,16,Rob Beckett,0,0
+84,73,Release Alex,16,Rob Beckett,1,0
+85,73,Release Alex,17,Sara Pascoe,1,0
+86,74,An upside-down condiment self-portrait,13,Al Murray,0,0
+87,75,Burst all of the balloons,16,Rob Beckett,0,0
+88,76,Unravel the tape,13,Al Murray,0,1
+89,77,The best battery-operated item,16,Rob Beckett,0,0
+90,78,Fill an eggcup with sweat,15,Paul Chowdhry,0,0
+91,79,Make the best domino rally,15,Paul Chowdhry,0,0
+92,80,Buy a gift for the Taskmaster,14,Dave Gorman,0,0
+93,81,Create the best flag meal,14,Dave Gorman,0,0
+94,82,Anchor balloons using bread,17,Sara Pascoe,0,1
+95,83,The shiniest thing,15,Paul Chowdhry,0,0
+96,84,Spread your clothes far and wide,13,Al Murray,0,0
+97,85,Find out the lying old man’s occupation,13,Al Murray,0,0
+98,86,Create an impressive special effect,13,Al Murray,1,0
+99,86,Create an impressive special effect,14,Dave Gorman,1,0
+100,86,Create an impressive special effect,15,Paul Chowdhry,1,0
+101,87,Cover yourself in sticky notes,16,Rob Beckett,0,1
+102,89,The most handsome relative,14,Dave Gorman,0,0
+103,90,Move water from one bucket to another,13,Al Murray,0,0
+104,91,Play charades across a river,13,Al Murray,1,0
+105,91,Play charades across a river,14,Dave Gorman,1,0
+106,91,Play charades across a river,15,Paul Chowdhry,1,0
+107,92,Create an impressive time-lapse or slow motion film,16,Rob Beckett,0,0
+108,92,Create an impressive time-lapse or slow motion film,17,Sara Pascoe,0,0
+109,93,The lowest unique number of doughnuts,16,Rob Beckett,0,1
+110,94,The most interesting vegetable autograph,22,Noel Fielding,0,0
+111,95,Beautifully destroy a cake,19,Joe Lycett,0,0
+112,96,Draw a blind portrait,22,Noel Fielding,0,0
+113,97,Fell all the ducks,18,Hugh Dennis,0,0
+114,98,Make the most fruit juice,21,Mel Giedroyc,0,1
+115,99,The most boastful item,22,Noel Fielding,0,0
+116,100,Keep the basketball on the treadmill,18,Hugh Dennis,0,0
+117,101,Paint a portrait of the Taskmaster without touching the red mat,22,Noel Fielding,0,0
+118,102,Get the flour onto the target,18,Hugh Dennis,1,0
+119,102,Get the flour onto the target,21,Mel Giedroyc,1,0
+120,103,Put an egg in an egg cup without touching either,20,Lolly Adefope,0,0
+121,104,Make the longest balloon chain,21,Mel Giedroyc,0,1
+122,105,The best subscription,22,Noel Fielding,0,0
+123,106,Camouflage yourself,22,Noel Fielding,0,0
+124,107,Make a Taskmaster movie trailer,18,Hugh Dennis,1,0
+125,107,Make a Taskmaster movie trailer,21,Mel Giedroyc,1,0
+126,108,Persuade three animals to stand on the mat,19,Joe Lycett,0,0
+127,109,Transfer water from one fishbowl to another,19,Joe Lycett,0,0
+128,110,Musical words,19,Joe Lycett,0,1
+129,111,Decant wine from one bottle to another,19,Joe Lycett,0,0
+130,112,The most surprising picture of yourself,20,Lolly Adefope,0,0
+131,113,Make the highest splash,22,Noel Fielding,0,0
+132,114,Ringtone choreography,21,Mel Giedroyc,0,0
+133,114,Ringtone choreography,22,Noel Fielding,0,0
+134,115,Make the best toilet paper celebrity portrait,22,Noel Fielding,0,0
+135,116,Do something incredible with a pommel horse,18,Hugh Dennis,0,0
+136,116,Do something incredible with a pommel horse,21,Mel Giedroyc,0,0
+137,117,Make the tallest tube tower,18,Hugh Dennis,0,1
+138,117,Make the tallest tube tower,21,Mel Giedroyc,0,1
+139,118,The cutest thing,20,Lolly Adefope,0,0
+140,119,Slide as far as possible,21,Mel Giedroyc,0,0
+141,120,Don the diving gear while maintaining eye contact and small talk,20,Lolly Adefope,0,0
+142,121,Do incompatible things with the bathtub,18,Hugh Dennis,1,0
+143,121,Do incompatible things with the bathtub,21,Mel Giedroyc,1,0
+144,122,Throw something into something,21,Mel Giedroyc,0,0
+145,123,Make the longest continuous noise,19,Joe Lycett,0,1
+146,124,Eat as many peas as possible,18,Hugh Dennis,0,0
+147,125,The best sheep-related item,20,Lolly Adefope,0,0
+148,126,Pass a camel through a small gap,21,Mel Giedroyc,0,0
+149,127,Score a goal with a shopping bag,18,Hugh Dennis,0,0
+150,131,Identify the contents of the sleeping bag,19,Joe Lycett,0,0
+151,131,Identify the contents of the sleeping bag,20,Lolly Adefope,0,0
+152,131,Identify the contents of the sleeping bag,22,Noel Fielding,0,0
+153,132,Prepare the items / Lift all the items in one hand,22,Noel Fielding,0,1
+154,133,The best chair,18,Hugh Dennis,0,0
+155,134,Cross the bunting to give Alex his lunch,22,Noel Fielding,0,0
+156,135,Hide from Alex,20,Lolly Adefope,0,0
+157,136,Wheelie bin obstacle course,19,Joe Lycett,1,0
+158,136,Wheelie bin obstacle course,20,Lolly Adefope,1,0
+159,136,Wheelie bin obstacle course,22,Noel Fielding,1,0
+160,137,Invent a new handshake,19,Joe Lycett,0,0
+161,138,Make the biggest and best banana,20,Lolly Adefope,0,1
+162,139,Open the jar of mayonnaise,19,Joe Lycett,0,0
+163,140,The most cash,20,Lolly Adefope,0,0
+164,141,Create an exotic sandwich,22,Noel Fielding,0,0
+165,142,Eat your exotic sandwich,18,Hugh Dennis,0,0
+166,143,Strike an item the farthest,22,Noel Fielding,0,0
+167,144,Do something surprising with a duck,21,Mel Giedroyc,0,0
+168,145,Draw the median duck,21,Mel Giedroyc,0,1
+169,146,The most excellent noise,25,Mark Watson,0,0
+170,147,Give Alex a special cuddle,24,Bob Mortimer,0,0
+171,148,Get Alex to dry land,26,Nish Kumar,0,0
+172,149,Score a basket without your hands,24,Bob Mortimer,0,0
+173,150,Get some fruit into the bowl,25,Mark Watson,0,1
+174,151,The hippest headwear,27,Sally Phillips,0,0
+175,152,Make a coconut-flinging machine,24,Bob Mortimer,0,0
+176,153,Paint a rainbow in the dark,23,Aisling Bea,0,0
+177,154,Slice bread using something from the caravan,26,Nish Kumar,0,0
+178,155,Create the greatest splat,25,Mark Watson,1,0
+179,155,Create the greatest splat,26,Nish Kumar,1,0
+180,156,Paint your own canvas,23,Aisling Bea,0,1
+181,156,Paint your own canvas,25,Mark Watson,0,1
+182,156,Paint your own canvas,26,Nish Kumar,0,1
+183,156,Paint your own canvas,27,Sally Phillips,0,1
+184,157,The proudest item,24,Bob Mortimer,0,0
+185,158,Retrieve the table tennis ball from the tube,24,Bob Mortimer,0,0
+186,159,Make a coconut businessman,26,Nish Kumar,0,0
+187,160,"Eat one item, balance one item, throw one item",27,Sally Phillips,0,0
+188,161,Word table tennis,23,Aisling Bea,0,1
+189,162,The most extraordinary souvenir,23,Aisling Bea,0,0
+190,163,Make marmite,24,Bob Mortimer,0,0
+191,164,Do something remarkable synchronised,23,Aisling Bea,1,0
+192,164,Do something remarkable synchronised,24,Bob Mortimer,1,0
+193,164,Do something remarkable synchronised,27,Sally Phillips,1,0
+194,165,Blow up a balloon to the size of a cucumber,25,Mark Watson,0,0
+195,166,Spot the difference,23,Aisling Bea,0,0
+196,167,Sneeze the fastest,24,Bob Mortimer,0,0
+197,168,Greg says...,23,Aisling Bea,0,1
+198,169,Backthrow a picture of a Swede into a bin,25,Mark Watson,0,0
+199,170,The most high-octane item,27,Sally Phillips,0,0
+200,171,Put the largest thing inside a balloon,23,Aisling Bea,0,0
+201,172,Create a remarkable water cooler moment,27,Sally Phillips,0,0
+202,174,Build a can tower & greet Alex from different countries,24,Bob Mortimer,0,0
+203,174,Build a can tower & greet Alex from different countries,25,Mark Watson,0,0
+204,175,Identify the Finns,25,Mark Watson,0,1
+205,176,The best home-made item,24,Bob Mortimer,0,0
+206,177,Balance Alex on a see-saw,26,Nish Kumar,0,0
+207,178,Record the most incredible PoV footage,27,Sally Phillips,0,0
+208,180,Light a candle using a cupcake,24,Bob Mortimer,0,0
+209,181,Make yourself monotone,23,Aisling Bea,0,1
+210,182,Kick yoghurt at a target,27,Sally Phillips,0,0
+211,183,The most surprisingly expensive item,25,Mark Watson,0,0
+212,184,Travel blindfolded for three minutes and retrace your steps,24,Bob Mortimer,0,0
+213,185,Coconut bobsleigh,23,Aisling Bea,0,0
+214,186,Vote for who should receive five points,27,Sally Phillips,0,0
+215,187,Make a funny flick book,24,Bob Mortimer,0,0
+216,187,Make a funny flick book,26,Nish Kumar,0,0
+217,188,Zipwire items to the Taskmaster,24,Bob Mortimer,0,1
+218,189,The most awkward item to take home,25,Mark Watson,0,0
+219,190,Transport a coconut as far as possible,27,Sally Phillips,0,0
+220,191,Create the best graph,26,Nish Kumar,0,0
+221,193,Write and perform a song about a stranger,25,Mark Watson,1,0
+222,193,Write and perform a song about a stranger,26,Nish Kumar,1,0
+223,194,Throw an egg through a basketball hoop,24,Bob Mortimer,0,1
+224,195,The most embarrassing item,29,Josh Widdicombe,0,0
+225,196,Throw an exercise ball into a bath or put the coconuts in a trolley,31,Noel Fielding,0,0
+226,197,Blow something substantial off a table,32,Rob Beckett,0,0
+227,198,Perform a miracle,29,Josh Widdicombe,0,0
+228,198,Perform a miracle,30,Katherine Ryan,0,0
+229,199,The second longest T-word,31,Noel Fielding,0,1
+230,201,The best thing,32,Rob Beckett,0,0
+231,202,Find out what’s in the briefcase,31,Noel Fielding,0,0
+232,203,Make a delicious mask,28,Bob Mortimer,0,0
+233,204,Make a mess and then clean it up,30,Katherine Ryan,0,0
+234,205,Record the most steps on your pedometers,30,Katherine Ryan,0,1
+235,206,The best liquid,37,Tim Vine,0,0
+236,207,Perform the best wheelbarrow stunt,33,Alice Levine,0,0
+237,208,Make the tallest lemon tower,36,Russell Howard,0,0
+238,209,Return to the house wearing a hat,33,Alice Levine,0,0
+239,210,Sort the objects by size using your feet,35,Liza Tarbuck,0,1
+240,211,Spin around and kick a football at the caravan,33,Alice Levine,0,0
+241,212,The best non-living hairy thing,37,Tim Vine,0,0
+242,213,Get the highest darts score,35,Liza Tarbuck,0,0
+243,214,Keep Alex dry,33,Alice Levine,1,0
+244,214,Keep Alex dry,36,Russell Howard,1,0
+245,215,Take a picture of people holding eggs,35,Liza Tarbuck,0,0
+246,216,Take the wind-up man on an adventure,34,Asim Chaudhry,0,0
+247,218,The most magnificent day trip,37,Tim Vine,0,0
+248,219,Write a grown-up bedtime story,35,Liza Tarbuck,0,0
+249,220,Make something spin for the longest,35,Liza Tarbuck,0,0
+250,221,Identify the baby food flavours,34,Asim Chaudhry,0,0
+251,222,Catch the most socks,36,Russell Howard,0,1
+252,223,The most thought-provoking thing,36,Russell Howard,0,0
+253,224,Do something manly with a cardboard box,35,Liza Tarbuck,0,0
+254,225,Have the most fun in 3 minutes,34,Asim Chaudhry,1,0
+255,225,Have the most fun in 3 minutes,35,Liza Tarbuck,1,0
+256,225,Have the most fun in 3 minutes,37,Tim Vine,1,0
+257,226,Exactly recreate your 3 minutes of fun,33,Alice Levine,1,0
+258,226,Exactly recreate your 3 minutes of fun,34,Asim Chaudhry,1,0
+259,226,Exactly recreate your 3 minutes of fun,35,Liza Tarbuck,1,0
+260,226,Exactly recreate your 3 minutes of fun,36,Russell Howard,1,0
+261,226,Exactly recreate your 3 minutes of fun,37,Tim Vine,1,0
+262,227,Make the best squirty cream art,35,Liza Tarbuck,0,0
+263,228,Remove the banknote from under the glass,36,Russell Howard,0,0
+264,229,Shake hands with the Taskmaster without revealing your identity,33,Alice Levine,0,1
+265,230,The sturdiest thing,35,Liza Tarbuck,0,0
+266,231,Work out the length of a piece of string,37,Tim Vine,0,0
+267,232,Remove the tablecloth from underneath the eggs,33,Alice Levine,0,0
+268,232,Remove the tablecloth from underneath the eggs,34,Asim Chaudhry,0,0
+269,232,Remove the tablecloth from underneath the eggs,35,Liza Tarbuck,0,0
+270,232,Remove the tablecloth from underneath the eggs,36,Russell Howard,0,0
+271,232,Remove the tablecloth from underneath the eggs,37,Tim Vine,0,0
+272,233,Identify the link and do it 100 times,34,Asim Chaudhry,1,0
+273,233,Identify the link and do it 100 times,35,Liza Tarbuck,1,0
+274,233,Identify the link and do it 100 times,37,Tim Vine,1,0
+275,234,Pull off an elaborate snooker trick shot,37,Tim Vine,0,0
+276,235,Throw eggs onto a shelf,35,Liza Tarbuck,0,1
+277,236,The best invention,37,Tim Vine,0,0
+278,237,Make the best snow globe,36,Russell Howard,0,0
+279,238,Knock over the ducks without leaving the carpet,34,Asim Chaudhry,1,0
+280,238,Knock over the ducks without leaving the carpet,35,Liza Tarbuck,1,0
+281,238,Knock over the ducks without leaving the carpet,37,Tim Vine,1,0
+282,239,Make the best announcement,34,Asim Chaudhry,0,0
+283,240,Make a parachute for a wooden spoon,35,Liza Tarbuck,0,0
+284,241,Predict how many words you can list for a category,33,Alice Levine,0,1
+285,242,The scariest thing from the kitchen,36,Russell Howard,0,0
+286,243,Knock the bails off the stumps,36,Russell Howard,0,0
+287,244,Draw the contents of the box,35,Liza Tarbuck,0,0
+288,245,List and then mime obscure animals,33,Alice Levine,1,0
+289,245,List and then mime obscure animals,36,Russell Howard,1,0
+290,246,Make and eat a pancake with objects tucked into your sweatband,35,Liza Tarbuck,0,0
+291,246,Make and eat a pancake with objects tucked into your sweatband,36,Russell Howard,0,0
+292,246,Make and eat a pancake with objects tucked into your sweatband,37,Tim Vine,0,0
+293,247,Roll eggs to the centre of the target,34,Asim Chaudhry,0,1
+294,248,The most interesting footwear,34,Asim Chaudhry,0,0
+295,249,Put something surprising inside a chocolate egg,33,Alice Levine,0,0
+296,250,Find out what you have in common with a stranger,34,Asim Chaudhry,0,0
+297,251,Make a join-the-dots image using stiletto heels,37,Tim Vine,0,0
+298,252,Stick plasters to the correct body parts,36,Russell Howard,0,1
+299,253,Quickly receive a text message,36,Russell Howard,0,0
+300,254,The most pleasing cat-sized thing,37,Tim Vine,0,0
+301,255,Make the biggest bubble and burst it with your nose,33,Alice Levine,0,0
+302,256,Perform a number from the Taskmaster musical,33,Alice Levine,1,0
+303,256,Perform a number from the Taskmaster musical,36,Russell Howard,1,0
+304,257,Make an outfit with stationery / Guess what pun Tim will make,37,Tim Vine,0,0
+305,258,Make a plastic bag as heavy as possible,35,Liza Tarbuck,0,0
+306,259,Hold the most points above the ground,36,Russell Howard,0,1
+307,260,The least appropriate wedding accessory,34,Asim Chaudhry,0,0
+308,261,Knock over the fewest bowling pins,36,Russell Howard,0,0
+309,262,Blow out a candle from a distance,34,Asim Chaudhry,0,0
+310,263,Declare your love for the Taskmaster,34,Asim Chaudhry,0,0
+311,263,Declare your love for the Taskmaster,35,Liza Tarbuck,0,0
+312,264,Pick numbers higher and lower than the people next to you,33,Alice Levine,0,1
+313,265,The thing most people want to touch,41,Phil Wang,0,0
+314,266,Make the best quick-change outfit,40,Kerry Godliman,0,0
+315,267,Build the tallest cardboard box tower,42,Rhod Gilbert,0,0
+316,268,Work out the perimeter of the caravan in beans,40,Kerry Godliman,0,0
+317,269,Make the most exotic fruit hat,42,Rhod Gilbert,0,1
+318,270,The boldest belt,42,Rhod Gilbert,0,0
+319,271,Write a ten word story while running,38,James Acaster,0,0
+320,272,Paint a blindfolded still life,38,James Acaster,1,0
+321,272,Paint a blindfolded still life,41,Phil Wang,1,0
+322,272,Paint a blindfolded still life,42,Rhod Gilbert,1,0
+323,273,Predict what another contestant will do with an object,39,Jessica Knappett,0,0
+324,274,Draw the biggest and best circle,40,Kerry Godliman,0,0
+325,275,Build a tower of cans within a hoop,40,Kerry Godliman,0,1
+326,276,Guess the number on Alex’s forearm,40,Kerry Godliman,0,1
+327,277,The best thing from the 90s,40,Kerry Godliman,0,0
+328,278,Raise Alex’s heart rate,39,Jessica Knappett,0,0
+329,279,Make the best noise,41,Phil Wang,0,0
+330,280,Get the ball into the hole by striking it,42,Rhod Gilbert,0,0
+331,281,Silently mouth a ten word fact to Greg,39,Jessica Knappett,0,1
+332,282,The most confusing thing,39,Jessica Knappett,0,0
+333,283,Work out what the switch does,38,James Acaster,0,0
+334,284,Change your appearance in a lift,42,Rhod Gilbert,0,0
+335,285,Make the scales read exactly 31.770kg,38,James Acaster,0,0
+336,286,Get dressed while wearing handcuffs,38,James Acaster,0,1
+337,287,Make the best toilet paper plane,42,Rhod Gilbert,0,0
+338,288,The worst gift from a relative,39,Jessica Knappett,0,0
+339,289,Spectacularly deliver the task to Alex,38,James Acaster,0,0
+340,290,Make the most white circles on the target,38,James Acaster,0,0
+341,290,Make the most white circles on the target,39,Jessica Knappett,0,0
+342,290,Make the most white circles on the target,40,Kerry Godliman,0,0
+343,290,Make the most white circles on the target,42,Rhod Gilbert,0,0
+344,291,Cheer up the traffic warden,38,James Acaster,0,0
+345,291,Cheer up the traffic warden,39,Jessica Knappett,0,0
+346,292,Make yourselves appear as large or small as possible,38,James Acaster,1,0
+347,292,Make yourselves appear as large or small as possible,41,Phil Wang,1,0
+348,292,Make yourselves appear as large or small as possible,42,Rhod Gilbert,1,0
+349,293,Place objects on the hanger without it falling,39,Jessica Knappett,1,1
+350,293,Place objects on the hanger without it falling,40,Kerry Godliman,1,1
+351,294,The best key,40,Kerry Godliman,0,0
+352,295,Put 50 different things in the bin,38,James Acaster,0,0
+353,296,Make a portrait of the Taskmaster using your 50 items,38,James Acaster,0,0
+354,297,Make a soap opera cliffhanger,38,James Acaster,1,0
+355,297,Make a soap opera cliffhanger,41,Phil Wang,1,0
+356,297,Make a soap opera cliffhanger,42,Rhod Gilbert,1,0
+357,298,Place 10 pairs of glasses into the smallest box,41,Phil Wang,0,0
+358,299,Get your inflatable ring as high as possible,42,Rhod Gilbert,0,1
+359,300,The most exciting thing beginning with 'G',38,James Acaster,0,0
+360,300,The most exciting thing beginning with 'G',42,Rhod Gilbert,0,0
+361,301,Throw something into the bin behind the fence,42,Rhod Gilbert,0,0
+362,302,Don’t blink,42,Rhod Gilbert,0,0
+363,303,Build an extension to the Taskmaster house,39,Jessica Knappett,1,0
+364,303,Build an extension to the Taskmaster house,40,Kerry Godliman,1,0
+365,304,Make the best Christmas cracker,41,Phil Wang,0,0
+366,305,Beat on the drum after exactly 9.58 seconds,42,Rhod Gilbert,0,1
+367,306,The creepiest thing,40,Kerry Godliman,0,0
+368,306,The creepiest thing,42,Rhod Gilbert,0,0
+369,307,Poke something unexpected through the hole,42,Rhod Gilbert,0,0
+370,308,Follow the clues and then do what they spell,38,James Acaster,0,0
+371,309,Compose a 30 second piece of music,39,Jessica Knappett,0,0
+372,310,"Bob, pat, kneel, stew, or wane",42,Rhod Gilbert,0,1
+373,311,The most surprisingly beautiful thing,41,Phil Wang,0,0
+374,312,Put the largest numeric value of money in the floating bowl,40,Kerry Godliman,0,0
+375,313,Take a photo of yourself in a fez / Improve your hula-hooping,39,Jessica Knappett,0,0
+376,314,Find the satsuma in a sock,40,Kerry Godliman,0,0
+377,314,Find the satsuma in a sock,42,Rhod Gilbert,0,0
+378,315,Complete a 24-shot rally,39,Jessica Knappett,1,0
+379,315,Complete a 24-shot rally,40,Kerry Godliman,1,0
+380,316,Draw a happy horse upside-down,38,James Acaster,0,1
+381,317,The most magnificent stationery,40,Kerry Godliman,0,0
+382,318,Put on overalls and lie on the ground when the siren sounds,41,Phil Wang,0,0
+383,319,Find the hard-boiled egg,38,James Acaster,0,0
+384,320,Recreate a classic video game,38,James Acaster,0,0
+385,321,Tie yourself up as securely as possible,42,Rhod Gilbert,0,0
+386,322,Sausage or finger?,40,Kerry Godliman,0,1
+387,323,The most powerful smell,45,Lou Sanders,0,0
+388,324,Find the baby monitor receiver,43,Iain Stirling,0,0
+389,325,Make and be seduced by a ventriloquist dummy,43,Iain Stirling,0,0
+390,326,Sneak up on Alex,44,Joe Thomas,0,0
+391,327,Collect the most doughnuts in your bucket,45,Lou Sanders,0,1
+392,328,Peel a banana with your feet,43,Iain Stirling,0,0
+393,329,The best pair of things,47,Sian Gibson,0,0
+394,330,Make a moustache from something unexpected,46,Paul Sinha,0,0
+395,331,Transfer the rice to the bottle,44,Joe Thomas,0,0
+396,332,"Convey an object using only facial expressions, noises, adjectives & verbs",44,Joe Thomas,1,0
+397,332,"Convey an object using only facial expressions, noises, adjectives & verbs",47,Sian Gibson,1,0
+398,333,Travel the furthest while making a continuous noise,44,Joe Thomas,0,0
+399,334,"Name a bird, eat a grape, name a contestant",46,Paul Sinha,0,1
+400,335,The best burstable thing,47,Sian Gibson,0,0
+401,336,Build the best volcano,44,Joe Thomas,0,0
+402,336,Build the best volcano,45,Lou Sanders,0,0
+403,337,Work out what Alex is wearing,47,Sian Gibson,0,0
+404,338,Do the worst thing and make the best apology,45,Lou Sanders,0,0
+405,339,Get into two sleeping bags and complete other actions,43,Iain Stirling,0,1
+406,340,The best present for a doctor,47,Sian Gibson,0,0
+407,341,Get the toilet paper through the toilet seat,43,Iain Stirling,0,0
+408,342,Make the best thing to entertain a toddler,46,Paul Sinha,0,0
+409,342,Make the best thing to entertain a toddler,47,Sian Gibson,0,0
+410,343,Get the most weight into a hammock,44,Joe Thomas,1,0
+411,343,Get the most weight into a hammock,47,Sian Gibson,1,0
+412,344,Throw a frying pan into a hoop,45,Lou Sanders,0,1
+413,345,Whip the bottle off the barrel,47,Sian Gibson,0,0
+414,346,The best face,43,Iain Stirling,0,0
+415,347,Move the sand from one bucket to another,45,Lou Sanders,0,0
+416,348,Make a realistic injury using food,47,Sian Gibson,0,0
+417,349,Play long-distance catch with a beach ball,43,Iain Stirling,1,0
+418,349,Play long-distance catch with a beach ball,45,Lou Sanders,1,0
+419,349,Play long-distance catch with a beach ball,46,Paul Sinha,1,0
+420,350,Herd the ping pong balls into a pen,43,Iain Stirling,0,0
+421,351,Recreate the scene you parade past,44,Joe Thomas,0,1
+422,352,The best see-through item,44,Joe Thomas,0,0
+423,353,Conceal yourself inside a phone box,43,Iain Stirling,0,0
+424,354,Design an iconic album cover,44,Joe Thomas,1,0
+425,354,Design an iconic album cover,47,Sian Gibson,1,0
+426,355,Recall the order of the deck of cards,46,Paul Sinha,0,0
+427,356,Score a goal from the greatest distance,47,Sian Gibson,0,0
+428,357,"Roll a toilet roll, and retrieve your shoe",45,Lou Sanders,0,1
+429,358,The best slippery thing,45,Lou Sanders,0,0
+430,359,Find the apples,44,Joe Thomas,0,0
+431,360,Work out the crisp flavours,44,Joe Thomas,0,0
+432,361,Do something powerful with your little finger,44,Joe Thomas,0,0
+433,362,"Answer the questions, pull the strings; do not release the green egg",44,Joe Thomas,1,1
+434,362,"Answer the questions, pull the strings; do not release the green egg",47,Sian Gibson,1,1
+435,363,The nicest thing to hold,46,Paul Sinha,0,0
+436,364,Make a portrait of a former contestant using sand and one tool,43,Iain Stirling,0,0
+437,365,Catch the tennis balls,43,Iain Stirling,1,0
+438,365,Catch the tennis balls,45,Lou Sanders,1,0
+439,365,Catch the tennis balls,46,Paul Sinha,1,0
+440,366,Move the beach ball across the finish line using only water,43,Iain Stirling,0,0
+441,367,Complete the five-syllable words,46,Paul Sinha,0,1
+442,368,The best form of protection,45,Lou Sanders,0,0
+443,369,Get a ball into a bin with the most bounces,45,Lou Sanders,0,0
+444,370,Make a delicious dust meal,43,Iain Stirling,0,0
+445,371,Make yourselves look like one person,43,Iain Stirling,1,0
+446,371,Make yourselves look like one person,45,Lou Sanders,1,0
+447,371,Make yourselves look like one person,46,Paul Sinha,1,0
+448,372,Complete some tasks as one person,44,Joe Thomas,1,0
+449,372,Complete some tasks as one person,47,Sian Gibson,1,0
+450,373,Stack plates and bowls on your head,45,Lou Sanders,0,1
+451,374,The best thing that will change your life for the better,43,Iain Stirling,0,0
+452,375,Erase the eraser,43,Iain Stirling,0,0
+453,376,Make the most tremendous legs,47,Sian Gibson,0,0
+454,377,Blindly drive a mobility scooter around a course,43,Iain Stirling,0,0
+455,379,The most stressful thing,51,Katy Wix,0,0
+456,380,Hide three aubergines from Alex,49,Ed Gamble,0,0
+457,381,Arrange the lollies in rainbow order,49,Ed Gamble,0,0
+458,381,Arrange the lollies in rainbow order,52,Rose Matafeo,0,0
+459,382,Make the most dramatic entrance,52,Rose Matafeo,0,0
+460,383,Draw the second longest snake,48,David Baddiel,0,1
+461,384,The best bag,52,Rose Matafeo,0,0
+462,385,Identify which bin Alex is in,49,Ed Gamble,0,0
+463,386,Draw a portrait of the Taskmaster across a flipchart,51,Katy Wix,0,0
+464,387,Say the word ‘demeaning’,49,Ed Gamble,1,0
+465,387,Say the word ‘demeaning’,51,Katy Wix,1,0
+466,387,Say the word ‘demeaning’,52,Rose Matafeo,1,0
+467,388,Arrange the playdough balls / Do the correct things with the balls,50,Jo Brand,0,1
+468,389,The weirdest wooden thing,48,David Baddiel,0,0
+469,390,Surprise memory test,51,Katy Wix,0,0
+470,391,Build a robust statue of a delicate thing,51,Katy Wix,0,0
+471,392,Score a goal with a steamroller,52,Rose Matafeo,0,0
+472,393,Break something and put it back together,50,Jo Brand,0,0
+473,394,Fill a glass with water,49,Ed Gamble,0,1
+474,395,The best thing to celebrate with on stage,49,Ed Gamble,0,0
+475,396,Make the most striking water feature,49,Ed Gamble,0,0
+476,397,Bring a classic board game to life,48,David Baddiel,1,0
+477,397,Bring a classic board game to life,49,Ed Gamble,1,0
+478,397,Bring a classic board game to life,50,Jo Brand,1,0
+479,397,Bring a classic board game to life,51,Katy Wix,1,0
+480,397,Bring a classic board game to life,52,Rose Matafeo,1,0
+481,398,Fill a tray with things beginning with a letter you chose,52,Rose Matafeo,0,0
+482,399,"Throw objects, but not too far",52,Rose Matafeo,0,1
+483,400,The best defunct thing,48,David Baddiel,0,0
+484,401,Lasso Alex,50,Jo Brand,0,0
+485,402,Make an accurate and inventive egg timer,50,Jo Brand,0,0
+486,403,"Get to know a person who alternately tells the truth, lies, and brags",49,Ed Gamble,1,0
+487,403,"Get to know a person who alternately tells the truth, lies, and brags",51,Katy Wix,1,0
+488,403,"Get to know a person who alternately tells the truth, lies, and brags",52,Rose Matafeo,1,0
+489,404,Build a tower behind you using a mirror and litter pickers,49,Ed Gamble,0,1
+490,404,Build a tower behind you using a mirror and litter pickers,52,Rose Matafeo,0,1
+491,405,The thing you’d be most pleased to find in a field,49,Ed Gamble,0,0
+492,406,Make a body part abnormally long,50,Jo Brand,0,0
+493,407,Push a watermelon up a slide using breadsticks,49,Ed Gamble,0,0
+494,408,Serenade yourself,49,Ed Gamble,0,0
+495,408,Serenade yourself,50,Jo Brand,0,0
+496,408,Serenade yourself,52,Rose Matafeo,0,0
+497,409,Slide drinks to the Taskmaster,51,Katy Wix,0,1
+498,410,The best thing taken from someone else’s house,48,David Baddiel,0,0
+499,411,Throw eggs into metal receptacles,51,Katy Wix,0,0
+500,412,Build the best Mount Rushmore,48,David Baddiel,0,0
+501,412,Build the best Mount Rushmore,51,Katy Wix,0,0
+502,413,Find and put the gold rings on the stick,49,Ed Gamble,0,0
+503,413,Find and put the gold rings on the stick,51,Katy Wix,0,0
+504,414,Horse or laminator?,50,Jo Brand,0,1
+505,415,The best thing from a shed,50,Jo Brand,0,0
+506,416,Throw something into a pedal bin,49,Ed Gamble,0,0
+507,417,Write and perform lyrics for the Taskmaster theme tune,52,Rose Matafeo,0,0
+508,418,Supply a soundtrack for a film,49,Ed Gamble,1,0
+509,418,Supply a soundtrack for a film,51,Katy Wix,1,0
+510,418,Supply a soundtrack for a film,52,Rose Matafeo,1,0
+511,419,Draw your own face on a face shield,51,Katy Wix,0,1
+512,420,The most desirable smooth thing,48,David Baddiel,0,0
+513,421,Subtly deliver a five word instruction to Alex,48,David Baddiel,0,0
+514,422,"Inflate, tie, and pop the most balloons",49,Ed Gamble,0,0
+515,423,Make a famous couple using knees and/or elbows,51,Katy Wix,0,0
+516,424,Communicate pictures by drawing on your team-mate’s back,50,Jo Brand,1,1
+517,424,Communicate pictures by drawing on your team-mate’s back,51,Katy Wix,1,1
+518,424,Communicate pictures by drawing on your team-mate’s back,52,Rose Matafeo,1,1
+519,425,The best thing that is very long and thin,51,Katy Wix,0,0
+520,426,Do the most preposterous thing with a chickpea,52,Rose Matafeo,0,0
+521,427,Make a cup of tea,48,David Baddiel,1,0
+522,427,Make a cup of tea,50,Jo Brand,1,0
+523,428,Complete the seven tasks in any order,49,Ed Gamble,0,0
+524,429,Select the shortest breadstick,52,Rose Matafeo,0,1
+525,430,Use a spread to delay a pop-up toy,49,Ed Gamble,0,0
+526,431,The nicest thing to put in your mouth,53,Daisy May Cooper,0,0
+527,433,Make a large object vanish,56,Mawaan Rizwan,0,0
+528,435,Get the most balls of the same colour in your bucket using litter pickers,57,Richard Herring,0,1
+529,436,The best thing with loads of holes in it,56,Mawaan Rizwan,0,0
+530,437,"Find the treasure / Make different, increasingly loud noises",55,Katherine Parkinson,1,0
+531,437,"Find the treasure / Make different, increasingly loud noises",56,Mawaan Rizwan,1,0
+532,438,"Make a portrait of the Taskmaster and his toy using balloons, pegs, and clothing",54,Johnny Vegas,0,0
+533,439,Get all the exercise balls in the hoops while in a boat,53,Daisy May Cooper,0,0
+534,440,Guess what is making the noises,53,Daisy May Cooper,0,1
+535,440,Guess what is making the noises,57,Richard Herring,0,1
+536,441,Select a wind-up dinosaur,55,Katherine Parkinson,0,0
+537,442,The best thing that probably has a spring,54,Johnny Vegas,0,0
+538,443,Make the best upside-down film,54,Johnny Vegas,0,0
+539,444,Put the most spaghetti in a grapefruit,53,Daisy May Cooper,0,0
+540,445,Catapult a shoe into a bathtub,53,Daisy May Cooper,0,0
+541,446,Draw an object on a rotating canvas,53,Daisy May Cooper,1,1
+542,446,Draw an object on a rotating canvas,57,Richard Herring,1,1
+543,447,The cheekiest food,56,Mawaan Rizwan,0,0
+544,448,Make the phone ring,57,Richard Herring,0,0
+545,449,Persuade the security guard to look in your bag,53,Daisy May Cooper,1,0
+546,449,Persuade the security guard to look in your bag,54,Johnny Vegas,1,0
+547,450,Drop a water balloon as far as possible without it bursting,53,Daisy May Cooper,0,0
+548,450,Drop a water balloon as far as possible without it bursting,54,Johnny Vegas,0,0
+549,450,Drop a water balloon as far as possible without it bursting,55,Katherine Parkinson,0,0
+550,451,Roll an edible sphere across a line as slowly as possible,54,Johnny Vegas,0,1
+551,452,The best pointy thing,57,Richard Herring,0,0
+552,453,Bag the heaviest thing from the greatest distance,55,Katherine Parkinson,0,0
+553,454,Paint a howling wolf on a rotating teapot,53,Daisy May Cooper,0,0
+554,454,Paint a howling wolf on a rotating teapot,57,Richard Herring,0,0
+555,455,Do something out of character with £20,53,Daisy May Cooper,0,0
+556,455,Do something out of character with £20,56,Mawaan Rizwan,0,0
+557,456,Feed your team-mate(s) the most watermelon,53,Daisy May Cooper,1,0
+558,456,Feed your team-mate(s) the most watermelon,57,Richard Herring,1,0
+559,457,List words of a certain length without hesitating,53,Daisy May Cooper,0,1
+560,458,The most narcissistic thing,56,Mawaan Rizwan,0,0
+561,459,Quietly make a cocktail,56,Mawaan Rizwan,0,0
+562,460,Draw the animal watching you from the mirror,54,Johnny Vegas,0,0
+563,461,Transfer the water from one barrel to another,56,Mawaan Rizwan,0,0
+564,462,Draw animals using straight lines,54,Johnny Vegas,1,1
+565,462,Draw animals using straight lines,55,Katherine Parkinson,1,1
+566,462,Draw animals using straight lines,56,Mawaan Rizwan,1,1
+567,463,The best thing that’s bigger at the top than the bottom,56,Mawaan Rizwan,0,0
+568,464,Move two chickens around a course using a remote-control car and a mobility scooter,56,Mawaan Rizwan,0,0
+569,465,Communicate the safe contents via reversed audio,54,Johnny Vegas,1,0
+570,465,Communicate the safe contents via reversed audio,55,Katherine Parkinson,1,0
+571,465,Communicate the safe contents via reversed audio,56,Mawaan Rizwan,1,0
+572,466,Make the best and longest-lasting marble run,55,Katherine Parkinson,0,0
+573,467,Communicate things to the Taskmaster using only sounds,53,Daisy May Cooper,0,1
+574,468,Work out how many sheets are on a toilet roll,54,Johnny Vegas,0,0
+575,469,The best thing with wings,57,Richard Herring,0,0
+576,471,Learn your lines and perform a scene,57,Richard Herring,0,0
+577,472,Extract water from a coconut,55,Katherine Parkinson,0,0
+578,473,Do not blink while staring at your opponent with a selected expression,54,Johnny Vegas,1,1
+579,473,Do not blink while staring at your opponent with a selected expression,56,Mawaan Rizwan,1,1
+580,473,Do not blink while staring at your opponent with a selected expression,57,Richard Herring,1,1
+581,474,The best bedding,57,Richard Herring,0,0
+582,475,Make the largest beer mat house while ringing the doorbell with increasing frequency,56,Mawaan Rizwan,0,0
+583,476,Complete the most tasks behind the five motorised doors,53,Daisy May Cooper,0,0
+584,477,Work out how many balls are in the basket,53,Daisy May Cooper,0,0
+585,478,Draw the monster described by the Taskmaster,57,Richard Herring,0,1
+586,479,The greatest collection,56,Mawaan Rizwan,0,0
+587,480,Put the wellies on the spider’s feet,53,Daisy May Cooper,0,0
+588,481,Complete the best performance of a specific song,53,Daisy May Cooper,1,0
+589,481,Complete the best performance of a specific song,57,Richard Herring,1,0
+590,482,Neatly hang all the clothes on a rail without stepping over the line,55,Katherine Parkinson,0,0
+591,483,Balance all the mints or biscuits on a spaghetti bridge,57,Richard Herring,0,1
+592,484,Guess how many green eggs are under the Taskmaster’s chair,57,Richard Herring,0,1
+593,485,The best thing to bring to a party,62,Shirley Ballas,0,0
+594,486,Get the biggest thing through the doughnut,61,Rylan Clark-Neal,0,0
+595,487,Sculpt the scene on the other side of the wall,61,Rylan Clark-Neal,0,0
+596,488,Build the lightest tower,58,John Hannah,0,0
+597,489,Strike balls into a bath with an object,62,Shirley Ballas,0,1
+598,490,"The best thing you can carry, but only just",66,Mike Wozniak,0,0
+599,491,Do something impressive under the table while waving,66,Mike Wozniak,0,0
+600,492,Catch the rat,65,Lee Mack,0,0
+601,493,Deliver all the plates to Alex,65,Lee Mack,0,0
+602,494,Stack your buckets so that they are taller than you,67,Sarah Kendall,0,1
+603,495,The best drinking vessel,63,Charlotte Ritchie,0,0
+604,496,Make the balloon hover,64,Jamali Maddix,0,0
+605,497,Have an argument,65,Lee Mack,1,0
+606,497,Have an argument,66,Mike Wozniak,1,0
+607,498,Make the house haunted,67,Sarah Kendall,0,0
+608,499,Correctly guess your standing in the group,65,Lee Mack,0,1
+609,500,The most shocking cat- to pig-sized thing,65,Lee Mack,0,0
+610,501,Make the sauna stones hiss,67,Sarah Kendall,0,0
+611,502,Create a days in month mnemonic,67,Sarah Kendall,0,0
+612,503,Get your luggage through security,65,Lee Mack,0,0
+613,504,Act out nursery rhymes,65,Lee Mack,1,1
+614,504,Act out nursery rhymes,66,Mike Wozniak,1,1
+615,505,The craziest thing,67,Sarah Kendall,0,0
+616,506,Get all of the banana in the bottle,67,Sarah Kendall,0,0
+617,507,Put the bag of salt onto that table,63,Charlotte Ritchie,1,0
+618,507,Put the bag of salt onto that table,64,Jamali Maddix,1,0
+619,507,Put the bag of salt onto that table,67,Sarah Kendall,1,0
+620,508,Get the sheet of loo roll as far away as possible,64,Jamali Maddix,0,0
+621,509,Identify the contents of the bowl,64,Jamali Maddix,0,1
+622,510,The best thing you can operate with your hand,64,Jamali Maddix,0,0
+623,511,Cover your legs in cling film and gaffer tape / Put on the captain’s hat,64,Jamali Maddix,0,0
+624,512,Make the best uniform for this bee,65,Lee Mack,0,0
+625,513,Sort the objects with your face,63,Charlotte Ritchie,0,0
+626,514,Slap and tong,63,Charlotte Ritchie,1,1
+627,514,Slap and tong,64,Jamali Maddix,1,1
+628,514,Slap and tong,67,Sarah Kendall,1,1
+629,515,The most annoying thing,64,Jamali Maddix,0,0
+630,517,Make a portrait of the Taskmaster on a door using your feet,64,Jamali Maddix,0,0
+631,518,Vandalise a wall creatively,65,Lee Mack,1,0
+632,518,Vandalise a wall creatively,66,Mike Wozniak,1,0
+633,519,Identify the battered items,64,Jamali Maddix,0,0
+634,520,Tie the string to the glasses and put them on,65,Lee Mack,0,1
+635,521,Fire rubber bands into Alex’s bum bag,64,Jamali Maddix,0,0
+636,522,The best thing to hang on a wall that you wouldn’t normally hang on a wall,65,Lee Mack,0,0
+637,523,Complete the most tasks,66,Mike Wozniak,0,0
+638,524,Make the best babushka meal,64,Jamali Maddix,0,0
+639,525,Get out of the front gate,65,Lee Mack,1,0
+640,525,Get out of the front gate,66,Mike Wozniak,1,0
+641,526,Make your rubber gloves and wellies as heavy as possible,65,Lee Mack,0,1
+642,527,The most satisfying wobbly thing,63,Charlotte Ritchie,0,0
+643,527,The most satisfying wobbly thing,64,Jamali Maddix,0,0
+644,527,The most satisfying wobbly thing,65,Lee Mack,0,0
+645,527,The most satisfying wobbly thing,66,Mike Wozniak,0,0
+646,527,The most satisfying wobbly thing,67,Sarah Kendall,0,0
+647,528,Complete various tasks while saying ‘metronome’,66,Mike Wozniak,0,0
+648,529,Draw the best picture of a British animal,65,Lee Mack,1,0
+649,529,Draw the best picture of a British animal,66,Mike Wozniak,1,0
+650,530,Perform the greatest aircraft safety demonstration,66,Mike Wozniak,0,0
+651,531,One leg or two?,65,Lee Mack,0,1
+652,532,The nattiest knitwear,63,Charlotte Ritchie,0,0
+653,533,Make the most impressive weather for Taskmaster Island,63,Charlotte Ritchie,0,0
+654,534,Build and topple a tower for a pot of yoghurt,63,Charlotte Ritchie,0,0
+655,535,Appear as different as possible in four photos,66,Mike Wozniak,0,0
+656,536,Shove your fish,66,Mike Wozniak,0,1
+657,537,The thing that makes you look the toughest,66,Mike Wozniak,0,0
+658,538,"Make the best picture of a big, scary dinosaur",67,Sarah Kendall,0,0
+659,539,Scientifically work out how much Alex’s feet and head weigh,65,Lee Mack,0,0
+660,540,Direct a teammate into the red circle,65,Lee Mack,1,0
+661,540,Direct a teammate into the red circle,66,Mike Wozniak,1,0
+662,541,"Keeping your head still at all times, correctly don your special outfit",63,Charlotte Ritchie,0,1
+663,542,The nicest thing to sit on,69,Desiree Burch,0,0
+664,543,Strike Alex with a ball,71,Morgana Robinson,0,0
+665,544,Paint a flattering picture of the Taskmaster in action,70,Guz Khan,0,0
+666,545,Pop the balloon,68,Alan Davies,0,0
+667,546,"Strike poses to represent a hobby, an animal, and a celebrity",71,Morgana Robinson,0,1
+668,547,The most awesome square,70,Guz Khan,0,0
+669,548,Scale the mountain,69,Desiree Burch,1,0
+670,548,Scale the mountain,70,Guz Khan,1,0
+671,548,Scale the mountain,71,Morgana Robinson,1,0
+672,549,Work out the contents of the bags,72,Victoria Coren Mitchell,0,0
+673,550,Paint the space hopper green,71,Morgana Robinson,0,0
+674,551,Put on the medallion,70,Guz Khan,0,1
+675,552,The most old-fashioned thing that you still use,69,Desiree Burch,0,0
+676,553,Copy Alex,72,Victoria Coren Mitchell,0,0
+677,554,Make a sand bridge across the river,68,Alan Davies,0,0
+678,555,Film a thrilling sequence with a welly-cam,69,Desiree Burch,0,0
+679,556,Convey objects using shadows,69,Desiree Burch,1,1
+680,556,Convey objects using shadows,70,Guz Khan,1,1
+681,556,Convey objects using shadows,71,Morgana Robinson,1,1
+682,557,The best thing that has quite a few layers,68,Alan Davies,0,0
+683,558,Complete the course as slowly as possible,69,Desiree Burch,0,0
+684,559,Spread jam on toast in a really cool way,70,Guz Khan,0,0
+685,560,Solve the riddle,68,Alan Davies,1,0
+686,560,Solve the riddle,72,Victoria Coren Mitchell,1,0
+687,561,Get the most forks in your bucket,71,Morgana Robinson,0,1
+688,562,The most elegant thing beginning with 'G',70,Guz Khan,0,0
+689,563,Sit on a cake,72,Victoria Coren Mitchell,0,0
+690,565,Prevent Alex from scoring a goal,71,Morgana Robinson,0,0
+691,566,Pop the most balloons,70,Guz Khan,0,1
+692,567,The most desirable thing for another contestant,69,Desiree Burch,0,0
+693,568,Land the iron on the ironing board,68,Alan Davies,0,0
+694,569,Make a cute toy for a cute dog,70,Guz Khan,0,0
+695,570,Sit on the red chair in the secret tower,69,Desiree Burch,0,0
+696,571,Make paper aeroplanes,69,Desiree Burch,0,1
+697,571,Make paper aeroplanes,70,Guz Khan,0,1
+698,572,The most ridiculous thin thing,72,Victoria Coren Mitchell,0,0
+699,573,Put up a shelf for the Taskmaster's snooker balls,68,Alan Davies,0,0
+700,574,Write and perform a 30-second jingle,69,Desiree Burch,0,0
+701,574,Write and perform a 30-second jingle,71,Morgana Robinson,0,0
+702,575,Pass everything through the pipe and the pipe through everything,69,Desiree Burch,0,0
+703,576,Direct drawings using limited keywords,68,Alan Davies,0,1
+704,576,Direct drawings using limited keywords,72,Victoria Coren Mitchell,0,1
+705,577,The best thing you have repurposed,69,Desiree Burch,0,0
+706,578,Make a popcorn necklace and do the right thing,70,Guz Khan,0,0
+707,579,Play and commentate on a socially-distanced sport,68,Alan Davies,1,0
+708,579,Play and commentate on a socially-distanced sport,69,Desiree Burch,1,0
+709,579,Play and commentate on a socially-distanced sport,70,Guz Khan,1,0
+710,579,Play and commentate on a socially-distanced sport,71,Morgana Robinson,1,0
+711,579,Play and commentate on a socially-distanced sport,72,Victoria Coren Mitchell,1,0
+712,580,Make your face look like another face when it's upside-down,68,Alan Davies,0,0
+713,580,Make your face look like another face when it's upside-down,72,Victoria Coren Mitchell,0,0
+714,581,Pop up before the objects,71,Morgana Robinson,0,1
+715,582,Blow a feather across a table with your nose,68,Alan Davies,0,0
+716,583,The best 40 identical things on a towel,68,Alan Davies,0,0
+717,584,Have the longest telephone conversation,69,Desiree Burch,0,0
+718,585,Find the soldier with hindsight,71,Morgana Robinson,0,0
+719,586,Get goosebumps,71,Morgana Robinson,0,0
+720,587,Duck-slide,69,Desiree Burch,1,1
+721,587,Duck-slide,70,Guz Khan,1,1
+722,587,Duck-slide,71,Morgana Robinson,1,1
+723,588,The most magnificent floppy thing,69,Desiree Burch,0,0
+724,589,Drink with your mouth open,69,Desiree Burch,0,0
+725,590,Describe the Taskmaster / Chocolate button / Guess the tasks,68,Alan Davies,1,0
+726,590,Describe the Taskmaster / Chocolate button / Guess the tasks,72,Victoria Coren Mitchell,1,0
+727,591,Propose to Alex,70,Guz Khan,0,0
+728,591,Propose to Alex,71,Morgana Robinson,0,0
+729,592,Make noises without being identified by the Taskmaster,70,Guz Khan,0,1
+730,592,Make noises without being identified by the Taskmaster,71,Morgana Robinson,0,1
+731,593,"The most beguiling, unwieldy, shiny thing",76,Lady Leshurr,0,0
+732,594,Daringly put the egg in the eggcup,73,Adrian Chiles,0,0
+733,595,Drink all the vinegar,73,Adrian Chiles,0,0
+734,596,Navigate the course with the pole,73,Adrian Chiles,0,0
+735,597,Turn a ball into a competitor's head,77,Sayeeda Warsi,0,1
+736,598,The most exciting thing to be found in a skip,79,Bridget Christie,0,0
+737,599,Find all ten ducks in the lab,80,Chris Ramsey,0,0
+738,600,Create a lipstick portrait of the Taskmaster,80,Chris Ramsey,0,0
+739,601,Duel with Alex,82,Sophie Duker,0,0
+740,602,Count to 13,80,Chris Ramsey,0,1
+741,603,The object you would most like to show to an alien,78,Ardal O'Hanlon,0,0
+742,604,Tie a ribbon round the maypole or hit it with a ping pong ball,82,Sophie Duker,0,0
+743,605,Recreate the coolest photo from your phone,79,Bridget Christie,0,0
+744,606,Score an exercise ball hat-trick using a buggy,78,Ardal O'Hanlon,1,0
+745,606,Score an exercise ball hat-trick using a buggy,80,Chris Ramsey,1,0
+746,607,Draw and describe the object under your table,79,Bridget Christie,0,1
+747,608,The item that sounds funniest when you say its name over and over again,81,Judi Love,0,0
+748,609,Recreate a historical moment using traffic cones,79,Bridget Christie,0,0
+749,610,Make all the things happen at the same time,80,Chris Ramsey,0,0
+750,611,Enable Alex to bite his duck,79,Bridget Christie,0,0
+751,612,Face leg or other leg?,79,Bridget Christie,1,1
+752,612,Face leg or other leg?,81,Judi Love,1,1
+753,612,Face leg or other leg?,82,Sophie Duker,1,1
+754,613,The best night-time thing,78,Ardal O'Hanlon,0,0
+755,614,Guess Shoe,80,Chris Ramsey,0,0
+756,615,Give Alex the best stag minute,78,Ardal O'Hanlon,1,0
+757,615,Give Alex the best stag minute,80,Chris Ramsey,1,0
+758,616,Make a stirring speech out of the bunting,81,Judi Love,0,0
+759,617,Knock over your opponents' dolls with a tyre,79,Bridget Christie,0,1
+760,618,Turn over the most beer mats,78,Ardal O'Hanlon,0,0
+761,619,The most surprising thing from your wardrobe,79,Bridget Christie,0,0
+762,621,High-five Alex,82,Sophie Duker,0,0
+763,622,Raise the water level to the top of the fish tank,78,Ardal O'Hanlon,0,0
+764,623,Answer Alex's phone call,78,Ardal O'Hanlon,0,0
+765,624,Pop balls out of your hole,79,Bridget Christie,0,1
+766,625,The most calming item,78,Ardal O'Hanlon,0,0
+767,626,Use a cement mixer,80,Chris Ramsey,0,0
+768,627,Record a high number on a pedometer,79,Bridget Christie,0,0
+769,628,Hold a meeting with yourselves,81,Judi Love,0,0
+770,629,Correctly guess the person's first name,82,Sophie Duker,0,1
+771,630,Display your vocal range,82,Sophie Duker,0,0
+772,631,The nicest thing to put your finger in,78,Ardal O'Hanlon,0,0
+773,632,Show off,80,Chris Ramsey,0,0
+774,632,Show off,82,Sophie Duker,0,0
+775,633,Deliver a cocktail to Greg,79,Bridget Christie,1,0
+776,633,Deliver a cocktail to Greg,81,Judi Love,1,0
+777,633,Deliver a cocktail to Greg,82,Sophie Duker,1,0
+778,634,Create an edible sculpture,79,Bridget Christie,0,0
+779,634,Create an edible sculpture,80,Chris Ramsey,0,0
+780,634,Create an edible sculpture,82,Sophie Duker,0,0
+781,635,Eat your beautiful sculpture,81,Judi Love,0,0
+782,636,Build the tallest tower of toilet rolls,82,Sophie Duker,0,1
+783,637,The loveliest thing to hold above your head,79,Bridget Christie,0,0
+784,637,The loveliest thing to hold above your head,82,Sophie Duker,0,0
+785,638,Learn Swedish,78,Ardal O'Hanlon,0,0
+786,639,Poke your tongue out for the longest time,82,Sophie Duker,0,0
+787,640,Walk through the door wearing the longest shoes and biggest hat,79,Bridget Christie,0,0
+788,641,Write down things that fit the category,78,Ardal O'Hanlon,1,1
+789,641,Write down things that fit the category,80,Chris Ramsey,1,1
+790,642,The best object with a handle,78,Ardal O'Hanlon,0,0
+791,643,Get the most surprising thing delivered,80,Chris Ramsey,0,0
+792,644,Make the longest cup snake,81,Judi Love,0,0
+793,645,Poke a body part out of the shower curtain,80,Chris Ramsey,0,0
+794,645,Poke a body part out of the shower curtain,82,Sophie Duker,0,0
+795,646,Predict how many cans you can fit in a bag,78,Ardal O'Hanlon,0,1
+796,647,The finest family heirloom,79,Bridget Christie,0,0
+797,648,Identify the liquids,82,Sophie Duker,0,0
+798,649,Get the most ducks in Alex's basket,80,Chris Ramsey,0,0
+799,650,Record a multi-track song about your team,79,Bridget Christie,1,0
+800,650,Record a multi-track song about your team,81,Judi Love,1,0
+801,650,Record a multi-track song about your team,82,Sophie Duker,1,0
+802,651,Draw a life-size self portrait with your nose in the canvas,79,Bridget Christie,0,1
+803,651,Draw a life-size self portrait with your nose in the canvas,80,Chris Ramsey,0,1
+804,653,"The thing that makes everyone go, ""Wow, that really is the greatest thing.""",83,Ed Gamble,0,0
+805,654,Feed yourself a grape in the most elaborate way,87,Richard Herring,0,0
+806,655,Create a wonderful seaside photo cut-out board,85,Liza Tarbuck,0,0
+807,656,Get the duck into the pond,86,Lou Sanders,0,0
+808,657,"Suitcase full of bricks, or suitcase full of balloons?",87,Richard Herring,0,1
+809,658,The most jaw-dropping item,89,Fern Brady,0,0
+810,659,What ten films are you in?,91,Munya Chawawa,0,0
+811,660,Land loo roll in the toilet,88,Dara Ó Briain,0,0
+812,661,Create the best picture of a bird,91,Munya Chawawa,1,0
+813,661,Create the best picture of a bird,92,Sarah Millican,1,0
+814,662,Don't pop the balloon,88,Dara Ó Briain,0,1
+815,662,Don't pop the balloon,90,John Kearns,0,1
+816,663,The best thing you can't throw away,88,Dara Ó Briain,0,0
+817,664,"Print, laminate, and distribute the most signs",88,Dara Ó Briain,0,0
+818,665,Obey all your signs,88,Dara Ó Briain,0,0
+819,665,Obey all your signs,91,Munya Chawawa,0,0
+820,666,Put five grapes in the little bowl,88,Dara Ó Briain,0,0
+821,667,Sort the ducks and the socks,88,Dara Ó Briain,0,0
+822,668,Make the Taskmaster say your words,88,Dara Ó Briain,1,1
+823,668,Make the Taskmaster say your words,89,Fern Brady,1,1
+824,668,Make the Taskmaster say your words,90,John Kearns,1,1
+825,669,The thing you most want on a Sunday morning,90,John Kearns,0,0
+826,670,Put the most sand in the shopping trolley,90,John Kearns,1,0
+827,670,Put the most sand in the shopping trolley,91,Munya Chawawa,1,0
+828,670,Put the most sand in the shopping trolley,92,Sarah Millican,1,0
+829,671,Identify the ice cream flavours,88,Dara Ó Briain,0,0
+830,672,Catch something,88,Dara Ó Briain,0,0
+831,673,Play your sounds right,92,Sarah Millican,0,1
+832,674,The greatest addition to a garden,92,Sarah Millican,0,0
+833,675,Turn on the bubble machine,92,Sarah Millican,0,0
+834,676,Get the tarpaulin into one of the containers,92,Sarah Millican,0,0
+835,677,Write a classic song incorporating five wonderful words,92,Sarah Millican,0,0
+836,678,Egg and spoon throw,88,Dara Ó Briain,0,1
+837,679,The most useless thing that cost over £20,90,John Kearns,0,0
+838,680,Get the most pleasure from these rubber chutes,89,Fern Brady,0,0
+839,681,Perform the best routine to this music,88,Dara Ó Briain,1,0
+840,681,Perform the best routine to this music,89,Fern Brady,1,0
+841,681,Perform the best routine to this music,90,John Kearns,1,0
+842,682,Luggage trolley bowling,90,John Kearns,0,0
+843,683,Communicate animals by saying letters and doing impressions,88,Dara Ó Briain,1,1
+844,683,Communicate animals by saying letters and doing impressions,89,Fern Brady,1,1
+845,683,Communicate animals by saying letters and doing impressions,90,John Kearns,1,1
+846,683,Communicate animals by saying letters and doing impressions,91,Munya Chawawa,1,1
+847,683,Communicate animals by saying letters and doing impressions,92,Sarah Millican,1,1
+848,684,The best thing you've ever received in the post,92,Sarah Millican,0,0
+849,685,Hold the milk bottles above the microwaves,92,Sarah Millican,0,0
+850,686,Reach the end of two lanes in the same amount of time,92,Sarah Millican,0,0
+851,688,Paint a unicorn using your head brush,88,Dara Ó Briain,0,1
+852,689,The thing you'd most like to have on a car journey,92,Sarah Millican,0,0
+853,690,Pop 99 red balloons,90,John Kearns,0,0
+854,691,Get this feather into the bath,88,Dara Ó Briain,1,0
+855,691,Get this feather into the bath,89,Fern Brady,1,0
+856,691,Get this feather into the bath,90,John Kearns,1,0
+857,692,Hit Bernard with an exercise ball,90,John Kearns,0,0
+858,693,Blow an item onto The Knappett,88,Dara Ó Briain,0,1
+859,693,Blow an item onto The Knappett,89,Fern Brady,0,1
+860,693,Blow an item onto The Knappett,91,Munya Chawawa,0,1
+861,693,Blow an item onto The Knappett,92,Sarah Millican,0,1
+862,694,The best fancy dress,89,Fern Brady,0,0
+863,695,Communicate an instruction in a secret language,91,Munya Chawawa,1,0
+864,695,Communicate an instruction in a secret language,92,Sarah Millican,1,0
+865,696,Pin an alluring tail on the alluring animal,91,Munya Chawawa,0,0
+866,697,Find the back of your hand,91,Munya Chawawa,0,0
+867,697,Find the back of your hand,92,Sarah Millican,0,0
+868,698,Guess the length of the extendible item,91,Munya Chawawa,1,1
+869,698,Guess the length of the extendible item,92,Sarah Millican,1,1
+870,699,The most underestimated item,88,Dara Ó Briain,0,0
+871,699,The most underestimated item,89,Fern Brady,0,0
+872,699,The most underestimated item,92,Sarah Millican,0,0
+873,700,"Snort, raspberry, whistle",91,Munya Chawawa,0,0
+874,701,"Write a one-minute, one-person play",89,Fern Brady,0,0
+875,701,"Write a one-minute, one-person play",90,John Kearns,0,0
+876,701,"Write a one-minute, one-person play",92,Sarah Millican,0,0
+877,702,"Perform a one-minute, one-person play",88,Dara Ó Briain,0,0
+878,702,"Perform a one-minute, one-person play",89,Fern Brady,0,0
+879,703,Paint a self portrait with a selected brush on a selected canvas,89,Fern Brady,0,0
+880,704,Get your towel in your bucket,88,Dara Ó Briain,0,1
+881,705,The thing the Taskmaster would most like to own,90,John Kearns,0,0
+882,707,Eat the grape,88,Dara Ó Briain,0,0
+883,708,Sculpt your team,91,Munya Chawawa,1,0
+884,708,Sculpt your team,92,Sarah Millican,1,0
+885,709,"Throw an object, hide an object, and place it on the barrel",88,Dara Ó Briain,0,0
+886,710,Land a balloon near the Taskmaster,88,Dara Ó Briain,0,1
+887,711,The most surprising thing you own,96,Mo Farah,0,0
+888,712,Count all the dots,95,Greg James,0,0
+889,713,Recreate the picture from a massage chair,95,Greg James,0,0
+890,713,Recreate the picture from a massage chair,97,Rebecca Lucy Taylor,0,0
+891,714,Collect carp pellets in a fish bowl,96,Mo Farah,0,0
+892,715,Obey Greg's instructions,93,Amelia Demoldenberg,0,1
+893,715,Obey Greg's instructions,96,Mo Farah,0,1
+894,716,The most dependable thing that weighs about 1kg,102,Mae Martin,0,0
+895,717,Have the best first wedding dance with Alex,101,Kiell Smith-Bynoe,0,0
+896,718,Put a ball of string on the cushion,102,Mae Martin,0,0
+897,719,Get all the rubber rings on your bargepole,102,Mae Martin,0,0
+898,720,Throw your items into your bucket,98,Frankie Boyle,0,1
+899,720,Throw your items into your bucket,100,Jenny Eclair,0,1
+900,721,The object which makes you feel weirdest when you look at it,101,Kiell Smith-Bynoe,0,0
+901,722,Compose and perform a musical solo,99,Ivo Graham,0,0
+902,722,Compose and perform a musical solo,100,Jenny Eclair,0,0
+903,722,Compose and perform a musical solo,101,Kiell Smith-Bynoe,0,0
+904,723,Build a bridge over the red green for this potato,98,Frankie Boyle,1,0
+905,723,Build a bridge over the red green for this potato,99,Ivo Graham,1,0
+906,724,Achieve an impressive effect with a single breath,102,Mae Martin,0,0
+907,725,Create a picture of an animal on the back of your T-shirt,100,Jenny Eclair,0,1
+908,726,The most heroic thing,100,Jenny Eclair,0,0
+909,727,Exit the caravan after exactly 20 minutes,99,Ivo Graham,0,0
+910,728,Catch the potatoes in the potato hat,102,Mae Martin,0,0
+911,729,Perform a slow-motion fight scene,98,Frankie Boyle,1,0
+912,729,Perform a slow-motion fight scene,99,Ivo Graham,1,0
+913,730,Know the most facts about sausages,99,Ivo Graham,0,1
+914,731,The most fun non-headwear to wear on your head,98,Frankie Boyle,0,0
+915,732,Strike the most drums with a bouncy ball,102,Mae Martin,0,0
+916,733,Make the fastest egg boat,101,Kiell Smith-Bynoe,0,0
+917,734,Task bingo,100,Jenny Eclair,0,0
+918,736,The luckiest thing,101,Kiell Smith-Bynoe,0,0
+919,737,Fake something,98,Frankie Boyle,0,0
+920,738,Musical Simon Says,98,Frankie Boyle,0,0
+921,738,Musical Simon Says,102,Mae Martin,0,0
+922,739,Salvage the most spoons,100,Jenny Eclair,1,0
+923,739,Salvage the most spoons,101,Kiell Smith-Bynoe,1,0
+924,739,Salvage the most spoons,102,Mae Martin,1,0
+925,740,Stuff your team-mate's waders,100,Jenny Eclair,1,1
+926,740,Stuff your team-mate's waders,101,Kiell Smith-Bynoe,1,1
+927,740,Stuff your team-mate's waders,102,Mae Martin,1,1
+928,741,The best thing to play about with in your bathroom,98,Frankie Boyle,0,0
+929,742,Perform a poignant domestic scene with an imaginary companion,98,Frankie Boyle,0,0
+930,743,Efficiently shell an egg,102,Mae Martin,0,0
+931,744,Bash the big bell with the bowling ball,102,Mae Martin,0,0
+932,745,Story-time chairs,102,Mae Martin,0,1
+933,746,The most brilliant thing that pops up,98,Frankie Boyle,0,0
+934,747,Rotate the pulper wheel without pulping the egg,99,Ivo Graham,0,0
+935,748,Free yourselves and have a team hug,100,Jenny Eclair,1,0
+936,748,Free yourselves and have a team hug,101,Kiell Smith-Bynoe,1,0
+937,748,Free yourselves and have a team hug,102,Mae Martin,1,0
+938,749,Set the parameters for your own task,101,Kiell Smith-Bynoe,0,0
+939,750,Imitate accents/walks,98,Frankie Boyle,0,1
+940,750,Imitate accents/walks,101,Kiell Smith-Bynoe,0,1
+941,750,Imitate accents/walks,102,Mae Martin,0,1
+942,751,"The thing you take everywhere with you, but struggle to fit in your bag",100,Jenny Eclair,0,0
+943,752,Pile the pineapples on the path,102,Mae Martin,0,0
+944,753,Repurpose an umbrella,101,Kiell Smith-Bynoe,0,0
+945,754,Put the most stuff on top of a jelly,98,Frankie Boyle,0,0
+946,755,Use the scratching post to remove balls from your suit,100,Jenny Eclair,1,1
+947,755,Use the scratching post to remove balls from your suit,101,Kiell Smith-Bynoe,1,1
+948,755,Use the scratching post to remove balls from your suit,102,Mae Martin,1,1
+949,756,The sneakiest thing,101,Kiell Smith-Bynoe,0,0
+950,757,Make these things the same colour,98,Frankie Boyle,1,0
+951,757,Make these things the same colour,99,Ivo Graham,1,0
+952,757,Make these things the same colour,100,Jenny Eclair,1,0
+953,757,Make these things the same colour,101,Kiell Smith-Bynoe,1,0
+954,757,Make these things the same colour,102,Mae Martin,1,0
+955,758,Deliver a one-minute history lecture,99,Ivo Graham,0,0
+956,759,Make exactly 99 holes in the piece of paper,98,Frankie Boyle,0,0
+957,760,Estimate the heights of things,101,Kiell Smith-Bynoe,0,1
+958,761,The best Greg Davies merchandise,102,Mae Martin,0,0
+959,762,Fill the glass up to the line,102,Mae Martin,0,0
+960,763,Do what Alex does,98,Frankie Boyle,0,0
+961,764,Perform a lullaby for a profession,100,Jenny Eclair,1,0
+962,764,Perform a lullaby for a profession,101,Kiell Smith-Bynoe,1,0
+963,764,Perform a lullaby for a profession,102,Mae Martin,1,0
+964,765,"Standing in ice, or not standing in ice?",100,Jenny Eclair,0,1
+965,766,Scream with your mouth closed,100,Jenny Eclair,0,0
+966,767,The most wonderful wooden thing you’ve owned for a while,103,Julian Clary,0,0
+967,768,Build a tower of cans in the lab,105,Sam Campbell,0,0
+968,769,Cross the finish line while connected to your team,103,Julian Clary,1,0
+969,769,Cross the finish line while connected to your team,104,Lucy Beaumont,1,0
+970,769,Cross the finish line while connected to your team,105,Sam Campbell,1,0
+971,770,Get the duck into the lake,107,Susan Wokoma,0,0
+972,771,Heavier or lighter?,103,Julian Clary,0,1
+973,771,Heavier or lighter?,104,Lucy Beaumont,0,1
+974,771,Heavier or lighter?,105,Sam Campbell,0,1
+975,772,The best sign,106,Sue Perkins,0,0
+976,773,Pull the sword from the stone,103,Julian Clary,0,0
+977,774,Make a cheeky picture using nails and wire,105,Sam Campbell,0,0
+978,774,Make a cheeky picture using nails and wire,106,Sue Perkins,0,0
+979,775,Make mischief,107,Susan Wokoma,0,0
+980,776,Draw something you like and something you dislike,103,Julian Clary,0,1
+981,777,Recite pi,106,Sue Perkins,0,0
+982,778,The present that raises the most questions,105,Sam Campbell,0,0
+983,779,Get the ball in the hole without touching it,103,Julian Clary,0,0
+984,780,Get underneath the most unique things,105,Sam Campbell,0,0
+985,781,Choose a new nickname,105,Sam Campbell,0,0
+986,782,Human war boats,103,Julian Clary,1,1
+987,782,Human war boats,104,Lucy Beaumont,1,1
+988,782,Human war boats,105,Sam Campbell,1,1
+989,783,The best thing for a grown-up that is meant for a child,104,Lucy Beaumont,0,0
+990,784,Make a surprisingly pleasant sausage,106,Sue Perkins,0,0
+991,785,Complete all the tasks as a team,103,Julian Clary,1,0
+992,785,Complete all the tasks as a team,104,Lucy Beaumont,1,0
+993,785,Complete all the tasks as a team,105,Sam Campbell,1,0
+994,786,Recreate a well-known piece of art on 100 memo squares,105,Sam Campbell,0,0
+995,786,Recreate a well-known piece of art on 100 memo squares,106,Sue Perkins,0,0
+996,787,Roll your animal die,105,Sam Campbell,0,1
+997,788,Tut the loudest,106,Sue Perkins,0,0
+998,789,The best thing that has five things on it,107,Susan Wokoma,0,0
+999,790,Burst the balloon without looking at it,106,Sue Perkins,0,0
+1000,791,Make a cool but scary googly-eyed gang,105,Sam Campbell,0,0
+1001,793,Retrieve and sip your drink,103,Julian Clary,0,1
+1002,794,The greatest thing that makes quite a loud noise when you shake it,105,Sam Campbell,0,0
+1003,795,Avoid the rubbish robots,104,Lucy Beaumont,0,0
+1004,796,Recreate the garage scene in the lab,103,Julian Clary,1,0
+1005,796,Recreate the garage scene in the lab,104,Lucy Beaumont,1,0
+1006,796,Recreate the garage scene in the lab,105,Sam Campbell,1,0
+1007,796,Recreate the garage scene in the lab,106,Sue Perkins,1,0
+1008,796,Recreate the garage scene in the lab,107,Susan Wokoma,1,0
+1009,797,"Present a powerful piece called ""Heads, Shoulders, Knees and Toes""",104,Lucy Beaumont,0,0
+1010,797,"Present a powerful piece called ""Heads, Shoulders, Knees and Toes""",105,Sam Campbell,0,0
+1011,798,Pineapple bluff,107,Susan Wokoma,0,1
+1012,799,The thing most guaranteed to make you groan,106,Sue Perkins,0,0
+1013,800,Play with these switches / Balance the most golf tees,104,Lucy Beaumont,0,0
+1014,801,Pie the air dancer in the face,107,Susan Wokoma,0,0
+1015,802,Place your cardboard replica within the boundary,105,Sam Campbell,0,0
+1016,803,Get three balls on your hat using litter-pickers,103,Julian Clary,0,1
+1017,804,Pop your party popper the furthest,104,Lucy Beaumont,0,1
+1018,805,The best single-word object you own and love that gets the best reaction when introduced following a drum roll,106,Sue Perkins,0,0
+1019,806,Find the secret task,105,Sam Campbell,0,0
+1020,807,Complete the fortune trail,103,Julian Clary,0,0
+1021,808,Convince a child you're asleep,105,Sam Campbell,0,0
+1022,808,Convince a child you're asleep,107,Susan Wokoma,0,0
+1023,809,Mime the proverbs,106,Sue Perkins,1,1
+1024,809,Mime the proverbs,107,Susan Wokoma,1,1

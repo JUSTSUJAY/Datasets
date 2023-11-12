@@ -1,0 +1,2018 @@
+id,task,task_label,contestant,contestant_label,measurement,objective,objective_label
+1,2,Eat as much watermelon as possible,3,Frank Skinner,179.0,1,grams ▲
+2,2,Eat as much watermelon as possible,4,Josh Widdicombe,218.0,1,grams ▲
+3,2,Eat as much watermelon as possible,5,Roisin Conaty,9.0,1,grams ▲
+4,2,Eat as much watermelon as possible,6,Romesh Ranganathan,301.0,1,grams ▲
+5,2,Eat as much watermelon as possible,7,Tim Key,293.0,1,grams ▲
+6,4,Empty the bathtub,3,Frank Skinner,462.0,2,time ▼
+7,4,Empty the bathtub,4,Josh Widdicombe,532.0,2,time ▼
+8,4,Empty the bathtub,5,Roisin Conaty,570.0,2,time ▼
+9,4,Empty the bathtub,6,Romesh Ranganathan,170.0,2,time ▼
+10,4,Empty the bathtub,7,Tim Key,140.0,2,time ▼
+11,6,Find Alex,3,Frank Skinner,110.0,2,time ▼
+12,6,Find Alex,6,Romesh Ranganathan,147.0,2,time ▼
+13,8,High-five a 55-year-old,3,Frank Skinner,764.0,2,time ▼
+14,8,High-five a 55-year-old,4,Josh Widdicombe,198.0,2,time ▼
+15,8,High-five a 55-year-old,5,Roisin Conaty,372.0,2,time ▼
+16,8,High-five a 55-year-old,6,Romesh Ranganathan,3600.0,2,time ▼
+17,8,High-five a 55-year-old,7,Tim Key,269.0,2,time ▼
+18,9,Identify the contents of the pies,3,Frank Skinner,1.0,3,pies ▲
+19,9,Identify the contents of the pies,4,Josh Widdicombe,3.0,3,pies ▲
+20,9,Identify the contents of the pies,5,Roisin Conaty,1.0,3,pies ▲
+21,9,Identify the contents of the pies,6,Romesh Ranganathan,3.0,3,pies ▲
+22,9,Identify the contents of the pies,7,Tim Key,4.0,3,pies ▲
+23,13,Throw a teabag into a mug,3,Frank Skinner,10.04,4,meters ▲
+24,13,Throw a teabag into a mug,4,Josh Widdicombe,15.1,4,meters ▲
+25,13,Throw a teabag into a mug,5,Roisin Conaty,2.4,4,meters ▲
+26,13,Throw a teabag into a mug,6,Romesh Ranganathan,8.5,4,meters ▲
+27,13,Throw a teabag into a mug,7,Tim Key,23.87,4,meters ▲
+28,16,Get an egg as high as possible,3,Frank Skinner,,4,meters ▲
+29,16,Get an egg as high as possible,4,Josh Widdicombe,6.8,4,meters ▲
+30,16,Get an egg as high as possible,5,Roisin Conaty,,4,meters ▲
+31,16,Get an egg as high as possible,6,Romesh Ranganathan,1.11,4,meters ▲
+32,16,Get an egg as high as possible,7,Tim Key,,4,meters ▲
+33,17,Stand up after 100 seconds,3,Frank Skinner,?,5,difference in seconds ▼
+34,17,Stand up after 100 seconds,4,Josh Widdicombe,5.0,5,difference in seconds ▼
+35,17,Stand up after 100 seconds,5,Roisin Conaty,?,5,difference in seconds ▼
+36,17,Stand up after 100 seconds,6,Romesh Ranganathan,12.0,5,difference in seconds ▼
+37,17,Stand up after 100 seconds,7,Tim Key,12.0,5,difference in seconds ▼
+38,18,Guess Frank’s age in minutes,4,Josh Widdicombe,30305028.0,6,difference in minutes ▼
+39,18,Guess Frank’s age in minutes,6,Romesh Ranganathan,30355028.0,6,difference in minutes ▼
+40,20,Make a block of ice disappear,3,Frank Skinner,1648.0,2,time ▼
+41,20,Make a block of ice disappear,4,Josh Widdicombe,1024.0,2,time ▼
+42,20,Make a block of ice disappear,5,Roisin Conaty,1820.0,2,time ▼
+43,20,Make a block of ice disappear,6,Romesh Ranganathan,2850.0,2,time ▼
+44,20,Make a block of ice disappear,7,Tim Key,820.0,2,time ▼
+45,23,Score 11 points,3,Frank Skinner,1081.0,2,time ▼
+46,23,Score 11 points,4,Josh Widdicombe,672.0,2,time ▼
+47,23,Score 11 points,5,Roisin Conaty,672.0,2,time ▼
+48,23,Score 11 points,6,Romesh Ranganathan,672.0,2,time ▼
+49,23,Score 11 points,7,Tim Key,1081.0,2,time ▼
+50,24,Fill an eggcup with tears,3,Frank Skinner,12.0,7,tears ▲
+51,24,Fill an eggcup with tears,4,Josh Widdicombe,7.0,7,tears ▲
+52,24,Fill an eggcup with tears,5,Roisin Conaty,0.0,7,tears ▲
+53,24,Fill an eggcup with tears,6,Romesh Ranganathan,10.0,7,tears ▲
+54,24,Fill an eggcup with tears,7,Tim Key,0.0,7,tears ▲
+55,26,Memorise an Australian Rules Football team,3,Frank Skinner,1.0,8,names ▲
+56,26,Memorise an Australian Rules Football team,4,Josh Widdicombe,1.0,8,names ▲
+57,26,Memorise an Australian Rules Football team,5,Roisin Conaty,1.0,8,names ▲
+58,26,Memorise an Australian Rules Football team,6,Romesh Ranganathan,1.0,8,names ▲
+59,26,Memorise an Australian Rules Football team,7,Tim Key,1.0,8,names ▲
+60,28,Move the boulder as far as possible,3,Frank Skinner,6.5,9,miles ▲
+61,28,Move the boulder as far as possible,4,Josh Widdicombe,14.7,9,miles ▲
+62,28,Move the boulder as far as possible,5,Roisin Conaty,0.17,9,miles ▲
+63,28,Move the boulder as far as possible,6,Romesh Ranganathan,1.75,9,miles ▲
+64,28,Move the boulder as far as possible,7,Tim Key,2.3,9,miles ▲
+65,29,Grow the longest nail,3,Frank Skinner,2.1,10,centimeters ▲
+66,29,Grow the longest nail,4,Josh Widdicombe,2.8,10,centimeters ▲
+67,29,Grow the longest nail,5,Roisin Conaty,1.8,10,centimeters ▲
+68,29,Grow the longest nail,6,Romesh Ranganathan,2.2,10,centimeters ▲
+69,29,Grow the longest nail,7,Tim Key,0.0,10,centimeters ▲
+70,30,Make a bed while holding hands,3,Frank Skinner,657.0,2,time ▼
+71,30,Make a bed while holding hands,4,Josh Widdicombe,963.0,2,time ▼
+72,30,Make a bed while holding hands,5,Roisin Conaty,963.0,2,time ▼
+73,30,Make a bed while holding hands,6,Romesh Ranganathan,963.0,2,time ▼
+74,30,Make a bed while holding hands,7,Tim Key,657.0,2,time ▼
+75,31,Make a Swedish person blush,3,Frank Skinner,26.0,11,blush depth in ticks ▲
+76,31,Make a Swedish person blush,4,Josh Widdicombe,10.0,11,blush depth in ticks ▲
+77,31,Make a Swedish person blush,5,Roisin Conaty,46.0,11,blush depth in ticks ▲
+78,31,Make a Swedish person blush,6,Romesh Ranganathan,33.0,11,blush depth in ticks ▲
+79,31,Make a Swedish person blush,7,Tim Key,19.0,11,blush depth in ticks ▲
+80,34,Play mini golf with eggs,3,Frank Skinner,32.0,12,shots ▼
+81,34,Play mini golf with eggs,3,Frank Skinner,5.0,13,eggs ▼
+82,34,Play mini golf with eggs,3,Frank Skinner,6.85,14,minutes ▼
+83,34,Play mini golf with eggs,3,Frank Skinner,1096.0,15,points ▼
+84,34,Play mini golf with eggs,4,Josh Widdicombe,42.0,12,shots ▼
+85,34,Play mini golf with eggs,4,Josh Widdicombe,7.0,13,eggs ▼
+86,34,Play mini golf with eggs,4,Josh Widdicombe,21.0,14,minutes ▼
+87,34,Play mini golf with eggs,4,Josh Widdicombe,6174.0,15,points ▼
+88,34,Play mini golf with eggs,5,Roisin Conaty,40.0,12,shots ▼
+89,34,Play mini golf with eggs,5,Roisin Conaty,6.0,13,eggs ▼
+90,34,Play mini golf with eggs,5,Roisin Conaty,4.167,14,minutes ▼
+91,34,Play mini golf with eggs,5,Roisin Conaty,1000.0,15,points ▼
+92,34,Play mini golf with eggs,6,Romesh Ranganathan,68.0,12,shots ▼
+93,34,Play mini golf with eggs,6,Romesh Ranganathan,36.0,13,eggs ▼
+94,34,Play mini golf with eggs,6,Romesh Ranganathan,14.333,14,minutes ▼
+95,34,Play mini golf with eggs,6,Romesh Ranganathan,35088.0,15,points ▼
+96,34,Play mini golf with eggs,7,Tim Key,39.0,12,shots ▼
+97,34,Play mini golf with eggs,7,Tim Key,3.0,13,eggs ▼
+98,34,Play mini golf with eggs,7,Tim Key,10.0,14,minutes ▼
+99,34,Play mini golf with eggs,7,Tim Key,1170.0,15,points ▼
+100,37,Separate the blue sweets,3,Frank Skinner,11.0,16,blue sweets ▲
+101,37,Separate the blue sweets,4,Josh Widdicombe,10.0,16,blue sweets ▲
+102,37,Separate the blue sweets,5,Roisin Conaty,-2143.0,16,blue sweets ▲
+103,37,Separate the blue sweets,6,Romesh Ranganathan,12.0,16,blue sweets ▲
+104,37,Separate the blue sweets,7,Tim Key,21.0,16,blue sweets ▲
+105,39,Place the exercise balls on the yoga mat,8,Doc Brown,745.0,2,time ▼
+106,39,Place the exercise balls on the yoga mat,9,Joe Wilkinson,541.0,2,time ▼
+107,39,Place the exercise balls on the yoga mat,10,Jon Richardson,397.0,2,time ▼
+108,39,Place the exercise balls on the yoga mat,11,Katherine Ryan,456.0,2,time ▼
+109,39,Place the exercise balls on the yoga mat,12,Richard Osman,?,2,time ▼
+110,40,Get the potato into the hole,8,Doc Brown,419.0,2,time ▼
+111,40,Get the potato into the hole,9,Joe Wilkinson,14.3,2,time ▼
+112,40,Get the potato into the hole,10,Jon Richardson,69.0,2,time ▼
+113,40,Get the potato into the hole,11,Katherine Ryan,388.0,2,time ▼
+114,40,Get the potato into the hole,12,Richard Osman,133.0,2,time ▼
+115,41,Find out about the Swedish person,8,Doc Brown,600.0,2,time ▼
+116,41,Find out about the Swedish person,8,Doc Brown,3.0,17,Fred facts ▲
+117,41,Find out about the Swedish person,9,Joe Wilkinson,980.0,2,time ▼
+118,41,Find out about the Swedish person,9,Joe Wilkinson,0.0,17,Fred facts ▲
+119,41,Find out about the Swedish person,10,Jon Richardson,926.0,2,time ▼
+120,41,Find out about the Swedish person,10,Jon Richardson,5.0,17,Fred facts ▲
+121,41,Find out about the Swedish person,11,Katherine Ryan,941.0,2,time ▼
+122,41,Find out about the Swedish person,11,Katherine Ryan,6.0,17,Fred facts ▲
+123,41,Find out about the Swedish person,12,Richard Osman,1020.0,2,time ▼
+124,41,Find out about the Swedish person,12,Richard Osman,6.0,17,Fred facts ▲
+125,42,Pack a suitcase,8,Doc Brown,,2,time ▼
+126,42,Pack a suitcase,9,Joe Wilkinson,,2,time ▼
+127,42,Pack a suitcase,10,Jon Richardson,124.0,2,time ▼
+128,42,Pack a suitcase,11,Katherine Ryan,154.0,2,time ▼
+129,42,Pack a suitcase,12,Richard Osman,78.0,2,time ▼
+130,44,Quickly eat an egg,8,Doc Brown,215.0,2,time ▼
+131,44,Quickly eat an egg,9,Joe Wilkinson,646.0,2,time ▼
+132,44,Quickly eat an egg,10,Jon Richardson,312.0,2,time ▼
+133,44,Quickly eat an egg,11,Katherine Ryan,,2,time ▼
+134,44,Quickly eat an egg,12,Richard Osman,?,2,time ▼
+135,47,Order a pizza without using certain words,8,Doc Brown,4.0,18,mistakes ▼
+136,47,Order a pizza without using certain words,9,Joe Wilkinson,1.0,18,mistakes ▼
+137,47,Order a pizza without using certain words,10,Jon Richardson,2.0,18,mistakes ▼
+138,47,Order a pizza without using certain words,11,Katherine Ryan,1.0,18,mistakes ▼
+139,47,Order a pizza without using certain words,12,Richard Osman,0.0,18,mistakes ▼
+140,48,Put potatoes in a basket,8,Doc Brown,0.0,19,potatoes ▲
+141,48,Put potatoes in a basket,9,Joe Wilkinson,0.0,19,potatoes ▲
+142,48,Put potatoes in a basket,10,Jon Richardson,11.0,19,potatoes ▲
+143,48,Put potatoes in a basket,11,Katherine Ryan,5.0,19,potatoes ▲
+144,48,Put potatoes in a basket,12,Richard Osman,,19,potatoes ▲
+145,50,Impress the Mayor,8,Doc Brown,7.0,20,mayor's rating ▲
+146,50,Impress the Mayor,9,Joe Wilkinson,7.0,20,mayor's rating ▲
+147,50,Impress the Mayor,10,Jon Richardson,5.0,20,mayor's rating ▲
+148,50,Impress the Mayor,11,Katherine Ryan,8.0,20,mayor's rating ▲
+149,50,Impress the Mayor,12,Richard Osman,8.0,20,mayor's rating ▲
+150,53,"See no potato, hear no potato, speak no potato",8,Doc Brown,349.0,2,time ▼
+151,53,"See no potato, hear no potato, speak no potato",9,Joe Wilkinson,349.0,2,time ▼
+152,53,"See no potato, hear no potato, speak no potato",10,Jon Richardson,299.0,2,time ▼
+153,53,"See no potato, hear no potato, speak no potato",11,Katherine Ryan,349.0,2,time ▼
+154,53,"See no potato, hear no potato, speak no potato",12,Richard Osman,299.0,2,time ▼
+155,54,Throw rabbits into a hat,8,Doc Brown,12.0,21,behatted rabbits ▲
+156,54,Throw rabbits into a hat,9,Joe Wilkinson,12.0,21,behatted rabbits ▲
+157,54,Throw rabbits into a hat,10,Jon Richardson,4.0,21,behatted rabbits ▲
+158,54,Throw rabbits into a hat,11,Katherine Ryan,15.0,21,behatted rabbits ▲
+159,54,Throw rabbits into a hat,12,Richard Osman,7.0,21,behatted rabbits ▲
+160,57,Conceal a pineapple on your person,8,Doc Brown,5.0,22,wrong guesses ▲
+161,57,Conceal a pineapple on your person,9,Joe Wilkinson,?,22,wrong guesses ▲
+162,57,Conceal a pineapple on your person,10,Jon Richardson,20.0,22,wrong guesses ▲
+163,57,Conceal a pineapple on your person,11,Katherine Ryan,14.0,22,wrong guesses ▲
+164,57,Conceal a pineapple on your person,12,Richard Osman,8.0,22,wrong guesses ▲
+165,58,Set a task / Guess who set the tasks,10,Jon Richardson,4.0,23,guessed tasks ▲
+166,62,Move items across a stream,8,Doc Brown,264.0,2,time ▼
+167,62,Move items across a stream,9,Joe Wilkinson,112.0,2,time ▼
+168,62,Move items across a stream,10,Jon Richardson,194.0,2,time ▼
+169,62,Move items across a stream,11,Katherine Ryan,164.0,2,time ▼
+170,62,Move items across a stream,12,Richard Osman,119.0,2,time ▼
+171,64,Build a bridge for the potato,8,Doc Brown,10.0,10,centimeters ▲
+172,64,Build a bridge for the potato,9,Joe Wilkinson,9.0,10,centimeters ▲
+173,64,Build a bridge for the potato,10,Jon Richardson,11.4,10,centimeters ▲
+174,64,Build a bridge for the potato,11,Katherine Ryan,0.1,10,centimeters ▲
+175,64,Build a bridge for the potato,12,Richard Osman,8.0,10,centimeters ▲
+176,65,"Put on gloves, eat a banana, put on a tie, and clap",8,Doc Brown,237.0,24,claps ▲
+177,65,"Put on gloves, eat a banana, put on a tie, and clap",9,Joe Wilkinson,234.0,24,claps ▲
+178,65,"Put on gloves, eat a banana, put on a tie, and clap",10,Jon Richardson,192.0,24,claps ▲
+179,65,"Put on gloves, eat a banana, put on a tie, and clap",11,Katherine Ryan,221.0,24,claps ▲
+180,65,"Put on gloves, eat a banana, put on a tie, and clap",12,Richard Osman,249.0,24,claps ▲
+181,67,Reach the microwave in the fewest steps,13,Al Murray,8.0,25,steps ▼
+182,67,Reach the microwave in the fewest steps,14,Dave Gorman,50.0,25,steps ▼
+183,67,Reach the microwave in the fewest steps,15,Paul Chowdhry,125.0,25,steps ▼
+184,67,Reach the microwave in the fewest steps,16,Rob Beckett,4.0,25,steps ▼
+185,67,Reach the microwave in the fewest steps,17,Sara Pascoe,27.0,25,steps ▼
+186,68,Propel a pea along a red carpet,13,Al Murray,28968.0,4,meters ▲
+187,68,Propel a pea along a red carpet,14,Dave Gorman,,4,meters ▲
+188,68,Propel a pea along a red carpet,15,Paul Chowdhry,,4,meters ▲
+189,68,Propel a pea along a red carpet,16,Rob Beckett,414.53,4,meters ▲
+190,68,Propel a pea along a red carpet,17,Sara Pascoe,18.27,4,meters ▲
+191,70,Balance swedes on a Swede,13,Al Murray,15.0,26,balanced swedes ▲
+192,70,Balance swedes on a Swede,14,Dave Gorman,11.0,26,balanced swedes ▲
+193,70,Balance swedes on a Swede,15,Paul Chowdhry,14.0,26,balanced swedes ▲
+194,70,Balance swedes on a Swede,16,Rob Beckett,8.0,26,balanced swedes ▲
+195,70,Balance swedes on a Swede,17,Sara Pascoe,8.0,26,balanced swedes ▲
+196,71,The heaviest shoebox-sized item,13,Al Murray,0.9,27,kilograms ▲
+197,71,The heaviest shoebox-sized item,14,Dave Gorman,27.3,27,kilograms ▲
+198,71,The heaviest shoebox-sized item,15,Paul Chowdhry,3.6,27,kilograms ▲
+199,71,The heaviest shoebox-sized item,16,Rob Beckett,9.3,27,kilograms ▲
+200,71,The heaviest shoebox-sized item,17,Sara Pascoe,?,27,kilograms ▲
+201,73,Release Alex,13,Al Murray,1657.0,2,time ▼
+202,73,Release Alex,14,Dave Gorman,1657.0,2,time ▼
+203,73,Release Alex,15,Paul Chowdhry,1657.0,2,time ▼
+204,73,Release Alex,16,Rob Beckett,1006.0,2,time ▼
+205,73,Release Alex,17,Sara Pascoe,1006.0,2,time ▼
+206,75,Burst all of the balloons,13,Al Murray,,2,time ▼
+207,75,Burst all of the balloons,14,Dave Gorman,110.0,2,time ▼
+208,75,Burst all of the balloons,15,Paul Chowdhry,86.0,2,time ▼
+209,75,Burst all of the balloons,16,Rob Beckett,31.6,2,time ▼
+210,75,Burst all of the balloons,17,Sara Pascoe,118.0,2,time ▼
+211,76,Unravel the tape,13,Al Murray,55.0,2,time ▼
+212,76,Unravel the tape,14,Dave Gorman,74.0,2,time ▼
+213,76,Unravel the tape,15,Paul Chowdhry,72.0,2,time ▼
+214,76,Unravel the tape,16,Rob Beckett,,2,time ▼
+215,76,Unravel the tape,17,Sara Pascoe,106.0,2,time ▼
+216,78,Fill an eggcup with sweat,13,Al Murray,,28,sweatdrops ▲
+217,78,Fill an eggcup with sweat,14,Dave Gorman,5.0,28,sweatdrops ▲
+218,78,Fill an eggcup with sweat,15,Paul Chowdhry,12.0,28,sweatdrops ▲
+219,78,Fill an eggcup with sweat,16,Rob Beckett,0.0,28,sweatdrops ▲
+220,78,Fill an eggcup with sweat,17,Sara Pascoe,8.0,28,sweatdrops ▲
+221,82,Anchor balloons using bread,13,Al Murray,2.0,29,anchored balloons ▲
+222,82,Anchor balloons using bread,14,Dave Gorman,6.0,29,anchored balloons ▲
+223,82,Anchor balloons using bread,15,Paul Chowdhry,3.0,29,anchored balloons ▲
+224,82,Anchor balloons using bread,16,Rob Beckett,7.0,29,anchored balloons ▲
+225,82,Anchor balloons using bread,17,Sara Pascoe,10.0,29,anchored balloons ▲
+226,84,Spread your clothes far and wide,13,Al Murray,6.2,30,square miles ▲
+227,84,Spread your clothes far and wide,14,Dave Gorman,0.3,30,square miles ▲
+228,84,Spread your clothes far and wide,15,Paul Chowdhry,0.0001,30,square miles ▲
+229,84,Spread your clothes far and wide,16,Rob Beckett,2.7,30,square miles ▲
+230,84,Spread your clothes far and wide,17,Sara Pascoe,0.02,30,square miles ▲
+231,85,Find out the lying old man’s occupation,13,Al Murray,128.0,2,time ▼
+232,85,Find out the lying old man’s occupation,14,Dave Gorman,261.0,2,time ▼
+233,85,Find out the lying old man’s occupation,15,Paul Chowdhry,2527.0,2,time ▼
+234,85,Find out the lying old man’s occupation,16,Rob Beckett,605.0,2,time ▼
+235,85,Find out the lying old man’s occupation,17,Sara Pascoe,511.0,2,time ▼
+236,87,Cover yourself in sticky notes,13,Al Murray,31.0,31,sticky notes ▲
+237,87,Cover yourself in sticky notes,14,Dave Gorman,40.0,31,sticky notes ▲
+238,87,Cover yourself in sticky notes,15,Paul Chowdhry,29.0,31,sticky notes ▲
+239,87,Cover yourself in sticky notes,16,Rob Beckett,45.0,31,sticky notes ▲
+240,87,Cover yourself in sticky notes,17,Sara Pascoe,33.0,31,sticky notes ▲
+241,90,Move water from one bucket to another,13,Al Murray,11.0,10,centimeters ▲
+242,90,Move water from one bucket to another,14,Dave Gorman,,10,centimeters ▲
+243,90,Move water from one bucket to another,15,Paul Chowdhry,4.0,10,centimeters ▲
+244,90,Move water from one bucket to another,16,Rob Beckett,6.6,10,centimeters ▲
+245,90,Move water from one bucket to another,17,Sara Pascoe,0.8,10,centimeters ▲
+246,91,Play charades across a river,13,Al Murray,19.0,32,correct answers ▲
+247,91,Play charades across a river,14,Dave Gorman,19.0,32,correct answers ▲
+248,91,Play charades across a river,15,Paul Chowdhry,19.0,32,correct answers ▲
+249,91,Play charades across a river,16,Rob Beckett,7.0,32,correct answers ▲
+250,91,Play charades across a river,17,Sara Pascoe,7.0,32,correct answers ▲
+251,93,The lowest unique number of doughnuts,13,Al Murray,1.0,33,doughnuts ▼
+252,93,The lowest unique number of doughnuts,14,Dave Gorman,1.0,33,doughnuts ▼
+253,93,The lowest unique number of doughnuts,15,Paul Chowdhry,5.0,33,doughnuts ▼
+254,93,The lowest unique number of doughnuts,16,Rob Beckett,2.0,33,doughnuts ▼
+255,93,The lowest unique number of doughnuts,17,Sara Pascoe,3.0,33,doughnuts ▼
+256,97,Fell all the ducks,18,Hugh Dennis,8.9,2,time ▼
+257,97,Fell all the ducks,19,Joe Lycett,116.0,2,time ▼
+258,97,Fell all the ducks,20,Lolly Adefope,62.0,2,time ▼
+259,97,Fell all the ducks,21,Mel Giedroyc,445.0,2,time ▼
+260,97,Fell all the ducks,22,Noel Fielding,290.0,2,time ▼
+261,98,Make the most fruit juice,18,Hugh Dennis,4.0,34,milliliters ▲
+262,98,Make the most fruit juice,19,Joe Lycett,3.0,34,milliliters ▲
+263,98,Make the most fruit juice,20,Lolly Adefope,0.4,34,milliliters ▲
+264,98,Make the most fruit juice,21,Mel Giedroyc,7.0,34,milliliters ▲
+265,98,Make the most fruit juice,22,Noel Fielding,2.0,34,milliliters ▲
+266,100,Keep the basketball on the treadmill,18,Hugh Dennis,10368000.0,35,time ▲
+267,100,Keep the basketball on the treadmill,19,Joe Lycett,3.8,35,time ▲
+268,100,Keep the basketball on the treadmill,20,Lolly Adefope,15.8,35,time ▲
+269,100,Keep the basketball on the treadmill,21,Mel Giedroyc,9.0,35,time ▲
+270,100,Keep the basketball on the treadmill,22,Noel Fielding,3.75,35,time ▲
+271,102,Get the flour onto the target,18,Hugh Dennis,193.0,1,grams ▲
+272,102,Get the flour onto the target,19,Joe Lycett,217.0,1,grams ▲
+273,102,Get the flour onto the target,20,Lolly Adefope,217.0,1,grams ▲
+274,102,Get the flour onto the target,21,Mel Giedroyc,193.0,1,grams ▲
+275,102,Get the flour onto the target,22,Noel Fielding,217.0,1,grams ▲
+276,103,Put an egg in an egg cup without touching either,18,Hugh Dennis,4.0,36,penalties ▼
+277,103,Put an egg in an egg cup without touching either,18,Hugh Dennis,340.0,2,time ▼
+278,103,Put an egg in an egg cup without touching either,19,Joe Lycett,3.0,36,penalties ▼
+279,103,Put an egg in an egg cup without touching either,19,Joe Lycett,182.8,2,time ▼
+280,103,Put an egg in an egg cup without touching either,20,Lolly Adefope,1.0,36,penalties ▼
+281,103,Put an egg in an egg cup without touching either,20,Lolly Adefope,88.0,2,time ▼
+282,103,Put an egg in an egg cup without touching either,21,Mel Giedroyc,5.0,36,penalties ▼
+283,103,Put an egg in an egg cup without touching either,21,Mel Giedroyc,357.0,2,time ▼
+284,103,Put an egg in an egg cup without touching either,22,Noel Fielding,3.0,36,penalties ▼
+285,103,Put an egg in an egg cup without touching either,22,Noel Fielding,182.5,2,time ▼
+286,104,Make the longest balloon chain,18,Hugh Dennis,6.0,37,chained balloons ▲
+287,104,Make the longest balloon chain,19,Joe Lycett,3.0,37,chained balloons ▲
+288,104,Make the longest balloon chain,20,Lolly Adefope,4.0,37,chained balloons ▲
+289,104,Make the longest balloon chain,21,Mel Giedroyc,7.0,37,chained balloons ▲
+290,104,Make the longest balloon chain,22,Noel Fielding,4.0,37,chained balloons ▲
+291,108,Persuade three animals to stand on the mat,18,Hugh Dennis,411.0,2,time ▼
+292,108,Persuade three animals to stand on the mat,19,Joe Lycett,44.6,2,time ▼
+293,108,Persuade three animals to stand on the mat,20,Lolly Adefope,820.0,2,time ▼
+294,108,Persuade three animals to stand on the mat,21,Mel Giedroyc,864.0,2,time ▼
+295,108,Persuade three animals to stand on the mat,22,Noel Fielding,388.0,2,time ▼
+296,109,Transfer water from one fishbowl to another,18,Hugh Dennis,?,34,milliliters ▲
+297,109,Transfer water from one fishbowl to another,19,Joe Lycett,4850.0,34,milliliters ▲
+298,109,Transfer water from one fishbowl to another,20,Lolly Adefope,,34,milliliters ▲
+299,109,Transfer water from one fishbowl to another,21,Mel Giedroyc,74.0,34,milliliters ▲
+300,109,Transfer water from one fishbowl to another,22,Noel Fielding,115.0,34,milliliters ▲
+301,111,Decant wine from one bottle to another,19,Joe Lycett,79.0,34,milliliters ▲
+302,111,Decant wine from one bottle to another,22,Noel Fielding,16.0,34,milliliters ▲
+303,113,Make the highest splash,18,Hugh Dennis,0.4572,4,meters ▲
+304,113,Make the highest splash,19,Joe Lycett,1.8796,4,meters ▲
+305,113,Make the highest splash,20,Lolly Adefope,0.0,4,meters ▲
+306,113,Make the highest splash,21,Mel Giedroyc,4.5,4,meters ▲
+307,113,Make the highest splash,22,Noel Fielding,5.1,4,meters ▲
+308,117,Make the tallest tube tower,18,Hugh Dennis,3.0,38,tubes ▲
+309,117,Make the tallest tube tower,19,Joe Lycett,2.0,38,tubes ▲
+310,117,Make the tallest tube tower,20,Lolly Adefope,2.0,38,tubes ▲
+311,117,Make the tallest tube tower,21,Mel Giedroyc,3.0,38,tubes ▲
+312,117,Make the tallest tube tower,22,Noel Fielding,2.0,38,tubes ▲
+313,119,Slide as far as possible,18,Hugh Dennis,18.9,4,meters ▲
+314,119,Slide as far as possible,19,Joe Lycett,5.8,4,meters ▲
+315,119,Slide as far as possible,20,Lolly Adefope,3.2,4,meters ▲
+316,119,Slide as far as possible,21,Mel Giedroyc,56.5,4,meters ▲
+317,119,Slide as far as possible,22,Noel Fielding,14.0,4,meters ▲
+318,120,Don the diving gear while maintaining eye contact and small talk,18,Hugh Dennis,60.0,36,penalties ▼
+319,120,Don the diving gear while maintaining eye contact and small talk,18,Hugh Dennis,405.0,2,time ▼
+320,120,Don the diving gear while maintaining eye contact and small talk,19,Joe Lycett,42.0,36,penalties ▼
+321,120,Don the diving gear while maintaining eye contact and small talk,19,Joe Lycett,392.0,2,time ▼
+322,120,Don the diving gear while maintaining eye contact and small talk,20,Lolly Adefope,27.0,36,penalties ▼
+323,120,Don the diving gear while maintaining eye contact and small talk,20,Lolly Adefope,345.0,2,time ▼
+324,120,Don the diving gear while maintaining eye contact and small talk,21,Mel Giedroyc,29.0,36,penalties ▼
+325,120,Don the diving gear while maintaining eye contact and small talk,21,Mel Giedroyc,469.0,2,time ▼
+326,120,Don the diving gear while maintaining eye contact and small talk,22,Noel Fielding,,36,penalties ▼
+327,120,Don the diving gear while maintaining eye contact and small talk,22,Noel Fielding,,2,time ▼
+328,123,Make the longest continuous noise,18,Hugh Dennis,30.0,35,time ▲
+329,123,Make the longest continuous noise,19,Joe Lycett,32.0,35,time ▲
+330,123,Make the longest continuous noise,20,Lolly Adefope,21.0,35,time ▲
+331,123,Make the longest continuous noise,21,Mel Giedroyc,14.0,35,time ▲
+332,123,Make the longest continuous noise,22,Noel Fielding,4.4,35,time ▲
+333,124,Eat as many peas as possible,18,Hugh Dennis,199.0,39,peas ▲
+334,124,Eat as many peas as possible,21,Mel Giedroyc,174.0,39,peas ▲
+335,126,Pass a camel through a small gap,18,Hugh Dennis,0.9,40,centimeters ▼
+336,126,Pass a camel through a small gap,19,Joe Lycett,4.6,40,centimeters ▼
+337,126,Pass a camel through a small gap,20,Lolly Adefope,3.1,40,centimeters ▼
+338,126,Pass a camel through a small gap,21,Mel Giedroyc,?,40,centimeters ▼
+339,126,Pass a camel through a small gap,22,Noel Fielding,4.0,40,centimeters ▼
+340,127,Score a goal with a shopping bag,18,Hugh Dennis,0.0,41,kicks ▼
+341,127,Score a goal with a shopping bag,18,Hugh Dennis,111.0,2,time ▼
+342,127,Score a goal with a shopping bag,19,Joe Lycett,77.0,41,kicks ▼
+343,127,Score a goal with a shopping bag,19,Joe Lycett,489.0,2,time ▼
+344,127,Score a goal with a shopping bag,20,Lolly Adefope,8.0,41,kicks ▼
+345,127,Score a goal with a shopping bag,20,Lolly Adefope,344.0,2,time ▼
+346,127,Score a goal with a shopping bag,21,Mel Giedroyc,3.0,41,kicks ▼
+347,127,Score a goal with a shopping bag,21,Mel Giedroyc,195.0,2,time ▼
+348,127,Score a goal with a shopping bag,22,Noel Fielding,42.0,41,kicks ▼
+349,127,Score a goal with a shopping bag,22,Noel Fielding,642.0,2,time ▼
+350,131,Identify the contents of the sleeping bag,18,Hugh Dennis,,42,identified items ▲
+351,131,Identify the contents of the sleeping bag,19,Joe Lycett,2.0,42,identified items ▲
+352,131,Identify the contents of the sleeping bag,20,Lolly Adefope,2.0,42,identified items ▲
+353,131,Identify the contents of the sleeping bag,21,Mel Giedroyc,0.0,42,identified items ▲
+354,131,Identify the contents of the sleeping bag,22,Noel Fielding,2.0,42,identified items ▲
+355,134,Cross the bunting to give Alex his lunch,18,Hugh Dennis,0.0,36,penalties ▼
+356,134,Cross the bunting to give Alex his lunch,18,Hugh Dennis,108.0,2,time ▼
+357,134,Cross the bunting to give Alex his lunch,19,Joe Lycett,4.0,36,penalties ▼
+358,134,Cross the bunting to give Alex his lunch,19,Joe Lycett,121.0,2,time ▼
+359,134,Cross the bunting to give Alex his lunch,20,Lolly Adefope,6.0,36,penalties ▼
+360,134,Cross the bunting to give Alex his lunch,20,Lolly Adefope,?,2,time ▼
+361,134,Cross the bunting to give Alex his lunch,21,Mel Giedroyc,5.0,36,penalties ▼
+362,134,Cross the bunting to give Alex his lunch,21,Mel Giedroyc,170.0,2,time ▼
+363,134,Cross the bunting to give Alex his lunch,22,Noel Fielding,1.0,36,penalties ▼
+364,134,Cross the bunting to give Alex his lunch,22,Noel Fielding,51.1,2,time ▼
+365,135,Hide from Alex,18,Hugh Dennis,69.0,35,time ▲
+366,135,Hide from Alex,19,Joe Lycett,69.0,35,time ▲
+367,135,Hide from Alex,20,Lolly Adefope,1380.0,35,time ▲
+368,135,Hide from Alex,21,Mel Giedroyc,154.0,35,time ▲
+369,135,Hide from Alex,22,Noel Fielding,16.0,35,time ▲
+370,136,Wheelie bin obstacle course,18,Hugh Dennis,399.0,2,time ▼
+371,136,Wheelie bin obstacle course,19,Joe Lycett,363.0,2,time ▼
+372,136,Wheelie bin obstacle course,20,Lolly Adefope,363.0,2,time ▼
+373,136,Wheelie bin obstacle course,21,Mel Giedroyc,399.0,2,time ▼
+374,136,Wheelie bin obstacle course,22,Noel Fielding,363.0,2,time ▼
+375,139,Open the jar of mayonnaise,18,Hugh Dennis,?,2,time ▼
+376,139,Open the jar of mayonnaise,19,Joe Lycett,0.0,2,time ▼
+377,139,Open the jar of mayonnaise,20,Lolly Adefope,?,2,time ▼
+378,140,The most cash,18,Hugh Dennis,72.2,43,£ ▲
+379,140,The most cash,19,Joe Lycett,250.0,43,£ ▲
+380,140,The most cash,20,Lolly Adefope,2000.0,43,£ ▲
+381,140,The most cash,21,Mel Giedroyc,240.0,43,£ ▲
+382,140,The most cash,22,Noel Fielding,?,43,£ ▲
+383,143,Strike an item the farthest,18,Hugh Dennis,24.0,4,meters ▲
+384,143,Strike an item the farthest,19,Joe Lycett,18.45,4,meters ▲
+385,143,Strike an item the farthest,20,Lolly Adefope,0.25,4,meters ▲
+386,143,Strike an item the farthest,21,Mel Giedroyc,8.12,4,meters ▲
+387,143,Strike an item the farthest,22,Noel Fielding,29.0,4,meters ▲
+388,145,Draw the median duck,18,Hugh Dennis,21.0,44,inches ◀
+389,145,Draw the median duck,19,Joe Lycett,?,44,inches ◀
+390,145,Draw the median duck,20,Lolly Adefope,6.0,44,inches ◀
+391,145,Draw the median duck,21,Mel Giedroyc,13.0,44,inches ◀
+392,145,Draw the median duck,22,Noel Fielding,13.5,44,inches ◀
+393,148,Get Alex to dry land,23,Aisling Bea,502.0,2,time ▼
+394,148,Get Alex to dry land,24,Bob Mortimer,757.0,2,time ▼
+395,148,Get Alex to dry land,25,Mark Watson,1065.0,2,time ▼
+396,148,Get Alex to dry land,26,Nish Kumar,245.0,2,time ▼
+397,148,Get Alex to dry land,27,Sally Phillips,612.0,2,time ▼
+398,149,Score a basket without your hands,23,Aisling Bea,188.0,2,time ▼
+399,149,Score a basket without your hands,24,Bob Mortimer,179.0,2,time ▼
+400,149,Score a basket without your hands,25,Mark Watson,180.0,2,time ▼
+401,149,Score a basket without your hands,26,Nish Kumar,1699.0,2,time ▼
+402,149,Score a basket without your hands,27,Sally Phillips,,2,time ▼
+403,150,Get some fruit into the bowl,23,Aisling Bea,,2,time ▼
+404,150,Get some fruit into the bowl,24,Bob Mortimer,20.0,2,time ▼
+405,150,Get some fruit into the bowl,25,Mark Watson,12.0,2,time ▼
+406,150,Get some fruit into the bowl,26,Nish Kumar,69.0,2,time ▼
+407,150,Get some fruit into the bowl,27,Sally Phillips,220.0,2,time ▼
+408,152,Make a coconut-flinging machine,23,Aisling Bea,4.4,4,meters ▲
+409,152,Make a coconut-flinging machine,24,Bob Mortimer,16.2,4,meters ▲
+410,152,Make a coconut-flinging machine,25,Mark Watson,18.9,4,meters ▲
+411,152,Make a coconut-flinging machine,26,Nish Kumar,5.3,4,meters ▲
+412,152,Make a coconut-flinging machine,27,Sally Phillips,5.5,4,meters ▲
+413,158,Retrieve the table tennis ball from the tube,23,Aisling Bea,,2,time ▼
+414,158,Retrieve the table tennis ball from the tube,24,Bob Mortimer,493.0,2,time ▼
+415,158,Retrieve the table tennis ball from the tube,25,Mark Watson,1390.0,2,time ▼
+416,158,Retrieve the table tennis ball from the tube,26,Nish Kumar,2662.0,2,time ▼
+417,158,Retrieve the table tennis ball from the tube,27,Sally Phillips,765.0,2,time ▼
+418,160,"Eat one item, balance one item, throw one item",23,Aisling Bea,270.0,2,time ▼
+419,160,"Eat one item, balance one item, throw one item",24,Bob Mortimer,240.0,2,time ▼
+420,160,"Eat one item, balance one item, throw one item",25,Mark Watson,260.0,2,time ▼
+421,160,"Eat one item, balance one item, throw one item",26,Nish Kumar,,2,time ▼
+422,160,"Eat one item, balance one item, throw one item",27,Sally Phillips,121.0,2,time ▼
+423,165,Blow up a balloon to the size of a cucumber,23,Aisling Bea,19.0,45,difference in centimeters ▼
+424,165,Blow up a balloon to the size of a cucumber,24,Bob Mortimer,10.0,45,difference in centimeters ▼
+425,165,Blow up a balloon to the size of a cucumber,25,Mark Watson,1.5,45,difference in centimeters ▼
+426,165,Blow up a balloon to the size of a cucumber,26,Nish Kumar,30.0,45,difference in centimeters ▼
+427,165,Blow up a balloon to the size of a cucumber,27,Sally Phillips,20.0,45,difference in centimeters ▼
+428,166,Spot the difference,23,Aisling Bea,5.0,46,spotted differences ▲
+429,166,Spot the difference,24,Bob Mortimer,2.0,46,spotted differences ▲
+430,166,Spot the difference,25,Mark Watson,3.0,46,spotted differences ▲
+431,166,Spot the difference,26,Nish Kumar,3.0,46,spotted differences ▲
+432,166,Spot the difference,27,Sally Phillips,2.0,46,spotted differences ▲
+433,167,Sneeze the fastest,23,Aisling Bea,,2,time ▼
+434,167,Sneeze the fastest,24,Bob Mortimer,601.0,2,time ▼
+435,167,Sneeze the fastest,25,Mark Watson,172800.0,2,time ▼
+436,167,Sneeze the fastest,26,Nish Kumar,,2,time ▼
+437,167,Sneeze the fastest,27,Sally Phillips,,2,time ▼
+438,169,Backthrow a picture of a Swede into a bin,23,Aisling Bea,66.0,47,attempts ▼
+439,169,Backthrow a picture of a Swede into a bin,25,Mark Watson,15.0,47,attempts ▼
+440,174,Build a can tower & greet Alex from different countries,23,Aisling Bea,1.0,48,cans ▲
+441,174,Build a can tower & greet Alex from different countries,24,Bob Mortimer,6.0,48,cans ▲
+442,174,Build a can tower & greet Alex from different countries,25,Mark Watson,6.0,48,cans ▲
+443,174,Build a can tower & greet Alex from different countries,26,Nish Kumar,5.0,48,cans ▲
+444,174,Build a can tower & greet Alex from different countries,27,Sally Phillips,2.0,48,cans ▲
+445,175,Identify the Finns,23,Aisling Bea,1.0,49,identified Finns minus non-Finns ▲
+446,175,Identify the Finns,24,Bob Mortimer,-1.0,49,identified Finns minus non-Finns ▲
+447,175,Identify the Finns,25,Mark Watson,2.0,49,identified Finns minus non-Finns ▲
+448,175,Identify the Finns,26,Nish Kumar,1.0,49,identified Finns minus non-Finns ▲
+449,175,Identify the Finns,27,Sally Phillips,-1.0,49,identified Finns minus non-Finns ▲
+450,177,Balance Alex on a see-saw,23,Aisling Bea,?,27,kilograms ▲
+451,177,Balance Alex on a see-saw,24,Bob Mortimer,32.0,27,kilograms ▲
+452,177,Balance Alex on a see-saw,25,Mark Watson,7.2,27,kilograms ▲
+453,177,Balance Alex on a see-saw,26,Nish Kumar,25.2,27,kilograms ▲
+454,177,Balance Alex on a see-saw,27,Sally Phillips,20.16,27,kilograms ▲
+455,180,Light a candle using a cupcake,23,Aisling Bea,,2,time ▼
+456,180,Light a candle using a cupcake,24,Bob Mortimer,185.0,2,time ▼
+457,180,Light a candle using a cupcake,25,Mark Watson,,2,time ▼
+458,180,Light a candle using a cupcake,26,Nish Kumar,,2,time ▼
+459,180,Light a candle using a cupcake,27,Sally Phillips,,2,time ▼
+460,182,Kick yoghurt at a target,24,Bob Mortimer,0.0,50,bull's-eyed yoghurt ▲
+461,182,Kick yoghurt at a target,27,Sally Phillips,0.0,50,bull's-eyed yoghurt ▲
+462,184,Travel blindfolded for three minutes and retrace your steps,23,Aisling Bea,64.0,51,meters off target ▼
+463,184,Travel blindfolded for three minutes and retrace your steps,24,Bob Mortimer,0.0,51,meters off target ▼
+464,184,Travel blindfolded for three minutes and retrace your steps,25,Mark Watson,140.0,51,meters off target ▼
+465,184,Travel blindfolded for three minutes and retrace your steps,26,Nish Kumar,195.0,51,meters off target ▼
+466,184,Travel blindfolded for three minutes and retrace your steps,27,Sally Phillips,74.0,51,meters off target ▼
+467,185,Coconut bobsleigh,23,Aisling Bea,14.0,52,team members ▲
+468,185,Coconut bobsleigh,24,Bob Mortimer,,52,team members ▲
+469,185,Coconut bobsleigh,25,Mark Watson,2.0,52,team members ▲
+470,185,Coconut bobsleigh,26,Nish Kumar,13.0,52,team members ▲
+471,185,Coconut bobsleigh,27,Sally Phillips,,52,team members ▲
+472,186,Vote for who should receive five points,23,Aisling Bea,0.0,53,votes ▲
+473,186,Vote for who should receive five points,24,Bob Mortimer,1.0,53,votes ▲
+474,186,Vote for who should receive five points,25,Mark Watson,1.0,53,votes ▲
+475,186,Vote for who should receive five points,26,Nish Kumar,1.0,53,votes ▲
+476,186,Vote for who should receive five points,27,Sally Phillips,2.0,53,votes ▲
+477,188,Zipwire items to the Taskmaster,23,Aisling Bea,2.0,54,zip-lined items ▲
+478,188,Zipwire items to the Taskmaster,24,Bob Mortimer,8.0,54,zip-lined items ▲
+479,188,Zipwire items to the Taskmaster,25,Mark Watson,5.0,54,zip-lined items ▲
+480,188,Zipwire items to the Taskmaster,26,Nish Kumar,4.0,54,zip-lined items ▲
+481,188,Zipwire items to the Taskmaster,27,Sally Phillips,0.0,54,zip-lined items ▲
+482,190,Transport a coconut as far as possible,23,Aisling Bea,?,4,meters ▲
+483,190,Transport a coconut as far as possible,24,Bob Mortimer,33.0,4,meters ▲
+484,190,Transport a coconut as far as possible,25,Mark Watson,,4,meters ▲
+485,190,Transport a coconut as far as possible,26,Nish Kumar,0.1,4,meters ▲
+486,190,Transport a coconut as far as possible,27,Sally Phillips,1770.0,4,meters ▲
+487,192,Make the most fish puns,1,Alex Horne,11.0,55,fish puns ▲
+488,192,Make the most fish puns,27,Sally Phillips,8.0,55,fish puns ▲
+489,194,Throw an egg through a basketball hoop,23,Aisling Bea,0.0,56,caught makes ▲
+490,194,Throw an egg through a basketball hoop,24,Bob Mortimer,1.0,56,caught makes ▲
+491,194,Throw an egg through a basketball hoop,25,Mark Watson,0.0,56,caught makes ▲
+492,194,Throw an egg through a basketball hoop,26,Nish Kumar,0.0,56,caught makes ▲
+493,194,Throw an egg through a basketball hoop,27,Sally Phillips,0.9,56,caught makes ▲
+494,196,Throw an exercise ball into a bath or put the coconuts in a trolley,28,Bob Mortimer,512.0,2,time ▼
+495,196,Throw an exercise ball into a bath or put the coconuts in a trolley,29,Josh Widdicombe,660.0,2,time ▼
+496,196,Throw an exercise ball into a bath or put the coconuts in a trolley,30,Katherine Ryan,334.0,2,time ▼
+497,196,Throw an exercise ball into a bath or put the coconuts in a trolley,31,Noel Fielding,89.0,2,time ▼
+498,196,Throw an exercise ball into a bath or put the coconuts in a trolley,32,Rob Beckett,112.0,2,time ▼
+499,199,The second longest T-word,28,Bob Mortimer,0.0,57,descended steps ▲
+500,199,The second longest T-word,29,Josh Widdicombe,1.0,57,descended steps ▲
+501,199,The second longest T-word,30,Katherine Ryan,1.0,57,descended steps ▲
+502,199,The second longest T-word,31,Noel Fielding,3.0,57,descended steps ▲
+503,199,The second longest T-word,32,Rob Beckett,1.0,57,descended steps ▲
+504,202,Find out what’s in the briefcase,28,Bob Mortimer,462.0,2,time ▼
+505,202,Find out what’s in the briefcase,29,Josh Widdicombe,330.0,2,time ▼
+506,202,Find out what’s in the briefcase,30,Katherine Ryan,843.0,2,time ▼
+507,202,Find out what’s in the briefcase,31,Noel Fielding,199.0,2,time ▼
+508,202,Find out what’s in the briefcase,32,Rob Beckett,345.0,2,time ▼
+509,205,Record the most steps on your pedometers,28,Bob Mortimer,730.0,58,steps ▲
+510,205,Record the most steps on your pedometers,29,Josh Widdicombe,1095.0,58,steps ▲
+511,205,Record the most steps on your pedometers,30,Katherine Ryan,1263.0,58,steps ▲
+512,205,Record the most steps on your pedometers,31,Noel Fielding,627.0,58,steps ▲
+513,205,Record the most steps on your pedometers,32,Rob Beckett,820.0,58,steps ▲
+514,208,Make the tallest lemon tower,33,Alice Levine,9.0,59,inches ▲
+515,208,Make the tallest lemon tower,34,Asim Chaudhry,1.5,59,inches ▲
+516,208,Make the tallest lemon tower,35,Liza Tarbuck,8.0,59,inches ▲
+517,208,Make the tallest lemon tower,36,Russell Howard,11.0,59,inches ▲
+518,208,Make the tallest lemon tower,37,Tim Vine,7.0,59,inches ▲
+519,209,Return to the house wearing a hat,33,Alice Levine,90.0,5,difference in seconds ▼
+520,209,Return to the house wearing a hat,34,Asim Chaudhry,1260.0,5,difference in seconds ▼
+521,209,Return to the house wearing a hat,35,Liza Tarbuck,550.0,5,difference in seconds ▼
+522,209,Return to the house wearing a hat,36,Russell Howard,360.0,5,difference in seconds ▼
+523,209,Return to the house wearing a hat,37,Tim Vine,1160.0,5,difference in seconds ▼
+524,210,Sort the objects by size using your feet,33,Alice Levine,,60,sorted objects ▲
+525,210,Sort the objects by size using your feet,34,Asim Chaudhry,2.0,60,sorted objects ▲
+526,210,Sort the objects by size using your feet,35,Liza Tarbuck,3.0,60,sorted objects ▲
+527,210,Sort the objects by size using your feet,36,Russell Howard,2.0,60,sorted objects ▲
+528,210,Sort the objects by size using your feet,37,Tim Vine,,60,sorted objects ▲
+529,211,Spin around and kick a football at the caravan,33,Alice Levine,24.0,61,spins ▲
+530,211,Spin around and kick a football at the caravan,36,Russell Howard,19.0,61,spins ▲
+531,213,Get the highest darts score,33,Alice Levine,13.0,62,darts score ▲
+532,213,Get the highest darts score,34,Asim Chaudhry,16.0,62,darts score ▲
+533,213,Get the highest darts score,35,Liza Tarbuck,32.0,62,darts score ▲
+534,213,Get the highest darts score,36,Russell Howard,3.0,62,darts score ▲
+535,213,Get the highest darts score,37,Tim Vine,29.0,62,darts score ▲
+536,215,Take a picture of people holding eggs,33,Alice Levine,9.0,63,photographed egg-holders ▲
+537,215,Take a picture of people holding eggs,34,Asim Chaudhry,14.0,63,photographed egg-holders ▲
+538,215,Take a picture of people holding eggs,35,Liza Tarbuck,85.0,63,photographed egg-holders ▲
+539,215,Take a picture of people holding eggs,36,Russell Howard,23.0,63,photographed egg-holders ▲
+540,215,Take a picture of people holding eggs,37,Tim Vine,8.0,63,photographed egg-holders ▲
+541,217,Conceal grapes in your mouth or hand,33,Alice Levine,0.0,64,deceptions ▲
+542,217,Conceal grapes in your mouth or hand,34,Asim Chaudhry,0.0,64,deceptions ▲
+543,217,Conceal grapes in your mouth or hand,35,Liza Tarbuck,0.0,64,deceptions ▲
+544,217,Conceal grapes in your mouth or hand,36,Russell Howard,1.0,64,deceptions ▲
+545,217,Conceal grapes in your mouth or hand,37,Tim Vine,1.0,64,deceptions ▲
+546,220,Make something spin for the longest,33,Alice Levine,2.2,35,time ▲
+547,220,Make something spin for the longest,34,Asim Chaudhry,359.0,35,time ▲
+548,220,Make something spin for the longest,35,Liza Tarbuck,5040.0,35,time ▲
+549,220,Make something spin for the longest,36,Russell Howard,10.0,35,time ▲
+550,220,Make something spin for the longest,37,Tim Vine,227.0,35,time ▲
+551,221,Identify the baby food flavours,33,Alice Levine,2.0,65,guessed flavors ▲
+552,221,Identify the baby food flavours,33,Alice Levine,6.0,1,grams ▲
+553,221,Identify the baby food flavours,34,Asim Chaudhry,5.0,65,guessed flavors ▲
+554,221,Identify the baby food flavours,34,Asim Chaudhry,38.0,1,grams ▲
+555,221,Identify the baby food flavours,35,Liza Tarbuck,4.0,65,guessed flavors ▲
+556,221,Identify the baby food flavours,35,Liza Tarbuck,33.0,1,grams ▲
+557,221,Identify the baby food flavours,36,Russell Howard,3.0,65,guessed flavors ▲
+558,221,Identify the baby food flavours,36,Russell Howard,14.0,1,grams ▲
+559,221,Identify the baby food flavours,37,Tim Vine,1.0,65,guessed flavors ▲
+560,221,Identify the baby food flavours,37,Tim Vine,0.0,1,grams ▲
+561,222,Catch the most socks,33,Alice Levine,-3.0,66,caught socks minus touched pants ▲
+562,222,Catch the most socks,34,Asim Chaudhry,0.0,66,caught socks minus touched pants ▲
+563,222,Catch the most socks,35,Liza Tarbuck,0.0,66,caught socks minus touched pants ▲
+564,222,Catch the most socks,36,Russell Howard,2.0,66,caught socks minus touched pants ▲
+565,222,Catch the most socks,37,Tim Vine,0.0,66,caught socks minus touched pants ▲
+566,228,Remove the banknote from under the glass,33,Alice Levine,,2,time ▼
+567,228,Remove the banknote from under the glass,34,Asim Chaudhry,80.0,2,time ▼
+568,228,Remove the banknote from under the glass,35,Liza Tarbuck,,2,time ▼
+569,228,Remove the banknote from under the glass,36,Russell Howard,79.0,2,time ▼
+570,228,Remove the banknote from under the glass,37,Tim Vine,174.0,2,time ▼
+571,229,Shake hands with the Taskmaster without revealing your identity,33,Alice Levine,1.0,64,deceptions ▲
+572,229,Shake hands with the Taskmaster without revealing your identity,34,Asim Chaudhry,0.0,64,deceptions ▲
+573,229,Shake hands with the Taskmaster without revealing your identity,35,Liza Tarbuck,0.0,64,deceptions ▲
+574,229,Shake hands with the Taskmaster without revealing your identity,36,Russell Howard,0.0,64,deceptions ▲
+575,229,Shake hands with the Taskmaster without revealing your identity,37,Tim Vine,0.0,64,deceptions ▲
+576,231,Work out the length of a piece of string,33,Alice Levine,312.42,67,difference in feet ▼
+577,231,Work out the length of a piece of string,34,Asim Chaudhry,182.0,67,difference in feet ▼
+578,231,Work out the length of a piece of string,35,Liza Tarbuck,20802.0,67,difference in feet ▼
+579,231,Work out the length of a piece of string,36,Russell Howard,216.0,67,difference in feet ▼
+580,231,Work out the length of a piece of string,37,Tim Vine,10.0,67,difference in feet ▼
+581,232,Remove the tablecloth from underneath the eggs,33,Alice Levine,10.0,68,unbroken eggs ▲
+582,232,Remove the tablecloth from underneath the eggs,34,Asim Chaudhry,10.0,68,unbroken eggs ▲
+583,232,Remove the tablecloth from underneath the eggs,35,Liza Tarbuck,10.0,68,unbroken eggs ▲
+584,232,Remove the tablecloth from underneath the eggs,36,Russell Howard,10.0,68,unbroken eggs ▲
+585,232,Remove the tablecloth from underneath the eggs,37,Tim Vine,10.0,68,unbroken eggs ▲
+586,233,Identify the link and do it 100 times,33,Alice Levine,678.0,2,time ▼
+587,233,Identify the link and do it 100 times,34,Asim Chaudhry,514.0,2,time ▼
+588,233,Identify the link and do it 100 times,35,Liza Tarbuck,514.0,2,time ▼
+589,233,Identify the link and do it 100 times,36,Russell Howard,678.0,2,time ▼
+590,233,Identify the link and do it 100 times,37,Tim Vine,514.0,2,time ▼
+591,235,Throw eggs onto a shelf,33,Alice Levine,2.0,69,shelved eggs ▲
+592,235,Throw eggs onto a shelf,34,Asim Chaudhry,3.0,69,shelved eggs ▲
+593,235,Throw eggs onto a shelf,35,Liza Tarbuck,6.0,69,shelved eggs ▲
+594,235,Throw eggs onto a shelf,36,Russell Howard,5.0,69,shelved eggs ▲
+595,235,Throw eggs onto a shelf,37,Tim Vine,5.0,69,shelved eggs ▲
+596,238,Knock over the ducks without leaving the carpet,33,Alice Levine,,70,ducks ▲
+597,238,Knock over the ducks without leaving the carpet,34,Asim Chaudhry,78.0,70,ducks ▲
+598,238,Knock over the ducks without leaving the carpet,35,Liza Tarbuck,78.0,70,ducks ▲
+599,238,Knock over the ducks without leaving the carpet,36,Russell Howard,,70,ducks ▲
+600,238,Knock over the ducks without leaving the carpet,37,Tim Vine,78.0,70,ducks ▲
+601,241,Predict how many words you can list for a category,33,Alice Levine,5.0,71,correct answers minus misses ▲
+602,241,Predict how many words you can list for a category,34,Asim Chaudhry,4.0,71,correct answers minus misses ▲
+603,241,Predict how many words you can list for a category,35,Liza Tarbuck,1.0,71,correct answers minus misses ▲
+604,241,Predict how many words you can list for a category,36,Russell Howard,3.0,71,correct answers minus misses ▲
+605,241,Predict how many words you can list for a category,37,Tim Vine,3.0,71,correct answers minus misses ▲
+606,243,Knock the bails off the stumps,33,Alice Levine,,2,time ▼
+607,243,Knock the bails off the stumps,34,Asim Chaudhry,,2,time ▼
+608,243,Knock the bails off the stumps,35,Liza Tarbuck,,2,time ▼
+609,243,Knock the bails off the stumps,36,Russell Howard,21.0,2,time ▼
+610,243,Knock the bails off the stumps,37,Tim Vine,148.0,2,time ▼
+611,245,List and then mime obscure animals,33,Alice Levine,11.0,72,guessed animals ▲
+612,245,List and then mime obscure animals,34,Asim Chaudhry,8.0,72,guessed animals ▲
+613,245,List and then mime obscure animals,35,Liza Tarbuck,8.0,72,guessed animals ▲
+614,245,List and then mime obscure animals,36,Russell Howard,11.0,72,guessed animals ▲
+615,245,List and then mime obscure animals,37,Tim Vine,8.0,72,guessed animals ▲
+616,253,Quickly receive a text message,35,Liza Tarbuck,233.0,2,time ▼
+617,253,Quickly receive a text message,36,Russell Howard,231.0,2,time ▼
+618,255,Make the biggest bubble and burst it with your nose,33,Alice Levine,19.7,59,inches ▲
+619,255,Make the biggest bubble and burst it with your nose,34,Asim Chaudhry,4.0,59,inches ▲
+620,255,Make the biggest bubble and burst it with your nose,35,Liza Tarbuck,8.0,59,inches ▲
+621,255,Make the biggest bubble and burst it with your nose,36,Russell Howard,1.6,59,inches ▲
+622,255,Make the biggest bubble and burst it with your nose,37,Tim Vine,3.0,59,inches ▲
+623,258,Make a plastic bag as heavy as possible,33,Alice Levine,20.5,27,kilograms ▲
+624,258,Make a plastic bag as heavy as possible,34,Asim Chaudhry,16.0,27,kilograms ▲
+625,258,Make a plastic bag as heavy as possible,35,Liza Tarbuck,27.0,27,kilograms ▲
+626,258,Make a plastic bag as heavy as possible,36,Russell Howard,10.0,27,kilograms ▲
+627,258,Make a plastic bag as heavy as possible,37,Tim Vine,,27,kilograms ▲
+628,259,Hold the most points above the ground,33,Alice Levine,55.0,73,held points ▲
+629,259,Hold the most points above the ground,34,Asim Chaudhry,48.0,73,held points ▲
+630,259,Hold the most points above the ground,35,Liza Tarbuck,50.0,73,held points ▲
+631,259,Hold the most points above the ground,36,Russell Howard,68.0,73,held points ▲
+632,259,Hold the most points above the ground,37,Tim Vine,55.0,73,held points ▲
+633,261,Knock over the fewest bowling pins,33,Alice Levine,28.0,74,skittles ▼
+634,261,Knock over the fewest bowling pins,34,Asim Chaudhry,28.0,74,skittles ▼
+635,261,Knock over the fewest bowling pins,35,Liza Tarbuck,23.0,74,skittles ▼
+636,261,Knock over the fewest bowling pins,36,Russell Howard,20.0,74,skittles ▼
+637,261,Knock over the fewest bowling pins,37,Tim Vine,33.0,74,skittles ▼
+638,262,Blow out a candle from a distance,33,Alice Levine,3.5,4,meters ▲
+639,262,Blow out a candle from a distance,34,Asim Chaudhry,29.5,4,meters ▲
+640,262,Blow out a candle from a distance,35,Liza Tarbuck,,4,meters ▲
+641,262,Blow out a candle from a distance,36,Russell Howard,2.86,4,meters ▲
+642,262,Blow out a candle from a distance,37,Tim Vine,13.8,4,meters ▲
+643,264,Pick numbers higher and lower than the people next to you,33,Alice Levine,5.0,75,rosettes ▲
+644,264,Pick numbers higher and lower than the people next to you,34,Asim Chaudhry,4.0,75,rosettes ▲
+645,264,Pick numbers higher and lower than the people next to you,35,Liza Tarbuck,0.0,75,rosettes ▲
+646,264,Pick numbers higher and lower than the people next to you,36,Russell Howard,0.0,75,rosettes ▲
+647,264,Pick numbers higher and lower than the people next to you,37,Tim Vine,3.0,75,rosettes ▲
+648,266,Make the best quick-change outfit,38,James Acaster,5.0,2,time ▼
+649,266,Make the best quick-change outfit,39,Jessica Knappett,4.0,2,time ▼
+650,266,Make the best quick-change outfit,40,Kerry Godliman,3.6,2,time ▼
+651,266,Make the best quick-change outfit,41,Phil Wang,45.0,2,time ▼
+652,266,Make the best quick-change outfit,42,Rhod Gilbert,3.8,2,time ▼
+653,267,Build the tallest cardboard box tower,38,James Acaster,50.0,10,centimeters ▲
+654,267,Build the tallest cardboard box tower,39,Jessica Knappett,260.0,10,centimeters ▲
+655,267,Build the tallest cardboard box tower,40,Kerry Godliman,300.0,10,centimeters ▲
+656,267,Build the tallest cardboard box tower,41,Phil Wang,75.0,10,centimeters ▲
+657,267,Build the tallest cardboard box tower,42,Rhod Gilbert,428.0,10,centimeters ▲
+658,268,Work out the perimeter of the caravan in beans,38,James Acaster,265.0,76,difference in baked beans ▼
+659,268,Work out the perimeter of the caravan in beans,39,Jessica Knappett,276.0,76,difference in baked beans ▼
+660,268,Work out the perimeter of the caravan in beans,40,Kerry Godliman,215.0,76,difference in baked beans ▼
+661,268,Work out the perimeter of the caravan in beans,41,Phil Wang,565.0,76,difference in baked beans ▼
+662,268,Work out the perimeter of the caravan in beans,42,Rhod Gilbert,310.0,76,difference in baked beans ▼
+663,271,Write a ten word story while running,38,James Acaster,20.0,2,time ▼
+664,271,Write a ten word story while running,39,Jessica Knappett,24.0,2,time ▼
+665,271,Write a ten word story while running,40,Kerry Godliman,44.0,2,time ▼
+666,271,Write a ten word story while running,41,Phil Wang,136.0,2,time ▼
+667,271,Write a ten word story while running,42,Rhod Gilbert,612.0,2,time ▼
+668,275,Build a tower of cans within a hoop,38,James Acaster,1.0,48,cans ▲
+669,275,Build a tower of cans within a hoop,39,Jessica Knappett,2.0,48,cans ▲
+670,275,Build a tower of cans within a hoop,40,Kerry Godliman,13.0,48,cans ▲
+671,275,Build a tower of cans within a hoop,41,Phil Wang,3.0,48,cans ▲
+672,275,Build a tower of cans within a hoop,42,Rhod Gilbert,11.0,48,cans ▲
+673,276,Guess the number on Alex’s forearm,39,Jessica Knappett,1637.49,77,difference ▼
+674,276,Guess the number on Alex’s forearm,40,Kerry Godliman,21.51,77,difference ▼
+675,278,Raise Alex’s heart rate,38,James Acaster,80.0,78,beats per minute ▲
+676,278,Raise Alex’s heart rate,39,Jessica Knappett,97.0,78,beats per minute ▲
+677,278,Raise Alex’s heart rate,40,Kerry Godliman,43.0,78,beats per minute ▲
+678,278,Raise Alex’s heart rate,41,Phil Wang,-6.0,78,beats per minute ▲
+679,278,Raise Alex’s heart rate,42,Rhod Gilbert,11.0,78,beats per minute ▲
+680,280,Get the ball into the hole by striking it,38,James Acaster,6.0,79,strokes ▼
+681,280,Get the ball into the hole by striking it,39,Jessica Knappett,12.0,79,strokes ▼
+682,280,Get the ball into the hole by striking it,40,Kerry Godliman,7.0,79,strokes ▼
+683,280,Get the ball into the hole by striking it,41,Phil Wang,5.0,79,strokes ▼
+684,280,Get the ball into the hole by striking it,42,Rhod Gilbert,1.0,79,strokes ▼
+685,281,Silently mouth a ten word fact to Greg,38,James Acaster,9.0,80,understood words ▲
+686,281,Silently mouth a ten word fact to Greg,39,Jessica Knappett,10.0,80,understood words ▲
+687,281,Silently mouth a ten word fact to Greg,40,Kerry Godliman,9.0,80,understood words ▲
+688,281,Silently mouth a ten word fact to Greg,41,Phil Wang,4.0,80,understood words ▲
+689,281,Silently mouth a ten word fact to Greg,42,Rhod Gilbert,1.0,80,understood words ▲
+690,283,Work out what the switch does,38,James Acaster,335.0,2,time ▼
+691,283,Work out what the switch does,39,Jessica Knappett,709.0,2,time ▼
+692,283,Work out what the switch does,40,Kerry Godliman,566.0,2,time ▼
+693,283,Work out what the switch does,41,Phil Wang,650.0,2,time ▼
+694,283,Work out what the switch does,42,Rhod Gilbert,,2,time ▼
+695,285,Make the scales read exactly 31.770kg,38,James Acaster,344.0,2,time ▼
+696,285,Make the scales read exactly 31.770kg,39,Jessica Knappett,961.0,2,time ▼
+697,285,Make the scales read exactly 31.770kg,40,Kerry Godliman,493.0,2,time ▼
+698,285,Make the scales read exactly 31.770kg,41,Phil Wang,508.0,2,time ▼
+699,285,Make the scales read exactly 31.770kg,42,Rhod Gilbert,427.0,2,time ▼
+700,286,Get dressed while wearing handcuffs,38,James Acaster,5.0,81,correctly donned items ▲
+701,286,Get dressed while wearing handcuffs,39,Jessica Knappett,4.0,81,correctly donned items ▲
+702,286,Get dressed while wearing handcuffs,40,Kerry Godliman,4.0,81,correctly donned items ▲
+703,286,Get dressed while wearing handcuffs,41,Phil Wang,1.0,81,correctly donned items ▲
+704,286,Get dressed while wearing handcuffs,42,Rhod Gilbert,4.0,81,correctly donned items ▲
+705,287,Make the best toilet paper plane,38,James Acaster,3.9,4,meters ▲
+706,287,Make the best toilet paper plane,42,Rhod Gilbert,22.7,4,meters ▲
+707,290,Make the most white circles on the target,38,James Acaster,13.0,82,white circles ▲
+708,290,Make the most white circles on the target,39,Jessica Knappett,0.0,82,white circles ▲
+709,290,Make the most white circles on the target,40,Kerry Godliman,21.0,82,white circles ▲
+710,290,Make the most white circles on the target,41,Phil Wang,38.0,82,white circles ▲
+711,290,Make the most white circles on the target,42,Rhod Gilbert,8.0,82,white circles ▲
+712,295,Put 50 different things in the bin,38,James Acaster,58.0,2,time ▼
+713,295,Put 50 different things in the bin,39,Jessica Knappett,172.0,2,time ▼
+714,295,Put 50 different things in the bin,40,Kerry Godliman,87.0,2,time ▼
+715,295,Put 50 different things in the bin,41,Phil Wang,417.0,2,time ▼
+716,295,Put 50 different things in the bin,42,Rhod Gilbert,150.0,2,time ▼
+717,298,Place 10 pairs of glasses into the smallest box,38,James Acaster,3.0,83,box size ▼
+718,298,Place 10 pairs of glasses into the smallest box,38,James Acaster,6.0,84,pairs of glasses ▲
+719,298,Place 10 pairs of glasses into the smallest box,39,Jessica Knappett,7.0,83,box size ▼
+720,298,Place 10 pairs of glasses into the smallest box,39,Jessica Knappett,10.0,84,pairs of glasses ▲
+721,298,Place 10 pairs of glasses into the smallest box,40,Kerry Godliman,4.0,83,box size ▼
+722,298,Place 10 pairs of glasses into the smallest box,40,Kerry Godliman,7.5,84,pairs of glasses ▲
+723,298,Place 10 pairs of glasses into the smallest box,41,Phil Wang,6.0,83,box size ▼
+724,298,Place 10 pairs of glasses into the smallest box,41,Phil Wang,10.0,84,pairs of glasses ▲
+725,298,Place 10 pairs of glasses into the smallest box,42,Rhod Gilbert,,83,box size ▼
+726,298,Place 10 pairs of glasses into the smallest box,42,Rhod Gilbert,,84,pairs of glasses ▲
+727,301,Throw something into the bin behind the fence,38,James Acaster,1150.0,2,time ▼
+728,301,Throw something into the bin behind the fence,39,Jessica Knappett,455.0,2,time ▼
+729,301,Throw something into the bin behind the fence,40,Kerry Godliman,722.0,2,time ▼
+730,301,Throw something into the bin behind the fence,41,Phil Wang,439.0,2,time ▼
+731,301,Throw something into the bin behind the fence,42,Rhod Gilbert,197.0,2,time ▼
+732,302,Don’t blink,38,James Acaster,12.4,35,time ▲
+733,302,Don’t blink,39,Jessica Knappett,77.0,35,time ▲
+734,302,Don’t blink,40,Kerry Godliman,11.0,35,time ▲
+735,302,Don’t blink,41,Phil Wang,12.0,35,time ▲
+736,302,Don’t blink,42,Rhod Gilbert,430.0,35,time ▲
+737,305,Beat on the drum after exactly 9.58 seconds,38,James Acaster,1.6,5,difference in seconds ▼
+738,305,Beat on the drum after exactly 9.58 seconds,39,Jessica Knappett,17.62,5,difference in seconds ▼
+739,305,Beat on the drum after exactly 9.58 seconds,40,Kerry Godliman,3.43,5,difference in seconds ▼
+740,305,Beat on the drum after exactly 9.58 seconds,41,Phil Wang,3.48,5,difference in seconds ▼
+741,305,Beat on the drum after exactly 9.58 seconds,42,Rhod Gilbert,0.58,5,difference in seconds ▼
+742,308,Follow the clues and then do what they spell,38,James Acaster,228.0,2,time ▼
+743,308,Follow the clues and then do what they spell,39,Jessica Knappett,331.0,2,time ▼
+744,308,Follow the clues and then do what they spell,40,Kerry Godliman,347.0,2,time ▼
+745,308,Follow the clues and then do what they spell,41,Phil Wang,595.0,2,time ▼
+746,308,Follow the clues and then do what they spell,42,Rhod Gilbert,771.0,2,time ▼
+747,314,Find the satsuma in a sock,38,James Acaster,574.0,2,time ▼
+748,314,Find the satsuma in a sock,39,Jessica Knappett,1016.0,2,time ▼
+749,314,Find the satsuma in a sock,40,Kerry Godliman,520.0,2,time ▼
+750,314,Find the satsuma in a sock,41,Phil Wang,,2,time ▼
+751,314,Find the satsuma in a sock,42,Rhod Gilbert,151.0,2,time ▼
+752,315,Complete a 24-shot rally,38,James Acaster,,2,time ▼
+753,315,Complete a 24-shot rally,39,Jessica Knappett,769.0,2,time ▼
+754,315,Complete a 24-shot rally,40,Kerry Godliman,769.0,2,time ▼
+755,315,Complete a 24-shot rally,41,Phil Wang,,2,time ▼
+756,315,Complete a 24-shot rally,42,Rhod Gilbert,,2,time ▼
+757,318,Put on overalls and lie on the ground when the siren sounds,38,James Acaster,166.0,2,time ▼
+758,318,Put on overalls and lie on the ground when the siren sounds,39,Jessica Knappett,156.0,2,time ▼
+759,318,Put on overalls and lie on the ground when the siren sounds,40,Kerry Godliman,510.0,2,time ▼
+760,318,Put on overalls and lie on the ground when the siren sounds,41,Phil Wang,74.0,2,time ▼
+761,318,Put on overalls and lie on the ground when the siren sounds,42,Rhod Gilbert,142.0,2,time ▼
+762,319,Find the hard-boiled egg,38,James Acaster,291.0,2,time ▼
+763,319,Find the hard-boiled egg,39,Jessica Knappett,,2,time ▼
+764,319,Find the hard-boiled egg,40,Kerry Godliman,,2,time ▼
+765,319,Find the hard-boiled egg,41,Phil Wang,,2,time ▼
+766,319,Find the hard-boiled egg,42,Rhod Gilbert,,2,time ▼
+767,321,Tie yourself up as securely as possible,38,James Acaster,485.0,35,time ▲
+768,321,Tie yourself up as securely as possible,39,Jessica Knappett,166.0,35,time ▲
+769,321,Tie yourself up as securely as possible,40,Kerry Godliman,165.0,35,time ▲
+770,321,Tie yourself up as securely as possible,41,Phil Wang,60.0,35,time ▲
+771,321,Tie yourself up as securely as possible,42,Rhod Gilbert,?,35,time ▲
+772,324,Find the baby monitor receiver,43,Iain Stirling,179.0,2,time ▼
+773,324,Find the baby monitor receiver,44,Joe Thomas,283.0,2,time ▼
+774,324,Find the baby monitor receiver,45,Lou Sanders,599.0,2,time ▼
+775,324,Find the baby monitor receiver,46,Paul Sinha,1657.0,2,time ▼
+776,324,Find the baby monitor receiver,47,Sian Gibson,220.0,2,time ▼
+777,326,Sneak up on Alex,43,Iain Stirling,?,85,meters ▼
+778,326,Sneak up on Alex,44,Joe Thomas,1.0,85,meters ▼
+779,326,Sneak up on Alex,45,Lou Sanders,?,85,meters ▼
+780,326,Sneak up on Alex,46,Paul Sinha,193.0,85,meters ▼
+781,326,Sneak up on Alex,47,Sian Gibson,181.0,85,meters ▼
+782,327,Collect the most doughnuts in your bucket,43,Iain Stirling,1162.0,1,grams ▲
+783,327,Collect the most doughnuts in your bucket,44,Joe Thomas,872.0,1,grams ▲
+784,327,Collect the most doughnuts in your bucket,45,Lou Sanders,2400.0,1,grams ▲
+785,327,Collect the most doughnuts in your bucket,46,Paul Sinha,678.0,1,grams ▲
+786,327,Collect the most doughnuts in your bucket,47,Sian Gibson,1002.0,1,grams ▲
+787,328,Peel a banana with your feet,43,Iain Stirling,59.0,2,time ▼
+788,328,Peel a banana with your feet,45,Lou Sanders,61.0,2,time ▼
+789,331,Transfer the rice to the bottle,43,Iain Stirling,15540.0,86,grains of rice ▲
+790,331,Transfer the rice to the bottle,44,Joe Thomas,18000.0,86,grains of rice ▲
+791,331,Transfer the rice to the bottle,45,Lou Sanders,16590.0,86,grains of rice ▲
+792,331,Transfer the rice to the bottle,46,Paul Sinha,,86,grains of rice ▲
+793,331,Transfer the rice to the bottle,47,Sian Gibson,5880.0,86,grains of rice ▲
+794,332,"Convey an object using only facial expressions, noises, adjectives & verbs",43,Iain Stirling,124.0,2,time ▼
+795,332,"Convey an object using only facial expressions, noises, adjectives & verbs",44,Joe Thomas,120.0,2,time ▼
+796,332,"Convey an object using only facial expressions, noises, adjectives & verbs",45,Lou Sanders,124.0,2,time ▼
+797,332,"Convey an object using only facial expressions, noises, adjectives & verbs",46,Paul Sinha,124.0,2,time ▼
+798,332,"Convey an object using only facial expressions, noises, adjectives & verbs",47,Sian Gibson,120.0,2,time ▼
+799,333,Travel the furthest while making a continuous noise,43,Iain Stirling,1.0,4,meters ▲
+800,333,Travel the furthest while making a continuous noise,44,Joe Thomas,98.0,4,meters ▲
+801,333,Travel the furthest while making a continuous noise,45,Lou Sanders,39.9,4,meters ▲
+802,333,Travel the furthest while making a continuous noise,46,Paul Sinha,22.0,4,meters ▲
+803,333,Travel the furthest while making a continuous noise,47,Sian Gibson,38.1,4,meters ▲
+804,337,Work out what Alex is wearing,43,Iain Stirling,457.0,2,time ▼
+805,337,Work out what Alex is wearing,44,Joe Thomas,,2,time ▼
+806,337,Work out what Alex is wearing,45,Lou Sanders,431.0,2,time ▼
+807,337,Work out what Alex is wearing,46,Paul Sinha,516.0,2,time ▼
+808,337,Work out what Alex is wearing,47,Sian Gibson,314.0,2,time ▼
+809,341,Get the toilet paper through the toilet seat,43,Iain Stirling,64.0,2,time ▼
+810,341,Get the toilet paper through the toilet seat,44,Joe Thomas,98.0,2,time ▼
+811,341,Get the toilet paper through the toilet seat,45,Lou Sanders,79.0,2,time ▼
+812,341,Get the toilet paper through the toilet seat,46,Paul Sinha,780.0,2,time ▼
+813,341,Get the toilet paper through the toilet seat,47,Sian Gibson,300.0,2,time ▼
+814,345,Whip the bottle off the barrel,44,Joe Thomas,50.3,2,time ▼
+815,345,Whip the bottle off the barrel,45,Lou Sanders,52.0,2,time ▼
+816,345,Whip the bottle off the barrel,47,Sian Gibson,9.4,2,time ▼
+817,347,Move the sand from one bucket to another,43,Iain Stirling,,87,% sand diverted ▲
+818,347,Move the sand from one bucket to another,44,Joe Thomas,56.0,87,% sand diverted ▲
+819,347,Move the sand from one bucket to another,45,Lou Sanders,68.0,87,% sand diverted ▲
+820,347,Move the sand from one bucket to another,46,Paul Sinha,23.0,87,% sand diverted ▲
+821,347,Move the sand from one bucket to another,47,Sian Gibson,54.0,87,% sand diverted ▲
+822,349,Play long-distance catch with a beach ball,43,Iain Stirling,10557.0,9,miles ▲
+823,349,Play long-distance catch with a beach ball,44,Joe Thomas,466.0,9,miles ▲
+824,349,Play long-distance catch with a beach ball,45,Lou Sanders,10557.0,9,miles ▲
+825,349,Play long-distance catch with a beach ball,46,Paul Sinha,10557.0,9,miles ▲
+826,349,Play long-distance catch with a beach ball,47,Sian Gibson,466.0,9,miles ▲
+827,350,Herd the ping pong balls into a pen,43,Iain Stirling,27.0,88,herded ping pong balls ▲
+828,350,Herd the ping pong balls into a pen,44,Joe Thomas,25.5,88,herded ping pong balls ▲
+829,350,Herd the ping pong balls into a pen,45,Lou Sanders,25.5,88,herded ping pong balls ▲
+830,350,Herd the ping pong balls into a pen,46,Paul Sinha,1.0,88,herded ping pong balls ▲
+831,350,Herd the ping pong balls into a pen,47,Sian Gibson,8.0,88,herded ping pong balls ▲
+832,353,Conceal yourself inside a phone box,43,Iain Stirling,286.0,2,time ▼
+833,353,Conceal yourself inside a phone box,44,Joe Thomas,?,2,time ▼
+834,353,Conceal yourself inside a phone box,45,Lou Sanders,497.0,2,time ▼
+835,353,Conceal yourself inside a phone box,46,Paul Sinha,1367.0,2,time ▼
+836,353,Conceal yourself inside a phone box,47,Sian Gibson,?,2,time ▼
+837,355,Recall the order of the deck of cards,43,Iain Stirling,25.0,18,mistakes ▼
+838,355,Recall the order of the deck of cards,44,Joe Thomas,7.0,18,mistakes ▼
+839,355,Recall the order of the deck of cards,45,Lou Sanders,,18,mistakes ▼
+840,355,Recall the order of the deck of cards,46,Paul Sinha,1.0,18,mistakes ▼
+841,355,Recall the order of the deck of cards,47,Sian Gibson,13.0,18,mistakes ▼
+842,356,Score a goal from the greatest distance,43,Iain Stirling,,4,meters ▲
+843,356,Score a goal from the greatest distance,44,Joe Thomas,,4,meters ▲
+844,356,Score a goal from the greatest distance,45,Lou Sanders,,4,meters ▲
+845,356,Score a goal from the greatest distance,46,Paul Sinha,,4,meters ▲
+846,356,Score a goal from the greatest distance,47,Sian Gibson,9.8,4,meters ▲
+847,359,Find the apples,43,Iain Stirling,,89,pink ladies ▲
+848,359,Find the apples,44,Joe Thomas,5.0,89,pink ladies ▲
+849,359,Find the apples,45,Lou Sanders,4.0,89,pink ladies ▲
+850,359,Find the apples,46,Paul Sinha,2.0,89,pink ladies ▲
+851,359,Find the apples,47,Sian Gibson,,89,pink ladies ▲
+852,360,Work out the crisp flavours,43,Iain Stirling,1.5,90,correctly guessed crisp flavors ▲
+853,360,Work out the crisp flavours,44,Joe Thomas,2.0,90,correctly guessed crisp flavors ▲
+854,360,Work out the crisp flavours,45,Lou Sanders,0.5,90,correctly guessed crisp flavors ▲
+855,360,Work out the crisp flavours,46,Paul Sinha,1.0,90,correctly guessed crisp flavors ▲
+856,360,Work out the crisp flavours,47,Sian Gibson,0.5,90,correctly guessed crisp flavors ▲
+857,365,Catch the tennis balls,43,Iain Stirling,-5.0,91,points ▲
+858,365,Catch the tennis balls,44,Joe Thomas,,91,points ▲
+859,365,Catch the tennis balls,45,Lou Sanders,4.0,91,points ▲
+860,365,Catch the tennis balls,46,Paul Sinha,-26.0,91,points ▲
+861,365,Catch the tennis balls,47,Sian Gibson,,91,points ▲
+862,366,Move the beach ball across the finish line using only water,43,Iain Stirling,70.0,2,time ▼
+863,366,Move the beach ball across the finish line using only water,44,Joe Thomas,981.0,2,time ▼
+864,366,Move the beach ball across the finish line using only water,45,Lou Sanders,337.0,2,time ▼
+865,366,Move the beach ball across the finish line using only water,46,Paul Sinha,690.0,2,time ▼
+866,366,Move the beach ball across the finish line using only water,47,Sian Gibson,400.0,2,time ▼
+867,367,Complete the five-syllable words,43,Iain Stirling,12.0,91,points ▲
+868,367,Complete the five-syllable words,44,Joe Thomas,3.0,91,points ▲
+869,367,Complete the five-syllable words,45,Lou Sanders,0.0,91,points ▲
+870,367,Complete the five-syllable words,46,Paul Sinha,14.0,91,points ▲
+871,367,Complete the five-syllable words,47,Sian Gibson,5.0,91,points ▲
+872,369,Get a ball into a bin with the most bounces,43,Iain Stirling,36.0,92,bounces ▲
+873,369,Get a ball into a bin with the most bounces,44,Joe Thomas,4.0,92,bounces ▲
+874,369,Get a ball into a bin with the most bounces,45,Lou Sanders,225.0,92,bounces ▲
+875,369,Get a ball into a bin with the most bounces,46,Paul Sinha,9.0,92,bounces ▲
+876,369,Get a ball into a bin with the most bounces,47,Sian Gibson,112.0,92,bounces ▲
+877,372,Complete some tasks as one person,43,Iain Stirling,343.0,2,time ▼
+878,372,Complete some tasks as one person,44,Joe Thomas,210.0,2,time ▼
+879,372,Complete some tasks as one person,45,Lou Sanders,343.0,2,time ▼
+880,372,Complete some tasks as one person,46,Paul Sinha,343.0,2,time ▼
+881,372,Complete some tasks as one person,47,Sian Gibson,210.0,2,time ▼
+882,373,Stack plates and bowls on your head,43,Iain Stirling,4.0,93,plates and bowls ▲
+883,373,Stack plates and bowls on your head,44,Joe Thomas,3.0,93,plates and bowls ▲
+884,373,Stack plates and bowls on your head,45,Lou Sanders,6.0,93,plates and bowls ▲
+885,373,Stack plates and bowls on your head,46,Paul Sinha,5.0,93,plates and bowls ▲
+886,373,Stack plates and bowls on your head,47,Sian Gibson,0.0,93,plates and bowls ▲
+887,375,Erase the eraser,43,Iain Stirling,20.0,2,time ▼
+888,375,Erase the eraser,44,Joe Thomas,1172.0,2,time ▼
+889,375,Erase the eraser,45,Lou Sanders,170.0,2,time ▼
+890,375,Erase the eraser,46,Paul Sinha,34.0,2,time ▼
+891,375,Erase the eraser,47,Sian Gibson,580.0,2,time ▼
+892,378,Hook a duck while wearing inversion goggles,43,Iain Stirling,,2,time ▼
+893,378,Hook a duck while wearing inversion goggles,44,Joe Thomas,,2,time ▼
+894,378,Hook a duck while wearing inversion goggles,45,Lou Sanders,,2,time ▼
+895,378,Hook a duck while wearing inversion goggles,46,Paul Sinha,,2,time ▼
+896,378,Hook a duck while wearing inversion goggles,47,Sian Gibson,,2,time ▼
+897,380,Hide three aubergines from Alex,48,David Baddiel,120.0,35,time ▲
+898,380,Hide three aubergines from Alex,49,Ed Gamble,833.0,35,time ▲
+899,380,Hide three aubergines from Alex,50,Jo Brand,458.0,35,time ▲
+900,380,Hide three aubergines from Alex,51,Katy Wix,325.0,35,time ▲
+901,380,Hide three aubergines from Alex,52,Rose Matafeo,543.0,35,time ▲
+902,381,Arrange the lollies in rainbow order,48,David Baddiel,1.0,94,correct lollies ▲
+903,381,Arrange the lollies in rainbow order,49,Ed Gamble,3.0,94,correct lollies ▲
+904,381,Arrange the lollies in rainbow order,50,Jo Brand,1.0,94,correct lollies ▲
+905,381,Arrange the lollies in rainbow order,51,Katy Wix,0.0,94,correct lollies ▲
+906,381,Arrange the lollies in rainbow order,52,Rose Matafeo,3.0,94,correct lollies ▲
+907,385,Identify which bin Alex is in,48,David Baddiel,413.0,2,time ▼
+908,385,Identify which bin Alex is in,49,Ed Gamble,220.0,2,time ▼
+909,385,Identify which bin Alex is in,50,Jo Brand,,2,time ▼
+910,385,Identify which bin Alex is in,51,Katy Wix,,2,time ▼
+911,385,Identify which bin Alex is in,52,Rose Matafeo,,2,time ▼
+912,387,Say the word ‘demeaning’,48,David Baddiel,2186.0,2,time ▼
+913,387,Say the word ‘demeaning’,49,Ed Gamble,1740.0,2,time ▼
+914,387,Say the word ‘demeaning’,50,Jo Brand,2186.0,2,time ▼
+915,387,Say the word ‘demeaning’,51,Katy Wix,1740.0,2,time ▼
+916,387,Say the word ‘demeaning’,52,Rose Matafeo,1740.0,2,time ▼
+917,388,Arrange the playdough balls / Do the correct things with the balls,48,David Baddiel,3.0,95,correct balls ▲
+918,388,Arrange the playdough balls / Do the correct things with the balls,49,Ed Gamble,11.0,95,correct balls ▲
+919,388,Arrange the playdough balls / Do the correct things with the balls,50,Jo Brand,23.0,95,correct balls ▲
+920,388,Arrange the playdough balls / Do the correct things with the balls,51,Katy Wix,11.0,95,correct balls ▲
+921,388,Arrange the playdough balls / Do the correct things with the balls,52,Rose Matafeo,8.0,95,correct balls ▲
+922,390,Surprise memory test,48,David Baddiel,?,96,remembered items ▲
+923,390,Surprise memory test,49,Ed Gamble,4.0,96,remembered items ▲
+924,390,Surprise memory test,50,Jo Brand,1.0,96,remembered items ▲
+925,390,Surprise memory test,51,Katy Wix,11.0,96,remembered items ▲
+926,390,Surprise memory test,52,Rose Matafeo,2.0,96,remembered items ▲
+927,392,Score a goal with a steamroller,48,David Baddiel,920.0,2,time ▼
+928,392,Score a goal with a steamroller,49,Ed Gamble,?,2,time ▼
+929,392,Score a goal with a steamroller,50,Jo Brand,480.0,2,time ▼
+930,392,Score a goal with a steamroller,51,Katy Wix,660.0,2,time ▼
+931,392,Score a goal with a steamroller,52,Rose Matafeo,285.0,2,time ▼
+932,394,Fill a glass with water,48,David Baddiel,9.0,97,parts water minus other ▲
+933,394,Fill a glass with water,49,Ed Gamble,15.0,97,parts water minus other ▲
+934,394,Fill a glass with water,50,Jo Brand,0.0,97,parts water minus other ▲
+935,394,Fill a glass with water,51,Katy Wix,7.0,97,parts water minus other ▲
+936,394,Fill a glass with water,52,Rose Matafeo,9.0,97,parts water minus other ▲
+937,398,Fill a tray with things beginning with a letter you chose,48,David Baddiel,1.0,98,correct-initialed things ▲
+938,398,Fill a tray with things beginning with a letter you chose,49,Ed Gamble,44.0,98,correct-initialed things ▲
+939,398,Fill a tray with things beginning with a letter you chose,50,Jo Brand,136.0,98,correct-initialed things ▲
+940,398,Fill a tray with things beginning with a letter you chose,51,Katy Wix,168.0,98,correct-initialed things ▲
+941,398,Fill a tray with things beginning with a letter you chose,52,Rose Matafeo,306.0,98,correct-initialed things ▲
+942,401,Lasso Alex,48,David Baddiel,1440.0,2,time ▼
+943,401,Lasso Alex,49,Ed Gamble,570.0,2,time ▼
+944,401,Lasso Alex,50,Jo Brand,80.0,2,time ▼
+945,401,Lasso Alex,51,Katy Wix,450.0,2,time ▼
+946,401,Lasso Alex,52,Rose Matafeo,140.0,2,time ▼
+947,403,"Get to know a person who alternately tells the truth, lies, and brags",48,David Baddiel,1.5,32,correct answers ▲
+948,403,"Get to know a person who alternately tells the truth, lies, and brags",49,Ed Gamble,3.5,32,correct answers ▲
+949,403,"Get to know a person who alternately tells the truth, lies, and brags",50,Jo Brand,1.5,32,correct answers ▲
+950,403,"Get to know a person who alternately tells the truth, lies, and brags",51,Katy Wix,3.5,32,correct answers ▲
+951,403,"Get to know a person who alternately tells the truth, lies, and brags",52,Rose Matafeo,3.5,32,correct answers ▲
+952,404,Build a tower behind you using a mirror and litter pickers,48,David Baddiel,1.0,99,bricks ▲
+953,404,Build a tower behind you using a mirror and litter pickers,49,Ed Gamble,2.0,99,bricks ▲
+954,404,Build a tower behind you using a mirror and litter pickers,50,Jo Brand,1.0,99,bricks ▲
+955,404,Build a tower behind you using a mirror and litter pickers,51,Katy Wix,1.0,99,bricks ▲
+956,404,Build a tower behind you using a mirror and litter pickers,52,Rose Matafeo,2.0,99,bricks ▲
+957,407,Push a watermelon up a slide using breadsticks,48,David Baddiel,,2,time ▼
+958,407,Push a watermelon up a slide using breadsticks,49,Ed Gamble,?,2,time ▼
+959,407,Push a watermelon up a slide using breadsticks,50,Jo Brand,,2,time ▼
+960,407,Push a watermelon up a slide using breadsticks,51,Katy Wix,,2,time ▼
+961,407,Push a watermelon up a slide using breadsticks,52,Rose Matafeo,,2,time ▼
+962,411,Throw eggs into metal receptacles,48,David Baddiel,8.0,91,points ▲
+963,411,Throw eggs into metal receptacles,49,Ed Gamble,10.0,91,points ▲
+964,411,Throw eggs into metal receptacles,50,Jo Brand,2.0,91,points ▲
+965,411,Throw eggs into metal receptacles,51,Katy Wix,12.0,91,points ▲
+966,411,Throw eggs into metal receptacles,52,Rose Matafeo,10.0,91,points ▲
+967,413,Find and put the gold rings on the stick,48,David Baddiel,1.0,100,gold rings ▲
+968,413,Find and put the gold rings on the stick,49,Ed Gamble,3.0,100,gold rings ▲
+969,413,Find and put the gold rings on the stick,50,Jo Brand,2.0,100,gold rings ▲
+970,413,Find and put the gold rings on the stick,51,Katy Wix,3.0,100,gold rings ▲
+971,413,Find and put the gold rings on the stick,52,Rose Matafeo,2.0,100,gold rings ▲
+972,414,Horse or laminator?,48,David Baddiel,0.0,32,correct answers ▲
+973,414,Horse or laminator?,49,Ed Gamble,1.0,32,correct answers ▲
+974,414,Horse or laminator?,50,Jo Brand,13.0,32,correct answers ▲
+975,414,Horse or laminator?,51,Katy Wix,5.0,32,correct answers ▲
+976,414,Horse or laminator?,52,Rose Matafeo,1.0,32,correct answers ▲
+977,416,Throw something into a pedal bin,48,David Baddiel,0.0,4,meters ▲
+978,416,Throw something into a pedal bin,49,Ed Gamble,12.4,4,meters ▲
+979,416,Throw something into a pedal bin,50,Jo Brand,2.6,4,meters ▲
+980,416,Throw something into a pedal bin,51,Katy Wix,1.4,4,meters ▲
+981,416,Throw something into a pedal bin,52,Rose Matafeo,2.45,4,meters ▲
+982,422,"Inflate, tie, and pop the most balloons",48,David Baddiel,14.0,101,balloons ▲
+983,422,"Inflate, tie, and pop the most balloons",49,Ed Gamble,41.0,101,balloons ▲
+984,422,"Inflate, tie, and pop the most balloons",50,Jo Brand,,101,balloons ▲
+985,422,"Inflate, tie, and pop the most balloons",51,Katy Wix,,101,balloons ▲
+986,422,"Inflate, tie, and pop the most balloons",52,Rose Matafeo,17.0,101,balloons ▲
+987,428,Complete the seven tasks in any order,48,David Baddiel,,2,time ▼
+988,428,Complete the seven tasks in any order,49,Ed Gamble,?,2,time ▼
+989,428,Complete the seven tasks in any order,50,Jo Brand,,2,time ▼
+990,428,Complete the seven tasks in any order,51,Katy Wix,,2,time ▼
+991,428,Complete the seven tasks in any order,52,Rose Matafeo,,2,time ▼
+992,430,Use a spread to delay a pop-up toy,49,Ed Gamble,5400.0,35,time ▲
+993,430,Use a spread to delay a pop-up toy,52,Rose Matafeo,44.0,35,time ▲
+994,432,"Fell the coconut, then move the drinks",53,Daisy May Cooper,,2,time ▼
+995,432,"Fell the coconut, then move the drinks",54,Johnny Vegas,,2,time ▼
+996,432,"Fell the coconut, then move the drinks",55,Katherine Parkinson,,2,time ▼
+997,432,"Fell the coconut, then move the drinks",56,Mawaan Rizwan,,2,time ▼
+998,432,"Fell the coconut, then move the drinks",57,Richard Herring,,2,time ▼
+999,434,Get the most eggs in the pan,53,Daisy May Cooper,,102,egg ▲
+1000,434,Get the most eggs in the pan,54,Johnny Vegas,,102,egg ▲
+1001,434,Get the most eggs in the pan,55,Katherine Parkinson,,102,egg ▲
+1002,434,Get the most eggs in the pan,56,Mawaan Rizwan,,102,egg ▲
+1003,434,Get the most eggs in the pan,57,Richard Herring,,102,egg ▲
+1004,435,Get the most balls of the same colour in your bucket using litter pickers,53,Daisy May Cooper,8.0,103,correct minus incorrect balls ▲
+1005,435,Get the most balls of the same colour in your bucket using litter pickers,54,Johnny Vegas,6.0,103,correct minus incorrect balls ▲
+1006,435,Get the most balls of the same colour in your bucket using litter pickers,55,Katherine Parkinson,-1.0,103,correct minus incorrect balls ▲
+1007,435,Get the most balls of the same colour in your bucket using litter pickers,56,Mawaan Rizwan,5.0,103,correct minus incorrect balls ▲
+1008,435,Get the most balls of the same colour in your bucket using litter pickers,57,Richard Herring,12.0,103,correct minus incorrect balls ▲
+1009,437,"Find the treasure / Make different, increasingly loud noises",53,Daisy May Cooper,1135.0,2,time ▼
+1010,437,"Find the treasure / Make different, increasingly loud noises",54,Johnny Vegas,1054.0,2,time ▼
+1011,437,"Find the treasure / Make different, increasingly loud noises",55,Katherine Parkinson,1054.0,2,time ▼
+1012,437,"Find the treasure / Make different, increasingly loud noises",56,Mawaan Rizwan,1054.0,2,time ▼
+1013,437,"Find the treasure / Make different, increasingly loud noises",57,Richard Herring,1135.0,2,time ▼
+1014,439,Get all the exercise balls in the hoops while in a boat,53,Daisy May Cooper,342.0,2,time ▼
+1015,439,Get all the exercise balls in the hoops while in a boat,54,Johnny Vegas,1320.0,2,time ▼
+1016,439,Get all the exercise balls in the hoops while in a boat,55,Katherine Parkinson,602.0,2,time ▼
+1017,439,Get all the exercise balls in the hoops while in a boat,56,Mawaan Rizwan,,2,time ▼
+1018,439,Get all the exercise balls in the hoops while in a boat,57,Richard Herring,393.0,2,time ▼
+1019,440,Guess what is making the noises,53,Daisy May Cooper,6.0,104,correct guesses ▲
+1020,440,Guess what is making the noises,54,Johnny Vegas,3.0,104,correct guesses ▲
+1021,440,Guess what is making the noises,55,Katherine Parkinson,3.0,104,correct guesses ▲
+1022,440,Guess what is making the noises,56,Mawaan Rizwan,4.0,104,correct guesses ▲
+1023,440,Guess what is making the noises,57,Richard Herring,6.0,104,correct guesses ▲
+1024,441,Select a wind-up dinosaur,55,Katherine Parkinson,7.0,10,centimeters ▲
+1025,441,Select a wind-up dinosaur,57,Richard Herring,,10,centimeters ▲
+1026,444,Put the most spaghetti in a grapefruit,53,Daisy May Cooper,757.0,1,grams ▲
+1027,444,Put the most spaghetti in a grapefruit,54,Johnny Vegas,407.0,1,grams ▲
+1028,444,Put the most spaghetti in a grapefruit,55,Katherine Parkinson,73.0,1,grams ▲
+1029,444,Put the most spaghetti in a grapefruit,56,Mawaan Rizwan,442.0,1,grams ▲
+1030,444,Put the most spaghetti in a grapefruit,57,Richard Herring,147.0,1,grams ▲
+1031,445,Catapult a shoe into a bathtub,53,Daisy May Cooper,485.0,2,time ▼
+1032,445,Catapult a shoe into a bathtub,54,Johnny Vegas,740.0,2,time ▼
+1033,445,Catapult a shoe into a bathtub,55,Katherine Parkinson,1965.0,2,time ▼
+1034,445,Catapult a shoe into a bathtub,56,Mawaan Rizwan,1872.0,2,time ▼
+1035,445,Catapult a shoe into a bathtub,57,Richard Herring,970.0,2,time ▼
+1036,446,Draw an object on a rotating canvas,53,Daisy May Cooper,3.0,105,round wins ▲
+1037,446,Draw an object on a rotating canvas,54,Johnny Vegas,0.0,105,round wins ▲
+1038,446,Draw an object on a rotating canvas,55,Katherine Parkinson,0.0,105,round wins ▲
+1039,446,Draw an object on a rotating canvas,56,Mawaan Rizwan,0.0,105,round wins ▲
+1040,446,Draw an object on a rotating canvas,57,Richard Herring,3.0,105,round wins ▲
+1041,448,Make the phone ring,53,Daisy May Cooper,680.0,2,time ▼
+1042,448,Make the phone ring,54,Johnny Vegas,1740.0,2,time ▼
+1043,448,Make the phone ring,55,Katherine Parkinson,1246.0,2,time ▼
+1044,448,Make the phone ring,56,Mawaan Rizwan,1027.0,2,time ▼
+1045,448,Make the phone ring,57,Richard Herring,600.0,2,time ▼
+1046,450,Drop a water balloon as far as possible without it bursting,53,Daisy May Cooper,7.35,4,meters ▲
+1047,450,Drop a water balloon as far as possible without it bursting,54,Johnny Vegas,7.35,4,meters ▲
+1048,450,Drop a water balloon as far as possible without it bursting,55,Katherine Parkinson,7.35,4,meters ▲
+1049,450,Drop a water balloon as far as possible without it bursting,56,Mawaan Rizwan,1.72,4,meters ▲
+1050,450,Drop a water balloon as far as possible without it bursting,57,Richard Herring,3.5,4,meters ▲
+1051,453,Bag the heaviest thing from the greatest distance,53,Daisy May Cooper,18200.0,1,grams ▲
+1052,453,Bag the heaviest thing from the greatest distance,53,Daisy May Cooper,100.0,10,centimeters ▲
+1053,453,Bag the heaviest thing from the greatest distance,53,Daisy May Cooper,1820000.0,91,points ▲
+1054,453,Bag the heaviest thing from the greatest distance,54,Johnny Vegas,100000.0,1,grams ▲
+1055,453,Bag the heaviest thing from the greatest distance,54,Johnny Vegas,10.0,10,centimeters ▲
+1056,453,Bag the heaviest thing from the greatest distance,54,Johnny Vegas,1000000.0,91,points ▲
+1057,453,Bag the heaviest thing from the greatest distance,55,Katherine Parkinson,139706.45,1,grams ▲
+1058,453,Bag the heaviest thing from the greatest distance,55,Katherine Parkinson,3300.0,10,centimeters ▲
+1059,453,Bag the heaviest thing from the greatest distance,55,Katherine Parkinson,461031285.0,91,points ▲
+1060,453,Bag the heaviest thing from the greatest distance,56,Mawaan Rizwan,8600.0,1,grams ▲
+1061,453,Bag the heaviest thing from the greatest distance,56,Mawaan Rizwan,305.0,10,centimeters ▲
+1062,453,Bag the heaviest thing from the greatest distance,56,Mawaan Rizwan,2623000.0,91,points ▲
+1063,453,Bag the heaviest thing from the greatest distance,57,Richard Herring,15500.0,1,grams ▲
+1064,453,Bag the heaviest thing from the greatest distance,57,Richard Herring,270.0,10,centimeters ▲
+1065,453,Bag the heaviest thing from the greatest distance,57,Richard Herring,4185000.0,91,points ▲
+1066,456,Feed your team-mate(s) the most watermelon,53,Daisy May Cooper,1000.0,1,grams ▲
+1067,456,Feed your team-mate(s) the most watermelon,54,Johnny Vegas,331.0,1,grams ▲
+1068,456,Feed your team-mate(s) the most watermelon,55,Katherine Parkinson,331.0,1,grams ▲
+1069,456,Feed your team-mate(s) the most watermelon,56,Mawaan Rizwan,331.0,1,grams ▲
+1070,456,Feed your team-mate(s) the most watermelon,57,Richard Herring,1000.0,1,grams ▲
+1071,461,Transfer the water from one barrel to another,53,Daisy May Cooper,12.5,59,inches ▲
+1072,461,Transfer the water from one barrel to another,54,Johnny Vegas,10.0,59,inches ▲
+1073,461,Transfer the water from one barrel to another,55,Katherine Parkinson,7.0,59,inches ▲
+1074,461,Transfer the water from one barrel to another,56,Mawaan Rizwan,16.0,59,inches ▲
+1075,461,Transfer the water from one barrel to another,57,Richard Herring,12.0,59,inches ▲
+1076,464,Move two chickens around a course using a remote-control car and a mobility scooter,53,Daisy May Cooper,,2,time ▼
+1077,464,Move two chickens around a course using a remote-control car and a mobility scooter,54,Johnny Vegas,220.0,2,time ▼
+1078,464,Move two chickens around a course using a remote-control car and a mobility scooter,55,Katherine Parkinson,,2,time ▼
+1079,464,Move two chickens around a course using a remote-control car and a mobility scooter,56,Mawaan Rizwan,?,2,time ▼
+1080,464,Move two chickens around a course using a remote-control car and a mobility scooter,57,Richard Herring,270.0,2,time ▼
+1081,466,Make the best and longest-lasting marble run,53,Daisy May Cooper,11.35,35,time ▲
+1082,466,Make the best and longest-lasting marble run,54,Johnny Vegas,8.1,35,time ▲
+1083,466,Make the best and longest-lasting marble run,55,Katherine Parkinson,32.4,35,time ▲
+1084,466,Make the best and longest-lasting marble run,56,Mawaan Rizwan,,35,time ▲
+1085,466,Make the best and longest-lasting marble run,57,Richard Herring,8.38,35,time ▲
+1086,468,Work out how many sheets are on a toilet roll,54,Johnny Vegas,60.0,106,difference in sheets ▼
+1087,468,Work out how many sheets are on a toilet roll,56,Mawaan Rizwan,183.0,106,difference in sheets ▼
+1088,470,Fill the cup to overflowing without touching the red green,53,Daisy May Cooper,,2,time ▼
+1089,470,Fill the cup to overflowing without touching the red green,54,Johnny Vegas,,2,time ▼
+1090,470,Fill the cup to overflowing without touching the red green,55,Katherine Parkinson,,2,time ▼
+1091,470,Fill the cup to overflowing without touching the red green,56,Mawaan Rizwan,,2,time ▼
+1092,470,Fill the cup to overflowing without touching the red green,57,Richard Herring,,2,time ▼
+1093,472,Extract water from a coconut,53,Daisy May Cooper,,2,time ▼
+1094,472,Extract water from a coconut,54,Johnny Vegas,57.0,2,time ▼
+1095,472,Extract water from a coconut,55,Katherine Parkinson,?,2,time ▼
+1096,472,Extract water from a coconut,56,Mawaan Rizwan,,2,time ▼
+1097,472,Extract water from a coconut,57,Richard Herring,?,2,time ▼
+1098,476,Complete the most tasks behind the five motorised doors,53,Daisy May Cooper,3.0,107,completed tasks ▲
+1099,476,Complete the most tasks behind the five motorised doors,54,Johnny Vegas,2.3,107,completed tasks ▲
+1100,476,Complete the most tasks behind the five motorised doors,55,Katherine Parkinson,?,107,completed tasks ▲
+1101,476,Complete the most tasks behind the five motorised doors,56,Mawaan Rizwan,?,107,completed tasks ▲
+1102,476,Complete the most tasks behind the five motorised doors,57,Richard Herring,2.5,107,completed tasks ▲
+1103,477,Work out how many balls are in the basket,53,Daisy May Cooper,637.0,108,difference in balls ▼
+1104,477,Work out how many balls are in the basket,54,Johnny Vegas,,108,difference in balls ▼
+1105,477,Work out how many balls are in the basket,55,Katherine Parkinson,,108,difference in balls ▼
+1106,477,Work out how many balls are in the basket,56,Mawaan Rizwan,1030.0,108,difference in balls ▼
+1107,477,Work out how many balls are in the basket,57,Richard Herring,797.0,108,difference in balls ▼
+1108,478,Draw the monster described by the Taskmaster,53,Daisy May Cooper,10.0,109,monster criteria ▲
+1109,478,Draw the monster described by the Taskmaster,54,Johnny Vegas,11.0,109,monster criteria ▲
+1110,478,Draw the monster described by the Taskmaster,55,Katherine Parkinson,10.0,109,monster criteria ▲
+1111,478,Draw the monster described by the Taskmaster,56,Mawaan Rizwan,11.0,109,monster criteria ▲
+1112,478,Draw the monster described by the Taskmaster,57,Richard Herring,14.0,109,monster criteria ▲
+1113,480,Put the wellies on the spider’s feet,53,Daisy May Cooper,488.0,2,time ▼
+1114,480,Put the wellies on the spider’s feet,54,Johnny Vegas,,2,time ▼
+1115,480,Put the wellies on the spider’s feet,55,Katherine Parkinson,,2,time ▼
+1116,480,Put the wellies on the spider’s feet,56,Mawaan Rizwan,?,2,time ▼
+1117,480,Put the wellies on the spider’s feet,57,Richard Herring,708.0,2,time ▼
+1118,482,Neatly hang all the clothes on a rail without stepping over the line,53,Daisy May Cooper,1029.0,2,time ▼
+1119,482,Neatly hang all the clothes on a rail without stepping over the line,54,Johnny Vegas,410.0,2,time ▼
+1120,482,Neatly hang all the clothes on a rail without stepping over the line,55,Katherine Parkinson,314.0,2,time ▼
+1121,482,Neatly hang all the clothes on a rail without stepping over the line,56,Mawaan Rizwan,575.0,2,time ▼
+1122,482,Neatly hang all the clothes on a rail without stepping over the line,57,Richard Herring,490.0,2,time ▼
+1123,484,Guess how many green eggs are under the Taskmaster’s chair,56,Mawaan Rizwan,6.0,110,difference in green eggs ▼
+1124,484,Guess how many green eggs are under the Taskmaster’s chair,57,Richard Herring,4.0,110,difference in green eggs ▼
+1125,486,Get the biggest thing through the doughnut,58,John Hannah,1500.0,111,centimeters cubed ▲
+1126,486,Get the biggest thing through the doughnut,59,Krishnan Guru-Murthy,5000.0,111,centimeters cubed ▲
+1127,486,Get the biggest thing through the doughnut,60,Nicola Coughlan,1.0,111,centimeters cubed ▲
+1128,486,Get the biggest thing through the doughnut,61,Rylan Clark-Neal,800000.0,111,centimeters cubed ▲
+1129,486,Get the biggest thing through the doughnut,62,Shirley Ballas,9000.0,111,centimeters cubed ▲
+1130,488,Build the lightest tower,58,John Hannah,160.0,112,grams ▼
+1131,488,Build the lightest tower,59,Krishnan Guru-Murthy,185.0,112,grams ▼
+1132,488,Build the lightest tower,60,Nicola Coughlan,,112,grams ▼
+1133,488,Build the lightest tower,61,Rylan Clark-Neal,,112,grams ▼
+1134,488,Build the lightest tower,62,Shirley Ballas,265.0,112,grams ▼
+1135,489,Strike balls into a bath with an object,58,John Hannah,1.0,113,balls ▲
+1136,489,Strike balls into a bath with an object,59,Krishnan Guru-Murthy,0.0,113,balls ▲
+1137,489,Strike balls into a bath with an object,60,Nicola Coughlan,1.0,113,balls ▲
+1138,489,Strike balls into a bath with an object,61,Rylan Clark-Neal,0.0,113,balls ▲
+1139,489,Strike balls into a bath with an object,62,Shirley Ballas,2.0,113,balls ▲
+1140,493,Deliver all the plates to Alex,63,Charlotte Ritchie,0.0,36,penalties ▼
+1141,493,Deliver all the plates to Alex,63,Charlotte Ritchie,312.0,2,time ▼
+1142,493,Deliver all the plates to Alex,64,Jamali Maddix,9.0,36,penalties ▼
+1143,493,Deliver all the plates to Alex,64,Jamali Maddix,11280.0,2,time ▼
+1144,493,Deliver all the plates to Alex,65,Lee Mack,0.0,36,penalties ▼
+1145,493,Deliver all the plates to Alex,65,Lee Mack,80.0,2,time ▼
+1146,493,Deliver all the plates to Alex,66,Mike Wozniak,0.0,36,penalties ▼
+1147,493,Deliver all the plates to Alex,66,Mike Wozniak,182.0,2,time ▼
+1148,493,Deliver all the plates to Alex,67,Sarah Kendall,0.0,36,penalties ▼
+1149,493,Deliver all the plates to Alex,67,Sarah Kendall,149.0,2,time ▼
+1150,494,Stack your buckets so that they are taller than you,63,Charlotte Ritchie,,2,time ▼
+1151,494,Stack your buckets so that they are taller than you,64,Jamali Maddix,,2,time ▼
+1152,494,Stack your buckets so that they are taller than you,65,Lee Mack,,2,time ▼
+1153,494,Stack your buckets so that they are taller than you,66,Mike Wozniak,,2,time ▼
+1154,494,Stack your buckets so that they are taller than you,67,Sarah Kendall,?,2,time ▼
+1155,496,Make the balloon hover,63,Charlotte Ritchie,,2,time ▼
+1156,496,Make the balloon hover,64,Jamali Maddix,290.0,2,time ▼
+1157,496,Make the balloon hover,65,Lee Mack,,2,time ▼
+1158,496,Make the balloon hover,66,Mike Wozniak,480.0,2,time ▼
+1159,496,Make the balloon hover,67,Sarah Kendall,1278.0,2,time ▼
+1160,497,Have an argument,63,Charlotte Ritchie,188.0,35,time ▲
+1161,497,Have an argument,64,Jamali Maddix,188.0,35,time ▲
+1162,497,Have an argument,65,Lee Mack,335.0,35,time ▲
+1163,497,Have an argument,66,Mike Wozniak,335.0,35,time ▲
+1164,497,Have an argument,67,Sarah Kendall,188.0,35,time ▲
+1165,499,Correctly guess your standing in the group,63,Charlotte Ritchie,1.0,104,correct guesses ▲
+1166,499,Correctly guess your standing in the group,64,Jamali Maddix,1.0,104,correct guesses ▲
+1167,499,Correctly guess your standing in the group,65,Lee Mack,4.0,104,correct guesses ▲
+1168,499,Correctly guess your standing in the group,66,Mike Wozniak,2.0,104,correct guesses ▲
+1169,499,Correctly guess your standing in the group,67,Sarah Kendall,2.0,104,correct guesses ▲
+1170,501,Make the sauna stones hiss,63,Charlotte Ritchie,700.0,2,time ▼
+1171,501,Make the sauna stones hiss,64,Jamali Maddix,1530.0,2,time ▼
+1172,501,Make the sauna stones hiss,65,Lee Mack,750.0,2,time ▼
+1173,501,Make the sauna stones hiss,66,Mike Wozniak,704.0,2,time ▼
+1174,501,Make the sauna stones hiss,67,Sarah Kendall,482.0,2,time ▼
+1175,503,Get your luggage through security,63,Charlotte Ritchie,,2,time ▼
+1176,503,Get your luggage through security,64,Jamali Maddix,,2,time ▼
+1177,503,Get your luggage through security,65,Lee Mack,697.0,2,time ▼
+1178,503,Get your luggage through security,66,Mike Wozniak,,2,time ▼
+1179,503,Get your luggage through security,67,Sarah Kendall,?,2,time ▼
+1180,504,Act out nursery rhymes,63,Charlotte Ritchie,4.0,114,nursery rhymes ▲
+1181,504,Act out nursery rhymes,64,Jamali Maddix,4.0,114,nursery rhymes ▲
+1182,504,Act out nursery rhymes,65,Lee Mack,7.0,114,nursery rhymes ▲
+1183,504,Act out nursery rhymes,66,Mike Wozniak,7.0,114,nursery rhymes ▲
+1184,504,Act out nursery rhymes,67,Sarah Kendall,4.0,114,nursery rhymes ▲
+1185,506,Get all of the banana in the bottle,63,Charlotte Ritchie,,2,time ▼
+1186,506,Get all of the banana in the bottle,64,Jamali Maddix,1399.0,2,time ▼
+1187,506,Get all of the banana in the bottle,65,Lee Mack,673.0,2,time ▼
+1188,506,Get all of the banana in the bottle,66,Mike Wozniak,,2,time ▼
+1189,506,Get all of the banana in the bottle,67,Sarah Kendall,529.0,2,time ▼
+1190,507,Put the bag of salt onto that table,63,Charlotte Ritchie,?,2,time ▼
+1191,507,Put the bag of salt onto that table,64,Jamali Maddix,?,2,time ▼
+1192,507,Put the bag of salt onto that table,65,Lee Mack,,2,time ▼
+1193,507,Put the bag of salt onto that table,66,Mike Wozniak,,2,time ▼
+1194,507,Put the bag of salt onto that table,67,Sarah Kendall,?,2,time ▼
+1195,508,Get the sheet of loo roll as far away as possible,63,Charlotte Ritchie,,4,meters ▲
+1196,508,Get the sheet of loo roll as far away as possible,64,Jamali Maddix,363.0,4,meters ▲
+1197,508,Get the sheet of loo roll as far away as possible,65,Lee Mack,,4,meters ▲
+1198,508,Get the sheet of loo roll as far away as possible,66,Mike Wozniak,,4,meters ▲
+1199,508,Get the sheet of loo roll as far away as possible,67,Sarah Kendall,14.0,4,meters ▲
+1200,509,Identify the contents of the bowl,63,Charlotte Ritchie,2.0,32,correct answers ▲
+1201,509,Identify the contents of the bowl,64,Jamali Maddix,4.0,32,correct answers ▲
+1202,509,Identify the contents of the bowl,65,Lee Mack,1.0,32,correct answers ▲
+1203,509,Identify the contents of the bowl,66,Mike Wozniak,1.0,32,correct answers ▲
+1204,509,Identify the contents of the bowl,67,Sarah Kendall,3.0,32,correct answers ▲
+1205,511,Cover your legs in cling film and gaffer tape / Put on the captain’s hat,63,Charlotte Ritchie,65.0,2,time ▼
+1206,511,Cover your legs in cling film and gaffer tape / Put on the captain’s hat,64,Jamali Maddix,40.0,2,time ▼
+1207,511,Cover your legs in cling film and gaffer tape / Put on the captain’s hat,65,Lee Mack,120.0,2,time ▼
+1208,511,Cover your legs in cling film and gaffer tape / Put on the captain’s hat,66,Mike Wozniak,66.0,2,time ▼
+1209,511,Cover your legs in cling film and gaffer tape / Put on the captain’s hat,67,Sarah Kendall,41.0,2,time ▼
+1210,513,Sort the objects with your face,63,Charlotte Ritchie,5.0,60,sorted objects ▲
+1211,513,Sort the objects with your face,64,Jamali Maddix,,60,sorted objects ▲
+1212,513,Sort the objects with your face,65,Lee Mack,,60,sorted objects ▲
+1213,513,Sort the objects with your face,66,Mike Wozniak,4.0,60,sorted objects ▲
+1214,513,Sort the objects with your face,67,Sarah Kendall,,60,sorted objects ▲
+1215,514,Slap and tong,63,Charlotte Ritchie,4.0,115,slaps plus tongs ▲
+1216,514,Slap and tong,64,Jamali Maddix,4.0,115,slaps plus tongs ▲
+1217,514,Slap and tong,65,Lee Mack,2.0,115,slaps plus tongs ▲
+1218,514,Slap and tong,66,Mike Wozniak,2.0,115,slaps plus tongs ▲
+1219,514,Slap and tong,67,Sarah Kendall,4.0,115,slaps plus tongs ▲
+1220,519,Identify the battered items,63,Charlotte Ritchie,4.0,42,identified items ▲
+1221,519,Identify the battered items,64,Jamali Maddix,6.0,42,identified items ▲
+1222,519,Identify the battered items,65,Lee Mack,3.0,42,identified items ▲
+1223,519,Identify the battered items,66,Mike Wozniak,3.5,42,identified items ▲
+1224,519,Identify the battered items,67,Sarah Kendall,5.0,42,identified items ▲
+1225,521,Fire rubber bands into Alex’s bum bag,64,Jamali Maddix,7.0,116,rubber bands ▲
+1226,521,Fire rubber bands into Alex’s bum bag,66,Mike Wozniak,1.0,116,rubber bands ▲
+1227,523,Complete the most tasks,63,Charlotte Ritchie,3.0,107,completed tasks ▲
+1228,523,Complete the most tasks,64,Jamali Maddix,6.0,107,completed tasks ▲
+1229,523,Complete the most tasks,65,Lee Mack,4.0,107,completed tasks ▲
+1230,523,Complete the most tasks,66,Mike Wozniak,7.0,107,completed tasks ▲
+1231,523,Complete the most tasks,67,Sarah Kendall,2.0,107,completed tasks ▲
+1232,525,Get out of the front gate,63,Charlotte Ritchie,34.0,117,alarms ▼
+1233,525,Get out of the front gate,64,Jamali Maddix,34.0,117,alarms ▼
+1234,525,Get out of the front gate,65,Lee Mack,21.0,117,alarms ▼
+1235,525,Get out of the front gate,66,Mike Wozniak,21.0,117,alarms ▼
+1236,525,Get out of the front gate,67,Sarah Kendall,34.0,117,alarms ▼
+1237,526,Make your rubber gloves and wellies as heavy as possible,63,Charlotte Ritchie,950.0,1,grams ▲
+1238,526,Make your rubber gloves and wellies as heavy as possible,64,Jamali Maddix,,1,grams ▲
+1239,526,Make your rubber gloves and wellies as heavy as possible,65,Lee Mack,6420.0,1,grams ▲
+1240,526,Make your rubber gloves and wellies as heavy as possible,66,Mike Wozniak,1090.0,1,grams ▲
+1241,526,Make your rubber gloves and wellies as heavy as possible,67,Sarah Kendall,1120.0,1,grams ▲
+1242,528,Complete various tasks while saying ‘metronome’,63,Charlotte Ritchie,7.5,118,missed beats ▼
+1243,528,Complete various tasks while saying ‘metronome’,64,Jamali Maddix,3.0,118,missed beats ▼
+1244,528,Complete various tasks while saying ‘metronome’,65,Lee Mack,3.0,118,missed beats ▼
+1245,528,Complete various tasks while saying ‘metronome’,66,Mike Wozniak,1.0,118,missed beats ▼
+1246,528,Complete various tasks while saying ‘metronome’,67,Sarah Kendall,?,118,missed beats ▼
+1247,534,Build and topple a tower for a pot of yoghurt,63,Charlotte Ritchie,4.0,119,score ▲
+1248,534,Build and topple a tower for a pot of yoghurt,64,Jamali Maddix,1.0,119,score ▲
+1249,534,Build and topple a tower for a pot of yoghurt,65,Lee Mack,,119,score ▲
+1250,534,Build and topple a tower for a pot of yoghurt,66,Mike Wozniak,,119,score ▲
+1251,534,Build and topple a tower for a pot of yoghurt,67,Sarah Kendall,2.0,119,score ▲
+1252,539,Scientifically work out how much Alex’s feet and head weigh,63,Charlotte Ritchie,1500.0,120,difference in grams ▼
+1253,539,Scientifically work out how much Alex’s feet and head weigh,64,Jamali Maddix,37700.0,120,difference in grams ▼
+1254,539,Scientifically work out how much Alex’s feet and head weigh,65,Lee Mack,700.0,120,difference in grams ▼
+1255,539,Scientifically work out how much Alex’s feet and head weigh,66,Mike Wozniak,5200.0,120,difference in grams ▼
+1256,539,Scientifically work out how much Alex’s feet and head weigh,67,Sarah Kendall,1420.0,120,difference in grams ▼
+1257,540,Direct a teammate into the red circle,63,Charlotte Ritchie,1278.0,2,time ▼
+1258,540,Direct a teammate into the red circle,64,Jamali Maddix,1278.0,2,time ▼
+1259,540,Direct a teammate into the red circle,65,Lee Mack,250.0,2,time ▼
+1260,540,Direct a teammate into the red circle,66,Mike Wozniak,250.0,2,time ▼
+1261,540,Direct a teammate into the red circle,67,Sarah Kendall,1278.0,2,time ▼
+1262,541,"Keeping your head still at all times, correctly don your special outfit",63,Charlotte Ritchie,150.0,2,time ▼
+1263,541,"Keeping your head still at all times, correctly don your special outfit",64,Jamali Maddix,490.0,2,time ▼
+1264,541,"Keeping your head still at all times, correctly don your special outfit",65,Lee Mack,300.0,2,time ▼
+1265,541,"Keeping your head still at all times, correctly don your special outfit",66,Mike Wozniak,210.0,2,time ▼
+1266,541,"Keeping your head still at all times, correctly don your special outfit",67,Sarah Kendall,540.0,2,time ▼
+1267,543,Strike Alex with a ball,68,Alan Davies,622.0,2,time ▼
+1268,543,Strike Alex with a ball,69,Desiree Burch,363.0,2,time ▼
+1269,543,Strike Alex with a ball,70,Guz Khan,449.0,2,time ▼
+1270,543,Strike Alex with a ball,71,Morgana Robinson,124.0,2,time ▼
+1271,543,Strike Alex with a ball,72,Victoria Coren Mitchell,444.0,2,time ▼
+1272,545,Pop the balloon,68,Alan Davies,540.0,2,time ▼
+1273,545,Pop the balloon,69,Desiree Burch,10620.0,2,time ▼
+1274,545,Pop the balloon,70,Guz Khan,2218.0,2,time ▼
+1275,545,Pop the balloon,71,Morgana Robinson,3360.0,2,time ▼
+1276,545,Pop the balloon,72,Victoria Coren Mitchell,1530.0,2,time ▼
+1277,546,"Strike poses to represent a hobby, an animal, and a celebrity",68,Alan Davies,0.0,121,guessed poses ▲
+1278,546,"Strike poses to represent a hobby, an animal, and a celebrity",69,Desiree Burch,1.0,121,guessed poses ▲
+1279,546,"Strike poses to represent a hobby, an animal, and a celebrity",70,Guz Khan,1.0,121,guessed poses ▲
+1280,546,"Strike poses to represent a hobby, an animal, and a celebrity",71,Morgana Robinson,1.5,121,guessed poses ▲
+1281,546,"Strike poses to represent a hobby, an animal, and a celebrity",72,Victoria Coren Mitchell,0.0,121,guessed poses ▲
+1282,549,Work out the contents of the bags,68,Alan Davies,3.0,122,guessed ingredients ▲
+1283,549,Work out the contents of the bags,69,Desiree Burch,4.0,122,guessed ingredients ▲
+1284,549,Work out the contents of the bags,70,Guz Khan,2.5,122,guessed ingredients ▲
+1285,549,Work out the contents of the bags,71,Morgana Robinson,3.0,122,guessed ingredients ▲
+1286,549,Work out the contents of the bags,72,Victoria Coren Mitchell,8.0,122,guessed ingredients ▲
+1287,550,Paint the space hopper green,68,Alan Davies,3.0,123,speed points ▲
+1288,550,Paint the space hopper green,68,Alan Davies,3.0,124,coverage points ▲
+1289,550,Paint the space hopper green,68,Alan Davies,3.0,125,cleanliness points ▲
+1290,550,Paint the space hopper green,68,Alan Davies,9.0,91,points ▲
+1291,550,Paint the space hopper green,69,Desiree Burch,4.0,123,speed points ▲
+1292,550,Paint the space hopper green,69,Desiree Burch,2.0,124,coverage points ▲
+1293,550,Paint the space hopper green,69,Desiree Burch,2.0,125,cleanliness points ▲
+1294,550,Paint the space hopper green,69,Desiree Burch,8.0,91,points ▲
+1295,550,Paint the space hopper green,70,Guz Khan,5.0,123,speed points ▲
+1296,550,Paint the space hopper green,70,Guz Khan,4.0,124,coverage points ▲
+1297,550,Paint the space hopper green,70,Guz Khan,1.0,125,cleanliness points ▲
+1298,550,Paint the space hopper green,70,Guz Khan,10.0,91,points ▲
+1299,550,Paint the space hopper green,71,Morgana Robinson,2.0,123,speed points ▲
+1300,550,Paint the space hopper green,71,Morgana Robinson,5.0,124,coverage points ▲
+1301,550,Paint the space hopper green,71,Morgana Robinson,4.0,125,cleanliness points ▲
+1302,550,Paint the space hopper green,71,Morgana Robinson,11.0,91,points ▲
+1303,550,Paint the space hopper green,72,Victoria Coren Mitchell,1.0,123,speed points ▲
+1304,550,Paint the space hopper green,72,Victoria Coren Mitchell,1.0,124,coverage points ▲
+1305,550,Paint the space hopper green,72,Victoria Coren Mitchell,5.0,125,cleanliness points ▲
+1306,550,Paint the space hopper green,72,Victoria Coren Mitchell,7.0,91,points ▲
+1307,551,Put on the medallion,68,Alan Davies,?,2,time ▼
+1308,551,Put on the medallion,69,Desiree Burch,?,2,time ▼
+1309,551,Put on the medallion,70,Guz Khan,95.0,2,time ▼
+1310,551,Put on the medallion,71,Morgana Robinson,450.0,2,time ▼
+1311,551,Put on the medallion,72,Victoria Coren Mitchell,,2,time ▼
+1312,553,Copy Alex,68,Alan Davies,26.0,126,routine criteria ▲
+1313,553,Copy Alex,69,Desiree Burch,55.5,126,routine criteria ▲
+1314,553,Copy Alex,70,Guz Khan,?,126,routine criteria ▲
+1315,553,Copy Alex,71,Morgana Robinson,48.0,126,routine criteria ▲
+1316,553,Copy Alex,72,Victoria Coren Mitchell,64.5,126,routine criteria ▲
+1317,554,Make a sand bridge across the river,68,Alan Davies,11.0,59,inches ▲
+1318,554,Make a sand bridge across the river,69,Desiree Burch,10.0,59,inches ▲
+1319,554,Make a sand bridge across the river,70,Guz Khan,9.5,59,inches ▲
+1320,554,Make a sand bridge across the river,71,Morgana Robinson,21.0,59,inches ▲
+1321,554,Make a sand bridge across the river,72,Victoria Coren Mitchell,9.0,59,inches ▲
+1322,556,Convey objects using shadows,68,Alan Davies,1.0,105,round wins ▲
+1323,556,Convey objects using shadows,69,Desiree Burch,2.0,105,round wins ▲
+1324,556,Convey objects using shadows,70,Guz Khan,2.0,105,round wins ▲
+1325,556,Convey objects using shadows,71,Morgana Robinson,2.0,105,round wins ▲
+1326,556,Convey objects using shadows,72,Victoria Coren Mitchell,1.0,105,round wins ▲
+1327,558,Complete the course as slowly as possible,68,Alan Davies,5.0,36,penalties ▼
+1328,558,Complete the course as slowly as possible,68,Alan Davies,2.25,35,time ▲
+1329,558,Complete the course as slowly as possible,69,Desiree Burch,5.0,36,penalties ▼
+1330,558,Complete the course as slowly as possible,69,Desiree Burch,2.625,35,time ▲
+1331,558,Complete the course as slowly as possible,70,Guz Khan,7.0,36,penalties ▼
+1332,558,Complete the course as slowly as possible,70,Guz Khan,0.5,35,time ▲
+1333,558,Complete the course as slowly as possible,71,Morgana Robinson,9.0,36,penalties ▼
+1334,558,Complete the course as slowly as possible,71,Morgana Robinson,0.133,35,time ▲
+1335,558,Complete the course as slowly as possible,72,Victoria Coren Mitchell,8.0,36,penalties ▼
+1336,558,Complete the course as slowly as possible,72,Victoria Coren Mitchell,0.371,35,time ▲
+1337,560,Solve the riddle,68,Alan Davies,2013.0,2,time ▼
+1338,560,Solve the riddle,69,Desiree Burch,5580.0,2,time ▼
+1339,560,Solve the riddle,70,Guz Khan,5580.0,2,time ▼
+1340,560,Solve the riddle,71,Morgana Robinson,5580.0,2,time ▼
+1341,560,Solve the riddle,72,Victoria Coren Mitchell,2013.0,2,time ▼
+1342,561,Get the most forks in your bucket,68,Alan Davies,6.0,127,bucketed forks ▲
+1343,561,Get the most forks in your bucket,69,Desiree Burch,4.0,127,bucketed forks ▲
+1344,561,Get the most forks in your bucket,70,Guz Khan,2.0,127,bucketed forks ▲
+1345,561,Get the most forks in your bucket,71,Morgana Robinson,11.0,127,bucketed forks ▲
+1346,561,Get the most forks in your bucket,72,Victoria Coren Mitchell,7.0,127,bucketed forks ▲
+1347,563,Sit on a cake,68,Alan Davies,715.0,2,time ▼
+1348,563,Sit on a cake,69,Desiree Burch,165.0,2,time ▼
+1349,563,Sit on a cake,70,Guz Khan,447.0,2,time ▼
+1350,563,Sit on a cake,71,Morgana Robinson,6300.0,2,time ▼
+1351,563,Sit on a cake,72,Victoria Coren Mitchell,25.0,2,time ▼
+1352,564,Get the most balls in the net,68,Alan Davies,-128.0,91,points ▲
+1353,564,Get the most balls in the net,69,Desiree Burch,-1.0,91,points ▲
+1354,564,Get the most balls in the net,70,Guz Khan,-1.0,91,points ▲
+1355,564,Get the most balls in the net,71,Morgana Robinson,-1.0,91,points ▲
+1356,564,Get the most balls in the net,72,Victoria Coren Mitchell,-128.0,91,points ▲
+1357,565,Prevent Alex from scoring a goal,68,Alan Davies,587.0,35,time ▲
+1358,565,Prevent Alex from scoring a goal,69,Desiree Burch,?,35,time ▲
+1359,565,Prevent Alex from scoring a goal,70,Guz Khan,360.0,35,time ▲
+1360,565,Prevent Alex from scoring a goal,71,Morgana Robinson,645.0,35,time ▲
+1361,565,Prevent Alex from scoring a goal,72,Victoria Coren Mitchell,?,35,time ▲
+1362,566,Pop the most balloons,68,Alan Davies,26.0,101,balloons ▲
+1363,566,Pop the most balloons,69,Desiree Burch,4.0,101,balloons ▲
+1364,566,Pop the most balloons,70,Guz Khan,26.0,101,balloons ▲
+1365,566,Pop the most balloons,71,Morgana Robinson,14.0,101,balloons ▲
+1366,566,Pop the most balloons,72,Victoria Coren Mitchell,3.0,101,balloons ▲
+1367,568,Land the iron on the ironing board,68,Alan Davies,14.1,4,meters ▲
+1368,568,Land the iron on the ironing board,69,Desiree Burch,4.8,4,meters ▲
+1369,568,Land the iron on the ironing board,70,Guz Khan,12.4,4,meters ▲
+1370,568,Land the iron on the ironing board,71,Morgana Robinson,8.44,4,meters ▲
+1371,568,Land the iron on the ironing board,72,Victoria Coren Mitchell,8.6,4,meters ▲
+1372,570,Sit on the red chair in the secret tower,68,Alan Davies,337.0,2,time ▼
+1373,570,Sit on the red chair in the secret tower,69,Desiree Burch,185.0,2,time ▼
+1374,570,Sit on the red chair in the secret tower,70,Guz Khan,405.0,2,time ▼
+1375,570,Sit on the red chair in the secret tower,71,Morgana Robinson,225.0,2,time ▼
+1376,570,Sit on the red chair in the secret tower,72,Victoria Coren Mitchell,536.0,2,time ▼
+1377,571,Make paper aeroplanes,68,Alan Davies,0.0,128,landed aeroplanes ▲
+1378,571,Make paper aeroplanes,68,Alan Davies,8.0,129,sheets ▼
+1379,571,Make paper aeroplanes,68,Alan Davies,-40.0,91,points ▲
+1380,571,Make paper aeroplanes,69,Desiree Burch,0.0,128,landed aeroplanes ▲
+1381,571,Make paper aeroplanes,69,Desiree Burch,2.0,129,sheets ▼
+1382,571,Make paper aeroplanes,69,Desiree Burch,-10.0,91,points ▲
+1383,571,Make paper aeroplanes,70,Guz Khan,0.0,128,landed aeroplanes ▲
+1384,571,Make paper aeroplanes,70,Guz Khan,2.0,129,sheets ▼
+1385,571,Make paper aeroplanes,70,Guz Khan,-10.0,91,points ▲
+1386,571,Make paper aeroplanes,71,Morgana Robinson,0.0,128,landed aeroplanes ▲
+1387,571,Make paper aeroplanes,71,Morgana Robinson,6.0,129,sheets ▼
+1388,571,Make paper aeroplanes,71,Morgana Robinson,-30.0,91,points ▲
+1389,571,Make paper aeroplanes,72,Victoria Coren Mitchell,0.0,128,landed aeroplanes ▲
+1390,571,Make paper aeroplanes,72,Victoria Coren Mitchell,7.0,129,sheets ▼
+1391,571,Make paper aeroplanes,72,Victoria Coren Mitchell,-35.0,91,points ▲
+1392,573,Put up a shelf for the Taskmaster's snooker balls,68,Alan Davies,780.0,2,time ▼
+1393,573,Put up a shelf for the Taskmaster's snooker balls,68,Alan Davies,1.5,130,difference in inches ▼
+1394,573,Put up a shelf for the Taskmaster's snooker balls,68,Alan Davies,3.5,91,points ▲
+1395,573,Put up a shelf for the Taskmaster's snooker balls,69,Desiree Burch,1140.0,2,time ▼
+1396,573,Put up a shelf for the Taskmaster's snooker balls,69,Desiree Burch,1.0,130,difference in inches ▼
+1397,573,Put up a shelf for the Taskmaster's snooker balls,69,Desiree Burch,3.0,91,points ▲
+1398,573,Put up a shelf for the Taskmaster's snooker balls,70,Guz Khan,420.0,2,time ▼
+1399,573,Put up a shelf for the Taskmaster's snooker balls,70,Guz Khan,3.0,130,difference in inches ▼
+1400,573,Put up a shelf for the Taskmaster's snooker balls,70,Guz Khan,3.0,91,points ▲
+1401,573,Put up a shelf for the Taskmaster's snooker balls,71,Morgana Robinson,1020.0,2,time ▼
+1402,573,Put up a shelf for the Taskmaster's snooker balls,71,Morgana Robinson,2.0,130,difference in inches ▼
+1403,573,Put up a shelf for the Taskmaster's snooker balls,71,Morgana Robinson,2.5,91,points ▲
+1404,573,Put up a shelf for the Taskmaster's snooker balls,72,Victoria Coren Mitchell,180.0,2,time ▼
+1405,573,Put up a shelf for the Taskmaster's snooker balls,72,Victoria Coren Mitchell,4.5,130,difference in inches ▼
+1406,573,Put up a shelf for the Taskmaster's snooker balls,72,Victoria Coren Mitchell,3.0,91,points ▲
+1407,575,Pass everything through the pipe and the pipe through everything,68,Alan Davies,,2,time ▼
+1408,575,Pass everything through the pipe and the pipe through everything,69,Desiree Burch,615.0,2,time ▼
+1409,575,Pass everything through the pipe and the pipe through everything,70,Guz Khan,,2,time ▼
+1410,575,Pass everything through the pipe and the pipe through everything,71,Morgana Robinson,768.0,2,time ▼
+1411,575,Pass everything through the pipe and the pipe through everything,72,Victoria Coren Mitchell,1156.0,2,time ▼
+1412,576,Direct drawings using limited keywords,68,Alan Davies,1.0,91,points ▲
+1413,576,Direct drawings using limited keywords,69,Desiree Burch,0.0,91,points ▲
+1414,576,Direct drawings using limited keywords,70,Guz Khan,0.0,91,points ▲
+1415,576,Direct drawings using limited keywords,71,Morgana Robinson,0.0,91,points ▲
+1416,576,Direct drawings using limited keywords,72,Victoria Coren Mitchell,1.0,91,points ▲
+1417,578,Make a popcorn necklace and do the right thing,68,Alan Davies,660.0,2,time ▼
+1418,578,Make a popcorn necklace and do the right thing,69,Desiree Burch,,2,time ▼
+1419,578,Make a popcorn necklace and do the right thing,70,Guz Khan,337.0,2,time ▼
+1420,578,Make a popcorn necklace and do the right thing,71,Morgana Robinson,960.0,2,time ▼
+1421,578,Make a popcorn necklace and do the right thing,72,Victoria Coren Mitchell,,2,time ▼
+1422,581,Pop up before the objects,68,Alan Davies,8.0,91,points ▲
+1423,581,Pop up before the objects,69,Desiree Burch,5.0,91,points ▲
+1424,581,Pop up before the objects,70,Guz Khan,9.0,91,points ▲
+1425,581,Pop up before the objects,71,Morgana Robinson,14.0,91,points ▲
+1426,581,Pop up before the objects,72,Victoria Coren Mitchell,8.0,91,points ▲
+1427,582,Blow a feather across a table with your nose,68,Alan Davies,9.5,2,time ▼
+1428,582,Blow a feather across a table with your nose,70,Guz Khan,28.7,2,time ▼
+1429,584,Have the longest telephone conversation,68,Alan Davies,20.0,35,time ▲
+1430,584,Have the longest telephone conversation,69,Desiree Burch,507.0,35,time ▲
+1431,584,Have the longest telephone conversation,70,Guz Khan,106.0,35,time ▲
+1432,584,Have the longest telephone conversation,71,Morgana Robinson,53.0,35,time ▲
+1433,584,Have the longest telephone conversation,72,Victoria Coren Mitchell,221.0,35,time ▲
+1434,585,Find the soldier with hindsight,68,Alan Davies,1160.0,2,time ▼
+1435,585,Find the soldier with hindsight,69,Desiree Burch,510.0,2,time ▼
+1436,585,Find the soldier with hindsight,70,Guz Khan,774.0,2,time ▼
+1437,585,Find the soldier with hindsight,71,Morgana Robinson,99.0,2,time ▼
+1438,585,Find the soldier with hindsight,72,Victoria Coren Mitchell,810.0,2,time ▼
+1439,586,Get goosebumps,68,Alan Davies,811.0,2,time ▼
+1440,586,Get goosebumps,69,Desiree Burch,1470.0,2,time ▼
+1441,586,Get goosebumps,70,Guz Khan,,2,time ▼
+1442,586,Get goosebumps,71,Morgana Robinson,169.0,2,time ▼
+1443,586,Get goosebumps,72,Victoria Coren Mitchell,,2,time ▼
+1444,587,Duck-slide,68,Alan Davies,8.0,91,points ▲
+1445,587,Duck-slide,69,Desiree Burch,16.0,91,points ▲
+1446,587,Duck-slide,70,Guz Khan,16.0,91,points ▲
+1447,587,Duck-slide,71,Morgana Robinson,16.0,91,points ▲
+1448,587,Duck-slide,72,Victoria Coren Mitchell,8.0,91,points ▲
+1449,589,Drink with your mouth open,68,Alan Davies,128.0,2,time ▼
+1450,589,Drink with your mouth open,69,Desiree Burch,7.0,2,time ▼
+1451,589,Drink with your mouth open,70,Guz Khan,65.0,2,time ▼
+1452,589,Drink with your mouth open,71,Morgana Robinson,180.0,2,time ▼
+1453,589,Drink with your mouth open,72,Victoria Coren Mitchell,510.0,2,time ▼
+1454,592,Make noises without being identified by the Taskmaster,68,Alan Davies,2.0,131,identified noises ▼
+1455,592,Make noises without being identified by the Taskmaster,69,Desiree Burch,2.0,131,identified noises ▼
+1456,592,Make noises without being identified by the Taskmaster,70,Guz Khan,1.0,131,identified noises ▼
+1457,592,Make noises without being identified by the Taskmaster,71,Morgana Robinson,1.0,131,identified noises ▼
+1458,592,Make noises without being identified by the Taskmaster,72,Victoria Coren Mitchell,2.0,131,identified noises ▼
+1459,595,Drink all the vinegar,73,Adrian Chiles,545.0,2,time ▼
+1460,595,Drink all the vinegar,74,Claudia Winkleman,,2,time ▼
+1461,595,Drink all the vinegar,75,Jonnie Peacock,626.0,2,time ▼
+1462,595,Drink all the vinegar,76,Lady Leshurr,,2,time ▼
+1463,595,Drink all the vinegar,77,Sayeeda Warsi,,2,time ▼
+1464,596,Navigate the course with the pole,73,Adrian Chiles,4.0,36,penalties ▼
+1465,596,Navigate the course with the pole,73,Adrian Chiles,262.0,10,centimeters ▲
+1466,596,Navigate the course with the pole,74,Claudia Winkleman,41.0,36,penalties ▼
+1467,596,Navigate the course with the pole,74,Claudia Winkleman,10.0,10,centimeters ▲
+1468,596,Navigate the course with the pole,75,Jonnie Peacock,48.0,36,penalties ▼
+1469,596,Navigate the course with the pole,75,Jonnie Peacock,220.0,10,centimeters ▲
+1470,596,Navigate the course with the pole,76,Lady Leshurr,15.0,36,penalties ▼
+1471,596,Navigate the course with the pole,76,Lady Leshurr,210.0,10,centimeters ▲
+1472,596,Navigate the course with the pole,77,Sayeeda Warsi,3.0,36,penalties ▼
+1473,596,Navigate the course with the pole,77,Sayeeda Warsi,207.0,10,centimeters ▲
+1474,599,Find all ten ducks in the lab,78,Ardal O'Hanlon,2.0,70,ducks ▲
+1475,599,Find all ten ducks in the lab,79,Bridget Christie,4.0,70,ducks ▲
+1476,599,Find all ten ducks in the lab,80,Chris Ramsey,7.0,70,ducks ▲
+1477,599,Find all ten ducks in the lab,81,Judi Love,6.0,70,ducks ▲
+1478,599,Find all ten ducks in the lab,82,Sophie Duker,4.0,70,ducks ▲
+1479,604,Tie a ribbon round the maypole or hit it with a ping pong ball,78,Ardal O'Hanlon,130.0,2,time ▼
+1480,604,Tie a ribbon round the maypole or hit it with a ping pong ball,79,Bridget Christie,690.0,2,time ▼
+1481,604,Tie a ribbon round the maypole or hit it with a ping pong ball,80,Chris Ramsey,38.18,2,time ▼
+1482,604,Tie a ribbon round the maypole or hit it with a ping pong ball,81,Judi Love,255.0,2,time ▼
+1483,604,Tie a ribbon round the maypole or hit it with a ping pong ball,82,Sophie Duker,31.08,2,time ▼
+1484,606,Score an exercise ball hat-trick using a buggy,78,Ardal O'Hanlon,518.0,2,time ▼
+1485,606,Score an exercise ball hat-trick using a buggy,79,Bridget Christie,902.0,2,time ▼
+1486,606,Score an exercise ball hat-trick using a buggy,80,Chris Ramsey,518.0,2,time ▼
+1487,606,Score an exercise ball hat-trick using a buggy,81,Judi Love,902.0,2,time ▼
+1488,606,Score an exercise ball hat-trick using a buggy,82,Sophie Duker,902.0,2,time ▼
+1489,610,Make all the things happen at the same time,78,Ardal O'Hanlon,,2,time ▼
+1490,610,Make all the things happen at the same time,79,Bridget Christie,?,2,time ▼
+1491,610,Make all the things happen at the same time,80,Chris Ramsey,177.0,2,time ▼
+1492,610,Make all the things happen at the same time,81,Judi Love,,2,time ▼
+1493,610,Make all the things happen at the same time,82,Sophie Duker,,2,time ▼
+1494,611,Enable Alex to bite his duck,78,Ardal O'Hanlon,877.0,2,time ▼
+1495,611,Enable Alex to bite his duck,79,Bridget Christie,61.0,2,time ▼
+1496,611,Enable Alex to bite his duck,80,Chris Ramsey,938.0,2,time ▼
+1497,611,Enable Alex to bite his duck,81,Judi Love,195.0,2,time ▼
+1498,611,Enable Alex to bite his duck,82,Sophie Duker,133.0,2,time ▼
+1499,612,Face leg or other leg?,78,Ardal O'Hanlon,1.0,64,deceptions ▲
+1500,612,Face leg or other leg?,79,Bridget Christie,3.0,64,deceptions ▲
+1501,612,Face leg or other leg?,80,Chris Ramsey,1.0,64,deceptions ▲
+1502,612,Face leg or other leg?,81,Judi Love,3.0,64,deceptions ▲
+1503,612,Face leg or other leg?,82,Sophie Duker,3.0,64,deceptions ▲
+1504,614,Guess Shoe,78,Ardal O'Hanlon,40.0,132,questions ▼
+1505,614,Guess Shoe,79,Bridget Christie,161.0,132,questions ▼
+1506,614,Guess Shoe,80,Chris Ramsey,13.0,132,questions ▼
+1507,614,Guess Shoe,81,Judi Love,24.0,132,questions ▼
+1508,614,Guess Shoe,82,Sophie Duker,30.0,132,questions ▼
+1509,616,Make a stirring speech out of the bunting,78,Ardal O'Hanlon,36.0,133,characters ▲
+1510,616,Make a stirring speech out of the bunting,79,Bridget Christie,39.0,133,characters ▲
+1511,616,Make a stirring speech out of the bunting,80,Chris Ramsey,57.0,133,characters ▲
+1512,616,Make a stirring speech out of the bunting,81,Judi Love,61.0,133,characters ▲
+1513,616,Make a stirring speech out of the bunting,82,Sophie Duker,51.0,133,characters ▲
+1514,618,Turn over the most beer mats,78,Ardal O'Hanlon,64.0,134,beer mats ▲
+1515,618,Turn over the most beer mats,80,Chris Ramsey,59.0,134,beer mats ▲
+1516,622,Raise the water level to the top of the fish tank,78,Ardal O'Hanlon,?,135,millimeters ▼
+1517,622,Raise the water level to the top of the fish tank,79,Bridget Christie,,135,millimeters ▼
+1518,622,Raise the water level to the top of the fish tank,80,Chris Ramsey,,135,millimeters ▼
+1519,622,Raise the water level to the top of the fish tank,81,Judi Love,1.8,135,millimeters ▼
+1520,622,Raise the water level to the top of the fish tank,82,Sophie Duker,,135,millimeters ▼
+1521,623,Answer Alex's phone call,78,Ardal O'Hanlon,612.0,2,time ▼
+1522,623,Answer Alex's phone call,79,Bridget Christie,1381.0,2,time ▼
+1523,623,Answer Alex's phone call,80,Chris Ramsey,?,2,time ▼
+1524,623,Answer Alex's phone call,81,Judi Love,?,2,time ▼
+1525,623,Answer Alex's phone call,82,Sophie Duker,1145.0,2,time ▼
+1526,627,Record a high number on a pedometer,78,Ardal O'Hanlon,1084.0,58,steps ▲
+1527,627,Record a high number on a pedometer,79,Bridget Christie,11 trillion gazillion,58,steps ▲
+1528,627,Record a high number on a pedometer,80,Chris Ramsey,2789.0,58,steps ▲
+1529,627,Record a high number on a pedometer,81,Judi Love,483.0,58,steps ▲
+1530,627,Record a high number on a pedometer,82,Sophie Duker,1209.0,58,steps ▲
+1531,630,Display your vocal range,80,Chris Ramsey,18.0,136,hertz ▼
+1532,630,Display your vocal range,80,Chris Ramsey,39.0,137,hertz ▲
+1533,630,Display your vocal range,80,Chris Ramsey,21.0,138,note range ▲
+1534,630,Display your vocal range,82,Sophie Duker,20.0,136,hertz ▼
+1535,630,Display your vocal range,82,Sophie Duker,45.0,137,hertz ▲
+1536,630,Display your vocal range,82,Sophie Duker,25.0,138,note range ▲
+1537,633,Deliver a cocktail to Greg,78,Ardal O'Hanlon,807.0,2,time ▼
+1538,633,Deliver a cocktail to Greg,79,Bridget Christie,270.0,2,time ▼
+1539,633,Deliver a cocktail to Greg,80,Chris Ramsey,807.0,2,time ▼
+1540,633,Deliver a cocktail to Greg,81,Judi Love,270.0,2,time ▼
+1541,633,Deliver a cocktail to Greg,82,Sophie Duker,270.0,2,time ▼
+1542,635,Eat your beautiful sculpture,78,Ardal O'Hanlon,40.0,1,grams ▲
+1543,635,Eat your beautiful sculpture,78,Ardal O'Hanlon,190.0,2,time ▼
+1544,635,Eat your beautiful sculpture,79,Bridget Christie,8.0,1,grams ▲
+1545,635,Eat your beautiful sculpture,79,Bridget Christie,?,2,time ▼
+1546,635,Eat your beautiful sculpture,80,Chris Ramsey,137.0,1,grams ▲
+1547,635,Eat your beautiful sculpture,80,Chris Ramsey,266.0,2,time ▼
+1548,635,Eat your beautiful sculpture,81,Judi Love,150.0,1,grams ▲
+1549,635,Eat your beautiful sculpture,81,Judi Love,110.0,2,time ▼
+1550,635,Eat your beautiful sculpture,82,Sophie Duker,150.0,1,grams ▲
+1551,635,Eat your beautiful sculpture,82,Sophie Duker,180.0,2,time ▼
+1552,639,Poke your tongue out for the longest time,78,Ardal O'Hanlon,400.0,35,time ▲
+1553,639,Poke your tongue out for the longest time,79,Bridget Christie,720.0,35,time ▲
+1554,639,Poke your tongue out for the longest time,80,Chris Ramsey,870.0,35,time ▲
+1555,639,Poke your tongue out for the longest time,81,Judi Love,300.0,35,time ▲
+1556,639,Poke your tongue out for the longest time,82,Sophie Duker,1580.0,35,time ▲
+1557,641,Write down things that fit the category,78,Ardal O'Hanlon,3.0,91,points ▲
+1558,641,Write down things that fit the category,79,Bridget Christie,1.0,91,points ▲
+1559,641,Write down things that fit the category,80,Chris Ramsey,3.0,91,points ▲
+1560,641,Write down things that fit the category,81,Judi Love,1.0,91,points ▲
+1561,641,Write down things that fit the category,82,Sophie Duker,1.0,91,points ▲
+1562,644,Make the longest cup snake,78,Ardal O'Hanlon,8.56,4,meters ▲
+1563,644,Make the longest cup snake,79,Bridget Christie,5.0,4,meters ▲
+1564,644,Make the longest cup snake,80,Chris Ramsey,9.66,4,meters ▲
+1565,644,Make the longest cup snake,81,Judi Love,11.21,4,meters ▲
+1566,644,Make the longest cup snake,82,Sophie Duker,8.77,4,meters ▲
+1567,646,Predict how many cans you can fit in a bag,78,Ardal O'Hanlon,35.0,139,tin cans ▲
+1568,646,Predict how many cans you can fit in a bag,79,Bridget Christie,,139,tin cans ▲
+1569,646,Predict how many cans you can fit in a bag,80,Chris Ramsey,30.0,139,tin cans ▲
+1570,646,Predict how many cans you can fit in a bag,81,Judi Love,,139,tin cans ▲
+1571,646,Predict how many cans you can fit in a bag,82,Sophie Duker,,139,tin cans ▲
+1572,648,Identify the liquids,78,Ardal O'Hanlon,3.0,140,identified liquids ▲
+1573,648,Identify the liquids,79,Bridget Christie,2.0,140,identified liquids ▲
+1574,648,Identify the liquids,80,Chris Ramsey,3.0,140,identified liquids ▲
+1575,648,Identify the liquids,81,Judi Love,3.0,140,identified liquids ▲
+1576,648,Identify the liquids,82,Sophie Duker,4.0,140,identified liquids ▲
+1577,649,Get the most ducks in Alex's basket,78,Ardal O'Hanlon,48.0,141,basketed ducks ▲
+1578,649,Get the most ducks in Alex's basket,79,Bridget Christie,,141,basketed ducks ▲
+1579,649,Get the most ducks in Alex's basket,80,Chris Ramsey,65.0,141,basketed ducks ▲
+1580,649,Get the most ducks in Alex's basket,81,Judi Love,,141,basketed ducks ▲
+1581,649,Get the most ducks in Alex's basket,82,Sophie Duker,61.0,141,basketed ducks ▲
+1582,656,Get the duck into the pond,83,Ed Gamble,,2,time ▼
+1583,656,Get the duck into the pond,84,Kerry Godliman,1000.0,2,time ▼
+1584,656,Get the duck into the pond,85,Liza Tarbuck,1390.0,2,time ▼
+1585,656,Get the duck into the pond,86,Lou Sanders,945.0,2,time ▼
+1586,656,Get the duck into the pond,87,Richard Herring,1460.0,2,time ▼
+1587,657,"Suitcase full of bricks, or suitcase full of balloons?",83,Ed Gamble,0.0,64,deceptions ▲
+1588,657,"Suitcase full of bricks, or suitcase full of balloons?",84,Kerry Godliman,0.0,64,deceptions ▲
+1589,657,"Suitcase full of bricks, or suitcase full of balloons?",85,Liza Tarbuck,0.0,64,deceptions ▲
+1590,657,"Suitcase full of bricks, or suitcase full of balloons?",86,Lou Sanders,0.0,64,deceptions ▲
+1591,657,"Suitcase full of bricks, or suitcase full of balloons?",87,Richard Herring,1.0,64,deceptions ▲
+1592,659,What ten films are you in?,88,Dara Ó Briain,3.0,142,named films ▲
+1593,659,What ten films are you in?,89,Fern Brady,6.0,142,named films ▲
+1594,659,What ten films are you in?,90,John Kearns,4.0,142,named films ▲
+1595,659,What ten films are you in?,91,Munya Chawawa,8.0,142,named films ▲
+1596,659,What ten films are you in?,92,Sarah Millican,7.0,142,named films ▲
+1597,660,Land loo roll in the toilet,88,Dara Ó Briain,183.0,143,sheets ▲
+1598,660,Land loo roll in the toilet,89,Fern Brady,140.0,143,sheets ▲
+1599,660,Land loo roll in the toilet,90,John Kearns,,143,sheets ▲
+1600,660,Land loo roll in the toilet,91,Munya Chawawa,61.0,143,sheets ▲
+1601,660,Land loo roll in the toilet,92,Sarah Millican,80.0,143,sheets ▲
+1602,662,Don't pop the balloon,88,Dara Ó Briain,1461.0,1,grams ▲
+1603,662,Don't pop the balloon,89,Fern Brady,1310.0,1,grams ▲
+1604,662,Don't pop the balloon,90,John Kearns,1461.0,1,grams ▲
+1605,662,Don't pop the balloon,91,Munya Chawawa,,1,grams ▲
+1606,662,Don't pop the balloon,92,Sarah Millican,1071.0,1,grams ▲
+1607,664,"Print, laminate, and distribute the most signs",88,Dara Ó Briain,25.0,144,signs ▲
+1608,664,"Print, laminate, and distribute the most signs",89,Fern Brady,16.0,144,signs ▲
+1609,664,"Print, laminate, and distribute the most signs",90,John Kearns,7.0,144,signs ▲
+1610,664,"Print, laminate, and distribute the most signs",91,Munya Chawawa,9.0,144,signs ▲
+1611,664,"Print, laminate, and distribute the most signs",92,Sarah Millican,14.0,144,signs ▲
+1612,665,Obey all your signs,88,Dara Ó Briain,100.0,145,% signs obeyed ▲
+1613,665,Obey all your signs,89,Fern Brady,75.0,145,% signs obeyed ▲
+1614,665,Obey all your signs,90,John Kearns,42.9,145,% signs obeyed ▲
+1615,665,Obey all your signs,91,Munya Chawawa,100.0,145,% signs obeyed ▲
+1616,665,Obey all your signs,92,Sarah Millican,92.9,145,% signs obeyed ▲
+1617,666,Put five grapes in the little bowl,88,Dara Ó Briain,2903.0,1,grams ▲
+1618,666,Put five grapes in the little bowl,89,Fern Brady,,1,grams ▲
+1619,666,Put five grapes in the little bowl,90,John Kearns,2000.0,1,grams ▲
+1620,666,Put five grapes in the little bowl,91,Munya Chawawa,2514.0,1,grams ▲
+1621,666,Put five grapes in the little bowl,92,Sarah Millican,900.0,1,grams ▲
+1622,667,Sort the ducks and the socks,88,Dara Ó Briain,63.0,70,ducks ▲
+1623,667,Sort the ducks and the socks,88,Dara Ó Briain,28.0,146,socks ▲
+1624,667,Sort the ducks and the socks,88,Dara Ó Briain,91.0,147,ducks and socks ▲
+1625,667,Sort the ducks and the socks,89,Fern Brady,44.0,70,ducks ▲
+1626,667,Sort the ducks and the socks,89,Fern Brady,13.0,146,socks ▲
+1627,667,Sort the ducks and the socks,89,Fern Brady,57.0,147,ducks and socks ▲
+1628,667,Sort the ducks and the socks,90,John Kearns,1.0,70,ducks ▲
+1629,667,Sort the ducks and the socks,90,John Kearns,9.0,146,socks ▲
+1630,667,Sort the ducks and the socks,90,John Kearns,10.0,147,ducks and socks ▲
+1631,667,Sort the ducks and the socks,91,Munya Chawawa,29.0,70,ducks ▲
+1632,667,Sort the ducks and the socks,91,Munya Chawawa,37.0,146,socks ▲
+1633,667,Sort the ducks and the socks,91,Munya Chawawa,66.0,147,ducks and socks ▲
+1634,667,Sort the ducks and the socks,92,Sarah Millican,?,70,ducks ▲
+1635,667,Sort the ducks and the socks,92,Sarah Millican,?,146,socks ▲
+1636,667,Sort the ducks and the socks,92,Sarah Millican,58.0,147,ducks and socks ▲
+1637,668,Make the Taskmaster say your words,88,Dara Ó Briain,3.0,105,round wins ▲
+1638,668,Make the Taskmaster say your words,89,Fern Brady,3.0,105,round wins ▲
+1639,668,Make the Taskmaster say your words,90,John Kearns,3.0,105,round wins ▲
+1640,668,Make the Taskmaster say your words,91,Munya Chawawa,2.0,105,round wins ▲
+1641,668,Make the Taskmaster say your words,92,Sarah Millican,2.0,105,round wins ▲
+1642,670,Put the most sand in the shopping trolley,88,Dara Ó Briain,20.9,27,kilograms ▲
+1643,670,Put the most sand in the shopping trolley,89,Fern Brady,20.9,27,kilograms ▲
+1644,670,Put the most sand in the shopping trolley,90,John Kearns,20.9,27,kilograms ▲
+1645,670,Put the most sand in the shopping trolley,91,Munya Chawawa,21.0,27,kilograms ▲
+1646,670,Put the most sand in the shopping trolley,92,Sarah Millican,21.0,27,kilograms ▲
+1647,671,Identify the ice cream flavours,88,Dara Ó Briain,4.0,65,guessed flavors ▲
+1648,671,Identify the ice cream flavours,89,Fern Brady,3.0,65,guessed flavors ▲
+1649,671,Identify the ice cream flavours,90,John Kearns,3.0,65,guessed flavors ▲
+1650,671,Identify the ice cream flavours,91,Munya Chawawa,1.0,65,guessed flavors ▲
+1651,671,Identify the ice cream flavours,92,Sarah Millican,2.0,65,guessed flavors ▲
+1652,675,Turn on the bubble machine,88,Dara Ó Briain,395.0,2,time ▼
+1653,675,Turn on the bubble machine,89,Fern Brady,460.0,2,time ▼
+1654,675,Turn on the bubble machine,90,John Kearns,645.0,2,time ▼
+1655,675,Turn on the bubble machine,91,Munya Chawawa,701.0,2,time ▼
+1656,675,Turn on the bubble machine,92,Sarah Millican,376.0,2,time ▼
+1657,682,Luggage trolley bowling,88,Dara Ó Briain,28.5,4,meters ▲
+1658,682,Luggage trolley bowling,89,Fern Brady,18.3,4,meters ▲
+1659,682,Luggage trolley bowling,90,John Kearns,34.0,4,meters ▲
+1660,682,Luggage trolley bowling,91,Munya Chawawa,30.6,4,meters ▲
+1661,682,Luggage trolley bowling,92,Sarah Millican,25.4,4,meters ▲
+1662,683,Communicate animals by saying letters and doing impressions,88,Dara Ó Briain,7.0,148,identified animals ▲
+1663,683,Communicate animals by saying letters and doing impressions,89,Fern Brady,7.0,148,identified animals ▲
+1664,683,Communicate animals by saying letters and doing impressions,90,John Kearns,7.0,148,identified animals ▲
+1665,683,Communicate animals by saying letters and doing impressions,91,Munya Chawawa,7.0,148,identified animals ▲
+1666,683,Communicate animals by saying letters and doing impressions,92,Sarah Millican,7.0,148,identified animals ▲
+1667,685,Hold the milk bottles above the microwaves,88,Dara Ó Briain,1615.0,2,time ▼
+1668,685,Hold the milk bottles above the microwaves,89,Fern Brady,1564.0,2,time ▼
+1669,685,Hold the milk bottles above the microwaves,90,John Kearns,1410.0,2,time ▼
+1670,685,Hold the milk bottles above the microwaves,91,Munya Chawawa,1504.0,2,time ▼
+1671,685,Hold the milk bottles above the microwaves,92,Sarah Millican,1018.0,2,time ▼
+1672,686,Reach the end of two lanes in the same amount of time,88,Dara Ó Briain,4.0,5,difference in seconds ▼
+1673,686,Reach the end of two lanes in the same amount of time,89,Fern Brady,16.0,5,difference in seconds ▼
+1674,686,Reach the end of two lanes in the same amount of time,90,John Kearns,0.5,5,difference in seconds ▼
+1675,686,Reach the end of two lanes in the same amount of time,91,Munya Chawawa,3.0,5,difference in seconds ▼
+1676,686,Reach the end of two lanes in the same amount of time,92,Sarah Millican,0.1,5,difference in seconds ▼
+1677,687,Strike the bullseye with your paint,88,Dara Ó Briain,,2,time ▼
+1678,687,Strike the bullseye with your paint,89,Fern Brady,,2,time ▼
+1679,687,Strike the bullseye with your paint,90,John Kearns,,2,time ▼
+1680,687,Strike the bullseye with your paint,91,Munya Chawawa,,2,time ▼
+1681,687,Strike the bullseye with your paint,92,Sarah Millican,,2,time ▼
+1682,690,Pop 99 red balloons,88,Dara Ó Briain,200.0,2,time ▼
+1683,690,Pop 99 red balloons,89,Fern Brady,,2,time ▼
+1684,690,Pop 99 red balloons,90,John Kearns,149.0,2,time ▼
+1685,690,Pop 99 red balloons,91,Munya Chawawa,,2,time ▼
+1686,690,Pop 99 red balloons,92,Sarah Millican,,2,time ▼
+1687,691,Get this feather into the bath,88,Dara Ó Briain,465.0,2,time ▼
+1688,691,Get this feather into the bath,89,Fern Brady,465.0,2,time ▼
+1689,691,Get this feather into the bath,90,John Kearns,465.0,2,time ▼
+1690,691,Get this feather into the bath,91,Munya Chawawa,1465.0,2,time ▼
+1691,691,Get this feather into the bath,92,Sarah Millican,1465.0,2,time ▼
+1692,692,Hit Bernard with an exercise ball,88,Dara Ó Briain,8.0,149,involved balls ▲
+1693,692,Hit Bernard with an exercise ball,89,Fern Brady,4.0,149,involved balls ▲
+1694,692,Hit Bernard with an exercise ball,90,John Kearns,12.0,149,involved balls ▲
+1695,692,Hit Bernard with an exercise ball,91,Munya Chawawa,,149,involved balls ▲
+1696,692,Hit Bernard with an exercise ball,92,Sarah Millican,5.0,149,involved balls ▲
+1697,695,Communicate an instruction in a secret language,88,Dara Ó Briain,,2,time ▼
+1698,695,Communicate an instruction in a secret language,89,Fern Brady,,2,time ▼
+1699,695,Communicate an instruction in a secret language,90,John Kearns,,2,time ▼
+1700,695,Communicate an instruction in a secret language,91,Munya Chawawa,?,2,time ▼
+1701,695,Communicate an instruction in a secret language,92,Sarah Millican,?,2,time ▼
+1702,696,Pin an alluring tail on the alluring animal,88,Dara Ó Briain,180.0,2,time ▼
+1703,696,Pin an alluring tail on the alluring animal,89,Fern Brady,833.0,2,time ▼
+1704,696,Pin an alluring tail on the alluring animal,90,John Kearns,492.0,2,time ▼
+1705,696,Pin an alluring tail on the alluring animal,91,Munya Chawawa,126.0,2,time ▼
+1706,696,Pin an alluring tail on the alluring animal,92,Sarah Millican,580.0,2,time ▼
+1707,697,Find the back of your hand,88,Dara Ó Briain,,150,wrong guesses ▼
+1708,697,Find the back of your hand,89,Fern Brady,504.0,150,wrong guesses ▼
+1709,697,Find the back of your hand,90,John Kearns,,150,wrong guesses ▼
+1710,697,Find the back of your hand,91,Munya Chawawa,0.0,150,wrong guesses ▼
+1711,697,Find the back of your hand,92,Sarah Millican,0.0,150,wrong guesses ▼
+1712,698,Guess the length of the extendible item,88,Dara Ó Briain,2.0,105,round wins ▲
+1713,698,Guess the length of the extendible item,89,Fern Brady,2.0,105,round wins ▲
+1714,698,Guess the length of the extendible item,90,John Kearns,2.0,105,round wins ▲
+1715,698,Guess the length of the extendible item,91,Munya Chawawa,3.0,105,round wins ▲
+1716,698,Guess the length of the extendible item,92,Sarah Millican,3.0,105,round wins ▲
+1717,700,"Snort, raspberry, whistle",88,Dara Ó Briain,17.0,151,completed cycles ▲
+1718,700,"Snort, raspberry, whistle",89,Fern Brady,0.0,151,completed cycles ▲
+1719,700,"Snort, raspberry, whistle",90,John Kearns,0.0,151,completed cycles ▲
+1720,700,"Snort, raspberry, whistle",91,Munya Chawawa,24.0,151,completed cycles ▲
+1721,700,"Snort, raspberry, whistle",92,Sarah Millican,18.0,151,completed cycles ▲
+1722,707,Eat the grape,88,Dara Ó Briain,276.0,2,time ▼
+1723,707,Eat the grape,89,Fern Brady,644.0,2,time ▼
+1724,707,Eat the grape,90,John Kearns,1220.0,2,time ▼
+1725,707,Eat the grape,91,Munya Chawawa,665.0,2,time ▼
+1726,707,Eat the grape,92,Sarah Millican,370.0,2,time ▼
+1727,709,"Throw an object, hide an object, and place it on the barrel",88,Dara Ó Briain,34.1,2,time ▼
+1728,709,"Throw an object, hide an object, and place it on the barrel",89,Fern Brady,820.0,2,time ▼
+1729,709,"Throw an object, hide an object, and place it on the barrel",90,John Kearns,288.0,2,time ▼
+1730,709,"Throw an object, hide an object, and place it on the barrel",91,Munya Chawawa,138.0,2,time ▼
+1731,709,"Throw an object, hide an object, and place it on the barrel",92,Sarah Millican,36.0,2,time ▼
+1732,712,Count all the dots,93,Amelia Demoldenberg,990.0,152,difference in dots ▼
+1733,712,Count all the dots,94,Carol Vorderman,59.0,152,difference in dots ▼
+1734,712,Count all the dots,95,Greg James,18.0,152,difference in dots ▼
+1735,712,Count all the dots,96,Mo Farah,1138.0,152,difference in dots ▼
+1736,712,Count all the dots,97,Rebecca Lucy Taylor,1449.0,152,difference in dots ▼
+1737,714,Collect carp pellets in a fish bowl,93,Amelia Demoldenberg,9000.0,153,carp pellets ▲
+1738,714,Collect carp pellets in a fish bowl,94,Carol Vorderman,23250.0,153,carp pellets ▲
+1739,714,Collect carp pellets in a fish bowl,95,Greg James,23292.0,153,carp pellets ▲
+1740,714,Collect carp pellets in a fish bowl,96,Mo Farah,24546.0,153,carp pellets ▲
+1741,714,Collect carp pellets in a fish bowl,97,Rebecca Lucy Taylor,24038.0,153,carp pellets ▲
+1742,715,Obey Greg's instructions,93,Amelia Demoldenberg,4.0,154,correct items ▲
+1743,715,Obey Greg's instructions,94,Carol Vorderman,2.0,154,correct items ▲
+1744,715,Obey Greg's instructions,95,Greg James,1.0,154,correct items ▲
+1745,715,Obey Greg's instructions,96,Mo Farah,4.0,154,correct items ▲
+1746,715,Obey Greg's instructions,97,Rebecca Lucy Taylor,2.0,154,correct items ▲
+1747,718,Put a ball of string on the cushion,98,Frankie Boyle,ongoing|2022-04-03T12:00:00+01:00,2,time ▼
+1748,718,Put a ball of string on the cushion,99,Ivo Graham,444.0,2,time ▼
+1749,718,Put a ball of string on the cushion,100,Jenny Eclair,234.0,2,time ▼
+1750,718,Put a ball of string on the cushion,101,Kiell Smith-Bynoe,307.0,2,time ▼
+1751,718,Put a ball of string on the cushion,102,Mae Martin,155.0,2,time ▼
+1752,719,Get all the rubber rings on your bargepole,98,Frankie Boyle,1.0,155,poled rings ▲
+1753,719,Get all the rubber rings on your bargepole,99,Ivo Graham,5.0,155,poled rings ▲
+1754,719,Get all the rubber rings on your bargepole,99,Ivo Graham,461.0,2,time ▼
+1755,719,Get all the rubber rings on your bargepole,100,Jenny Eclair,1.0,155,poled rings ▲
+1756,719,Get all the rubber rings on your bargepole,101,Kiell Smith-Bynoe,5.0,155,poled rings ▲
+1757,719,Get all the rubber rings on your bargepole,101,Kiell Smith-Bynoe,1590.0,2,time ▼
+1758,719,Get all the rubber rings on your bargepole,102,Mae Martin,5.0,155,poled rings ▲
+1759,719,Get all the rubber rings on your bargepole,102,Mae Martin,427.0,2,time ▼
+1760,720,Throw your items into your bucket,98,Frankie Boyle,0.0,156,bucketed items ▲
+1761,720,Throw your items into your bucket,99,Ivo Graham,,156,bucketed items ▲
+1762,720,Throw your items into your bucket,100,Jenny Eclair,0.0,156,bucketed items ▲
+1763,720,Throw your items into your bucket,101,Kiell Smith-Bynoe,,156,bucketed items ▲
+1764,720,Throw your items into your bucket,102,Mae Martin,,156,bucketed items ▲
+1765,723,Build a bridge over the red green for this potato,98,Frankie Boyle,2.81,4,meters ▲
+1766,723,Build a bridge over the red green for this potato,99,Ivo Graham,2.81,4,meters ▲
+1767,723,Build a bridge over the red green for this potato,100,Jenny Eclair,2.4,4,meters ▲
+1768,723,Build a bridge over the red green for this potato,101,Kiell Smith-Bynoe,2.4,4,meters ▲
+1769,723,Build a bridge over the red green for this potato,102,Mae Martin,2.4,4,meters ▲
+1770,727,Exit the caravan after exactly 20 minutes,98,Frankie Boyle,201.0,5,difference in seconds ▼
+1771,727,Exit the caravan after exactly 20 minutes,99,Ivo Graham,197.0,5,difference in seconds ▼
+1772,727,Exit the caravan after exactly 20 minutes,100,Jenny Eclair,543.0,5,difference in seconds ▼
+1773,727,Exit the caravan after exactly 20 minutes,101,Kiell Smith-Bynoe,,5,difference in seconds ▼
+1774,727,Exit the caravan after exactly 20 minutes,102,Mae Martin,,5,difference in seconds ▼
+1775,728,Catch the potatoes in the potato hat,98,Frankie Boyle,21.0,19,potatoes ▲
+1776,728,Catch the potatoes in the potato hat,98,Frankie Boyle,23.0,157,animals ▼
+1777,728,Catch the potatoes in the potato hat,98,Frankie Boyle,-2.0,158,potatotal ▲
+1778,728,Catch the potatoes in the potato hat,99,Ivo Graham,11.0,19,potatoes ▲
+1779,728,Catch the potatoes in the potato hat,99,Ivo Graham,10.0,157,animals ▼
+1780,728,Catch the potatoes in the potato hat,99,Ivo Graham,1.0,158,potatotal ▲
+1781,728,Catch the potatoes in the potato hat,100,Jenny Eclair,10.0,19,potatoes ▲
+1782,728,Catch the potatoes in the potato hat,100,Jenny Eclair,6.0,157,animals ▼
+1783,728,Catch the potatoes in the potato hat,100,Jenny Eclair,4.0,158,potatotal ▲
+1784,728,Catch the potatoes in the potato hat,101,Kiell Smith-Bynoe,22.0,19,potatoes ▲
+1785,728,Catch the potatoes in the potato hat,101,Kiell Smith-Bynoe,19.0,157,animals ▼
+1786,728,Catch the potatoes in the potato hat,101,Kiell Smith-Bynoe,3.0,158,potatotal ▲
+1787,728,Catch the potatoes in the potato hat,102,Mae Martin,22.0,19,potatoes ▲
+1788,728,Catch the potatoes in the potato hat,102,Mae Martin,7.0,157,animals ▼
+1789,728,Catch the potatoes in the potato hat,102,Mae Martin,15.0,158,potatotal ▲
+1790,730,Know the most facts about sausages,98,Frankie Boyle,2.0,159,sausage facts ▲
+1791,730,Know the most facts about sausages,99,Ivo Graham,5.0,159,sausage facts ▲
+1792,730,Know the most facts about sausages,100,Jenny Eclair,3.0,159,sausage facts ▲
+1793,730,Know the most facts about sausages,101,Kiell Smith-Bynoe,1.0,159,sausage facts ▲
+1794,730,Know the most facts about sausages,102,Mae Martin,2.0,159,sausage facts ▲
+1795,732,Strike the most drums with a bouncy ball,98,Frankie Boyle,8.0,160,strikes ▲
+1796,732,Strike the most drums with a bouncy ball,99,Ivo Graham,3.5,160,strikes ▲
+1797,732,Strike the most drums with a bouncy ball,100,Jenny Eclair,?,160,strikes ▲
+1798,732,Strike the most drums with a bouncy ball,101,Kiell Smith-Bynoe,5.0,160,strikes ▲
+1799,732,Strike the most drums with a bouncy ball,102,Mae Martin,?,160,strikes ▲
+1800,733,Make the fastest egg boat,98,Frankie Boyle,,2,time ▼
+1801,733,Make the fastest egg boat,99,Ivo Graham,124.0,2,time ▼
+1802,733,Make the fastest egg boat,100,Jenny Eclair,106.0,2,time ▼
+1803,733,Make the fastest egg boat,101,Kiell Smith-Bynoe,105.0,2,time ▼
+1804,733,Make the fastest egg boat,102,Mae Martin,205.0,2,time ▼
+1805,734,Task bingo,98,Frankie Boyle,878.0,2,time ▼
+1806,734,Task bingo,99,Ivo Graham,1527.0,2,time ▼
+1807,734,Task bingo,100,Jenny Eclair,492.0,2,time ▼
+1808,734,Task bingo,101,Kiell Smith-Bynoe,1230.0,2,time ▼
+1809,734,Task bingo,102,Mae Martin,1573.0,2,time ▼
+1810,735,Pour your sand into the other bottle,98,Frankie Boyle,,35,time ▲
+1811,735,Pour your sand into the other bottle,99,Ivo Graham,,35,time ▲
+1812,735,Pour your sand into the other bottle,100,Jenny Eclair,,35,time ▲
+1813,735,Pour your sand into the other bottle,101,Kiell Smith-Bynoe,,35,time ▲
+1814,735,Pour your sand into the other bottle,102,Mae Martin,,35,time ▲
+1815,738,Musical Simon Says,98,Frankie Boyle,9.0,161,correct sequences ▲
+1816,738,Musical Simon Says,99,Ivo Graham,5.0,161,correct sequences ▲
+1817,738,Musical Simon Says,100,Jenny Eclair,6.0,161,correct sequences ▲
+1818,738,Musical Simon Says,101,Kiell Smith-Bynoe,5.0,161,correct sequences ▲
+1819,738,Musical Simon Says,102,Mae Martin,9.0,161,correct sequences ▲
+1820,739,Salvage the most spoons,98,Frankie Boyle,,162,salvaged spoons ▲
+1821,739,Salvage the most spoons,99,Ivo Graham,,162,salvaged spoons ▲
+1822,739,Salvage the most spoons,100,Jenny Eclair,?,162,salvaged spoons ▲
+1823,739,Salvage the most spoons,101,Kiell Smith-Bynoe,?,162,salvaged spoons ▲
+1824,739,Salvage the most spoons,102,Mae Martin,?,162,salvaged spoons ▲
+1825,743,Efficiently shell an egg,98,Frankie Boyle,83.0,163,pieces of eggless shell ▼
+1826,743,Efficiently shell an egg,99,Ivo Graham,13.0,163,pieces of eggless shell ▼
+1827,743,Efficiently shell an egg,100,Jenny Eclair,20.0,163,pieces of eggless shell ▼
+1828,743,Efficiently shell an egg,101,Kiell Smith-Bynoe,6.0,163,pieces of eggless shell ▼
+1829,743,Efficiently shell an egg,102,Mae Martin,3.0,163,pieces of eggless shell ▼
+1830,744,Bash the big bell with the bowling ball,98,Frankie Boyle,410.0,2,time ▼
+1831,744,Bash the big bell with the bowling ball,99,Ivo Graham,,2,time ▼
+1832,744,Bash the big bell with the bowling ball,100,Jenny Eclair,,2,time ▼
+1833,744,Bash the big bell with the bowling ball,101,Kiell Smith-Bynoe,,2,time ▼
+1834,744,Bash the big bell with the bowling ball,102,Mae Martin,177.0,2,time ▼
+1835,747,Rotate the pulper wheel without pulping the egg,98,Frankie Boyle,8.5,164,rotations ▲
+1836,747,Rotate the pulper wheel without pulping the egg,99,Ivo Graham,56.0,164,rotations ▲
+1837,747,Rotate the pulper wheel without pulping the egg,100,Jenny Eclair,,164,rotations ▲
+1838,747,Rotate the pulper wheel without pulping the egg,101,Kiell Smith-Bynoe,2.75,164,rotations ▲
+1839,747,Rotate the pulper wheel without pulping the egg,102,Mae Martin,,164,rotations ▲
+1840,748,Free yourselves and have a team hug,98,Frankie Boyle,2520.0,2,time ▼
+1841,748,Free yourselves and have a team hug,99,Ivo Graham,2520.0,2,time ▼
+1842,748,Free yourselves and have a team hug,100,Jenny Eclair,1070.0,2,time ▼
+1843,748,Free yourselves and have a team hug,101,Kiell Smith-Bynoe,1070.0,2,time ▼
+1844,748,Free yourselves and have a team hug,102,Mae Martin,1070.0,2,time ▼
+1845,750,Imitate accents/walks,98,Frankie Boyle,2.0,165,guessed impressions ▲
+1846,750,Imitate accents/walks,99,Ivo Graham,1.0,165,guessed impressions ▲
+1847,750,Imitate accents/walks,100,Jenny Eclair,1.0,165,guessed impressions ▲
+1848,750,Imitate accents/walks,101,Kiell Smith-Bynoe,2.0,165,guessed impressions ▲
+1849,750,Imitate accents/walks,102,Mae Martin,2.0,165,guessed impressions ▲
+1850,752,Pile the pineapples on the path,98,Frankie Boyle,1.0,166,piled pineapples ▲
+1851,752,Pile the pineapples on the path,99,Ivo Graham,9.0,166,piled pineapples ▲
+1852,752,Pile the pineapples on the path,100,Jenny Eclair,4.0,166,piled pineapples ▲
+1853,752,Pile the pineapples on the path,101,Kiell Smith-Bynoe,2.0,166,piled pineapples ▲
+1854,752,Pile the pineapples on the path,102,Mae Martin,18.0,166,piled pineapples ▲
+1855,755,Use the scratching post to remove balls from your suit,98,Frankie Boyle,29.0,167,balls ▼
+1856,755,Use the scratching post to remove balls from your suit,99,Ivo Graham,29.0,167,balls ▼
+1857,755,Use the scratching post to remove balls from your suit,100,Jenny Eclair,17.0,167,balls ▼
+1858,755,Use the scratching post to remove balls from your suit,101,Kiell Smith-Bynoe,17.0,167,balls ▼
+1859,755,Use the scratching post to remove balls from your suit,102,Mae Martin,17.0,167,balls ▼
+1860,758,Deliver a one-minute history lecture,98,Frankie Boyle,2.0,168,actual facts ▲
+1861,758,Deliver a one-minute history lecture,99,Ivo Graham,?,168,actual facts ▲
+1862,758,Deliver a one-minute history lecture,100,Jenny Eclair,2.0,168,actual facts ▲
+1863,758,Deliver a one-minute history lecture,101,Kiell Smith-Bynoe,-1.0,168,actual facts ▲
+1864,758,Deliver a one-minute history lecture,102,Mae Martin,1.0,168,actual facts ▲
+1865,759,Make exactly 99 holes in the piece of paper,98,Frankie Boyle,351.0,2,time ▼
+1866,759,Make exactly 99 holes in the piece of paper,99,Ivo Graham,,2,time ▼
+1867,759,Make exactly 99 holes in the piece of paper,100,Jenny Eclair,,2,time ▼
+1868,759,Make exactly 99 holes in the piece of paper,101,Kiell Smith-Bynoe,707.0,2,time ▼
+1869,759,Make exactly 99 holes in the piece of paper,102,Mae Martin,,2,time ▼
+1870,762,Fill the glass up to the line,98,Frankie Boyle,,4,meters ▲
+1871,762,Fill the glass up to the line,99,Ivo Graham,,4,meters ▲
+1872,762,Fill the glass up to the line,100,Jenny Eclair,3.8,4,meters ▲
+1873,762,Fill the glass up to the line,101,Kiell Smith-Bynoe,,4,meters ▲
+1874,762,Fill the glass up to the line,102,Mae Martin,8.1,4,meters ▲
+1875,763,Do what Alex does,98,Frankie Boyle,92.0,5,difference in seconds ▼
+1876,763,Do what Alex does,99,Ivo Graham,95.0,5,difference in seconds ▼
+1877,763,Do what Alex does,100,Jenny Eclair,532.0,5,difference in seconds ▼
+1878,763,Do what Alex does,101,Kiell Smith-Bynoe,185.0,5,difference in seconds ▼
+1879,763,Do what Alex does,102,Mae Martin,128.0,5,difference in seconds ▼
+1880,766,Scream with your mouth closed,100,Jenny Eclair,114.7,169,decibels ▲
+1881,766,Scream with your mouth closed,102,Mae Martin,98.4,169,decibels ▲
+1882,768,Build a tower of cans in the lab,103,Julian Clary,17.0,48,cans ▲
+1883,768,Build a tower of cans in the lab,104,Lucy Beaumont,6.0,48,cans ▲
+1884,768,Build a tower of cans in the lab,105,Sam Campbell,20.0,48,cans ▲
+1885,768,Build a tower of cans in the lab,106,Sue Perkins,1.0,48,cans ▲
+1886,768,Build a tower of cans in the lab,107,Susan Wokoma,11.0,48,cans ▲
+1887,769,Cross the finish line while connected to your team,103,Julian Clary,11.5,2,time ▼
+1888,769,Cross the finish line while connected to your team,104,Lucy Beaumont,11.5,2,time ▼
+1889,769,Cross the finish line while connected to your team,105,Sam Campbell,11.5,2,time ▼
+1890,769,Cross the finish line while connected to your team,106,Sue Perkins,90.0,2,time ▼
+1891,769,Cross the finish line while connected to your team,107,Susan Wokoma,90.0,2,time ▼
+1892,770,Get the duck into the lake,103,Julian Clary,,2,time ▼
+1893,770,Get the duck into the lake,103,Julian Clary,,36,penalties ▼
+1894,770,Get the duck into the lake,104,Lucy Beaumont,,2,time ▼
+1895,770,Get the duck into the lake,104,Lucy Beaumont,,36,penalties ▼
+1896,770,Get the duck into the lake,105,Sam Campbell,680.0,2,time ▼
+1897,770,Get the duck into the lake,105,Sam Campbell,9.0,36,penalties ▼
+1898,770,Get the duck into the lake,106,Sue Perkins,585.0,2,time ▼
+1899,770,Get the duck into the lake,106,Sue Perkins,0.0,36,penalties ▼
+1900,770,Get the duck into the lake,107,Susan Wokoma,200.0,2,time ▼
+1901,770,Get the duck into the lake,107,Susan Wokoma,0.0,36,penalties ▼
+1902,771,Heavier or lighter?,103,Julian Clary,1.0,32,correct answers ▲
+1903,771,Heavier or lighter?,104,Lucy Beaumont,1.0,32,correct answers ▲
+1904,771,Heavier or lighter?,105,Sam Campbell,1.0,32,correct answers ▲
+1905,771,Heavier or lighter?,106,Sue Perkins,0.0,32,correct answers ▲
+1906,771,Heavier or lighter?,107,Susan Wokoma,0.0,32,correct answers ▲
+1907,773,Pull the sword from the stone,103,Julian Clary,623.0,2,time ▼
+1908,773,Pull the sword from the stone,104,Lucy Beaumont,1680.0,2,time ▼
+1909,773,Pull the sword from the stone,105,Sam Campbell,1920.0,2,time ▼
+1910,773,Pull the sword from the stone,106,Sue Perkins,2001.0,2,time ▼
+1911,773,Pull the sword from the stone,107,Susan Wokoma,840.0,2,time ▼
+1912,777,Recite pi,106,Sue Perkins,15.0,170,decimal places of π ▲
+1913,777,Recite pi,107,Susan Wokoma,9.0,170,decimal places of π ▲
+1914,779,Get the ball in the hole without touching it,103,Julian Clary,205.0,2,time ▼
+1915,779,Get the ball in the hole without touching it,104,Lucy Beaumont,302.0,2,time ▼
+1916,779,Get the ball in the hole without touching it,105,Sam Campbell,211.0,2,time ▼
+1917,779,Get the ball in the hole without touching it,106,Sue Perkins,572.0,2,time ▼
+1918,779,Get the ball in the hole without touching it,107,Susan Wokoma,504.0,2,time ▼
+1919,780,Get underneath the most unique things,103,Julian Clary,25.0,171,things ▲
+1920,780,Get underneath the most unique things,103,Julian Clary,6.0,36,penalties ▼
+1921,780,Get underneath the most unique things,103,Julian Clary,-5.0,91,points ▲
+1922,780,Get underneath the most unique things,104,Lucy Beaumont,12.0,171,things ▲
+1923,780,Get underneath the most unique things,104,Lucy Beaumont,9.0,36,penalties ▼
+1924,780,Get underneath the most unique things,104,Lucy Beaumont,-33.0,91,points ▲
+1925,780,Get underneath the most unique things,105,Sam Campbell,74.0,171,things ▲
+1926,780,Get underneath the most unique things,105,Sam Campbell,5.0,36,penalties ▼
+1927,780,Get underneath the most unique things,105,Sam Campbell,49.0,91,points ▲
+1928,780,Get underneath the most unique things,106,Sue Perkins,20.0,171,things ▲
+1929,780,Get underneath the most unique things,106,Sue Perkins,5.0,36,penalties ▼
+1930,780,Get underneath the most unique things,106,Sue Perkins,-5.0,91,points ▲
+1931,780,Get underneath the most unique things,107,Susan Wokoma,?,171,things ▲
+1932,780,Get underneath the most unique things,107,Susan Wokoma,?,36,penalties ▼
+1933,780,Get underneath the most unique things,107,Susan Wokoma,?,91,points ▲
+1934,782,Human war boats,103,Julian Clary,3.0,172,hits ▲
+1935,782,Human war boats,104,Lucy Beaumont,3.0,172,hits ▲
+1936,782,Human war boats,105,Sam Campbell,3.0,172,hits ▲
+1937,782,Human war boats,106,Sue Perkins,2.0,172,hits ▲
+1938,782,Human war boats,107,Susan Wokoma,2.0,172,hits ▲
+1939,785,Complete all the tasks as a team,103,Julian Clary,408.0,2,time ▼
+1940,785,Complete all the tasks as a team,104,Lucy Beaumont,408.0,2,time ▼
+1941,785,Complete all the tasks as a team,105,Sam Campbell,408.0,2,time ▼
+1942,785,Complete all the tasks as a team,106,Sue Perkins,474.0,2,time ▼
+1943,785,Complete all the tasks as a team,107,Susan Wokoma,474.0,2,time ▼
+1944,787,Roll your animal die,103,Julian Clary,0.0,173,rounds survived ▲
+1945,787,Roll your animal die,104,Lucy Beaumont,3.0,173,rounds survived ▲
+1946,787,Roll your animal die,105,Sam Campbell,4.0,173,rounds survived ▲
+1947,787,Roll your animal die,106,Sue Perkins,2.0,173,rounds survived ▲
+1948,787,Roll your animal die,107,Susan Wokoma,1.0,173,rounds survived ▲
+1949,788,Tut the loudest,104,Lucy Beaumont,90.2,169,decibels ▲
+1950,788,Tut the loudest,106,Sue Perkins,93.4,169,decibels ▲
+1951,790,Burst the balloon without looking at it,103,Julian Clary,292.0,174,aspirins ▲
+1952,790,Burst the balloon without looking at it,104,Lucy Beaumont,15.0,174,aspirins ▲
+1953,790,Burst the balloon without looking at it,105,Sam Campbell,564.0,174,aspirins ▲
+1954,790,Burst the balloon without looking at it,106,Sue Perkins,2459.0,174,aspirins ▲
+1955,790,Burst the balloon without looking at it,107,Susan Wokoma,71.0,174,aspirins ▲
+1956,792,Get all of the water into the vase,103,Julian Clary,,2,time ▼
+1957,792,Get all of the water into the vase,104,Lucy Beaumont,,2,time ▼
+1958,792,Get all of the water into the vase,105,Sam Campbell,,2,time ▼
+1959,792,Get all of the water into the vase,106,Sue Perkins,,2,time ▼
+1960,792,Get all of the water into the vase,107,Susan Wokoma,,2,time ▼
+1961,793,Retrieve and sip your drink,103,Julian Clary,13.0,91,points ▲
+1962,793,Retrieve and sip your drink,104,Lucy Beaumont,4.0,91,points ▲
+1963,793,Retrieve and sip your drink,105,Sam Campbell,10.0,91,points ▲
+1964,793,Retrieve and sip your drink,106,Sue Perkins,0.0,91,points ▲
+1965,793,Retrieve and sip your drink,107,Susan Wokoma,0.0,91,points ▲
+1966,795,Avoid the rubbish robots,103,Julian Clary,2.5,35,time ▲
+1967,795,Avoid the rubbish robots,104,Lucy Beaumont,222.0,35,time ▲
+1968,795,Avoid the rubbish robots,105,Sam Campbell,64.0,35,time ▲
+1969,795,Avoid the rubbish robots,106,Sue Perkins,67.0,35,time ▲
+1970,795,Avoid the rubbish robots,107,Susan Wokoma,116.0,35,time ▲
+1971,796,Recreate the garage scene in the lab,103,Julian Clary,27.0,175,forbidden words ▼
+1972,796,Recreate the garage scene in the lab,103,Julian Clary,7.0,176,pretty much right things ▲
+1973,796,Recreate the garage scene in the lab,104,Lucy Beaumont,27.0,175,forbidden words ▼
+1974,796,Recreate the garage scene in the lab,104,Lucy Beaumont,7.0,176,pretty much right things ▲
+1975,796,Recreate the garage scene in the lab,105,Sam Campbell,27.0,175,forbidden words ▼
+1976,796,Recreate the garage scene in the lab,105,Sam Campbell,7.0,176,pretty much right things ▲
+1977,796,Recreate the garage scene in the lab,106,Sue Perkins,9.0,175,forbidden words ▼
+1978,796,Recreate the garage scene in the lab,106,Sue Perkins,6.0,176,pretty much right things ▲
+1979,796,Recreate the garage scene in the lab,107,Susan Wokoma,9.0,175,forbidden words ▼
+1980,796,Recreate the garage scene in the lab,107,Susan Wokoma,6.0,176,pretty much right things ▲
+1981,798,Pineapple bluff,103,Julian Clary,0.0,91,points ▲
+1982,798,Pineapple bluff,104,Lucy Beaumont,1.0,91,points ▲
+1983,798,Pineapple bluff,105,Sam Campbell,1.0,91,points ▲
+1984,798,Pineapple bluff,106,Sue Perkins,2.0,91,points ▲
+1985,798,Pineapple bluff,107,Susan Wokoma,3.0,91,points ▲
+1986,800,Play with these switches / Balance the most golf tees,103,Julian Clary,,177,balanced tees ▲
+1987,800,Play with these switches / Balance the most golf tees,104,Lucy Beaumont,19.0,177,balanced tees ▲
+1988,800,Play with these switches / Balance the most golf tees,105,Sam Campbell,,177,balanced tees ▲
+1989,800,Play with these switches / Balance the most golf tees,106,Sue Perkins,,177,balanced tees ▲
+1990,800,Play with these switches / Balance the most golf tees,107,Susan Wokoma,,177,balanced tees ▲
+1991,801,Pie the air dancer in the face,103,Julian Clary,212.0,2,time ▼
+1992,801,Pie the air dancer in the face,104,Lucy Beaumont,,2,time ▼
+1993,801,Pie the air dancer in the face,105,Sam Campbell,220.0,2,time ▼
+1994,801,Pie the air dancer in the face,106,Sue Perkins,,2,time ▼
+1995,801,Pie the air dancer in the face,107,Susan Wokoma,99.0,2,time ▼
+1996,802,Place your cardboard replica within the boundary,103,Julian Clary,7.55,4,meters ▲
+1997,802,Place your cardboard replica within the boundary,104,Lucy Beaumont,13.09,4,meters ▲
+1998,802,Place your cardboard replica within the boundary,105,Sam Campbell,14.24,4,meters ▲
+1999,802,Place your cardboard replica within the boundary,106,Sue Perkins,7.39,4,meters ▲
+2000,802,Place your cardboard replica within the boundary,107,Susan Wokoma,7.21,4,meters ▲
+2001,804,Pop your party popper the furthest,104,Lucy Beaumont,123.0,10,centimeters ▲
+2002,804,Pop your party popper the furthest,105,Sam Campbell,108.0,10,centimeters ▲
+2003,806,Find the secret task,103,Julian Clary,390.0,2,time ▼
+2004,806,Find the secret task,104,Lucy Beaumont,805.0,2,time ▼
+2005,806,Find the secret task,105,Sam Campbell,530.0,2,time ▼
+2006,806,Find the secret task,106,Sue Perkins,965.0,2,time ▼
+2007,806,Find the secret task,107,Susan Wokoma,1080.0,2,time ▼
+2008,807,Complete the fortune trail,103,Julian Clary,252.0,2,time ▼
+2009,807,Complete the fortune trail,104,Lucy Beaumont,,2,time ▼
+2010,807,Complete the fortune trail,105,Sam Campbell,411.0,2,time ▼
+2011,807,Complete the fortune trail,106,Sue Perkins,,2,time ▼
+2012,807,Complete the fortune trail,107,Susan Wokoma,589.0,2,time ▼
+2013,809,Mime the proverbs,103,Julian Clary,5.0,178,identified proverbs ▲
+2014,809,Mime the proverbs,104,Lucy Beaumont,5.0,178,identified proverbs ▲
+2015,809,Mime the proverbs,105,Sam Campbell,5.0,178,identified proverbs ▲
+2016,809,Mime the proverbs,106,Sue Perkins,6.0,178,identified proverbs ▲
+2017,809,Mime the proverbs,107,Susan Wokoma,6.0,178,identified proverbs ▲

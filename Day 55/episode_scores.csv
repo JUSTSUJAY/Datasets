@@ -1,0 +1,731 @@
+id,episode,episode_label,contestant,contestant_label,score,rank,series,srank
+1,1,Melon buffet.,3,Frank Skinner,19,1=,19,1=
+2,1,Melon buffet.,4,Josh Widdicombe,13,4,13,4
+3,1,Melon buffet.,5,Roisin Conaty,7,5,7,5
+4,1,Melon buffet.,6,Romesh Ranganathan,19,1=,19,1=
+5,1,Melon buffet.,7,Tim Key,17,3,17,3
+6,2,The pie whisperer.,3,Frank Skinner,9,5,28,4=
+7,2,The pie whisperer.,4,Josh Widdicombe,16,3,29,3
+8,2,The pie whisperer.,5,Roisin Conaty,21,1,28,4=
+9,2,The pie whisperer.,6,Romesh Ranganathan,14,4,33,2
+10,2,The pie whisperer.,7,Tim Key,18,2,35,1
+11,3,The poet and the egg.,3,Frank Skinner,15,4,43,4
+12,3,The poet and the egg.,4,Josh Widdicombe,22,1=,51,2=
+13,3,The poet and the egg.,5,Roisin Conaty,9,5,37,5
+14,3,The poet and the egg.,6,Romesh Ranganathan,22,1=,55,1
+15,3,The poet and the egg.,7,Tim Key,16,3,51,2=
+16,4,Down an octave.,3,Frank Skinner,14,2,57,4
+17,4,Down an octave.,4,Josh Widdicombe,16,1,67,1
+18,4,Down an octave.,5,Roisin Conaty,9,4=,46,5
+19,4,Down an octave.,6,Romesh Ranganathan,10,3,65,2
+20,4,Down an octave.,7,Tim Key,9,4=,60,3
+21,5,Little denim shorts.,3,Frank Skinner,20,1,77,3
+22,5,Little denim shorts.,4,Josh Widdicombe,18,2,85,1
+23,5,Little denim shorts.,5,Roisin Conaty,14,4,60,5
+24,5,Little denim shorts.,6,Romesh Ranganathan,16,3,81,2
+25,5,Little denim shorts.,7,Tim Key,10,5,70,4
+26,6,The last supper.,3,Frank Skinner,16,2,93,2=
+27,6,The last supper.,4,Josh Widdicombe,9,4,94,1
+28,6,The last supper.,5,Roisin Conaty,8,5,68,5
+29,6,The last supper.,6,Romesh Ranganathan,12,3,93,2=
+30,6,The last supper.,7,Tim Key,18,1,88,4
+31,7,Fear of failure.,8,Doc Brown,9,4,9,4
+32,7,Fear of failure.,9,Joe Wilkinson,8,5,8,5
+33,7,Fear of failure.,10,Jon Richardson,18,2,18,2
+34,7,Fear of failure.,11,Katherine Ryan,17,3,17,3
+35,7,Fear of failure.,12,Richard Osman,20,1,20,1
+36,8,Pork is a sausage.,8,Doc Brown,18,3,27,4
+37,8,Pork is a sausage.,9,Joe Wilkinson,13,5,21,5
+38,8,Pork is a sausage.,10,Jon Richardson,25,1,43,1
+39,8,Pork is a sausage.,11,Katherine Ryan,19,2,36,2
+40,8,Pork is a sausage.,12,Richard Osman,15,4,35,3
+41,9,A pistachio eclair.,8,Doc Brown,21,4,48,4
+42,9,A pistachio eclair.,9,Joe Wilkinson,25,3,46,5
+43,9,A pistachio eclair.,10,Jon Richardson,17,5,60,3
+44,9,A pistachio eclair.,11,Katherine Ryan,30,1,66,1
+45,9,A pistachio eclair.,12,Richard Osman,27,2,62,2
+46,10,Welcome to Rico Face.,8,Doc Brown,18,1,66,4
+47,10,Welcome to Rico Face.,9,Joe Wilkinson,12,4,58,5
+48,10,Welcome to Rico Face.,10,Jon Richardson,17,2,77,2
+49,10,Welcome to Rico Face.,11,Katherine Ryan,15,3,81,1
+50,10,Welcome to Rico Face.,12,Richard Osman,5,5,67,3
+51,11,There's strength in arches.,8,Doc Brown,12,4,78,4
+52,11,There's strength in arches.,9,Joe Wilkinson,11,5,69,5
+53,11,There's strength in arches.,10,Jon Richardson,13,2=,90,2
+54,11,There's strength in arches.,11,Katherine Ryan,13,2=,94,1
+55,11,There's strength in arches.,12,Richard Osman,19,1,86,3
+56,12,A pea in a haystack.,13,Al Murray,21,1,21,1
+57,12,A pea in a haystack.,14,Dave Gorman,13,4,13,4
+58,12,A pea in a haystack.,15,Paul Chowdhry,8,5,8,5
+59,12,A pea in a haystack.,16,Rob Beckett,15,3,15,3
+60,12,A pea in a haystack.,17,Sara Pascoe,16,2,16,2
+61,13,The dong and the gong.,13,Al Murray,18,2,39,1
+62,13,The dong and the gong.,14,Dave Gorman,17,3,30,4
+63,13,The dong and the gong.,15,Paul Chowdhry,13,5,21,5
+64,13,The dong and the gong.,16,Rob Beckett,21,1,36,2
+65,13,The dong and the gong.,17,Sara Pascoe,16,4,32,3
+66,14,Little polythene grief cave.,13,Al Murray,9,5,48,4
+67,14,Little polythene grief cave.,14,Dave Gorman,21,2,51,2
+68,14,Little polythene grief cave.,15,Paul Chowdhry,22,1,43,5
+69,14,Little polythene grief cave.,16,Rob Beckett,19,3,55,1
+70,14,Little polythene grief cave.,17,Sara Pascoe,17,4,49,3
+71,15,A very nuanced character.,13,Al Murray,16,2,64,3
+72,15,A very nuanced character.,14,Dave Gorman,17,1,68,2
+73,15,A very nuanced character.,15,Paul Chowdhry,11,5,54,5
+74,15,A very nuanced character.,16,Rob Beckett,15,3,70,1
+75,15,A very nuanced character.,17,Sara Pascoe,14,4,63,4
+76,16,The F.I.P.,13,Al Murray,16,2,80,3
+77,16,The F.I.P.,14,Dave Gorman,13,3,81,2
+78,16,The F.I.P.,15,Paul Chowdhry,12,4,66,5
+79,16,The F.I.P.,16,Rob Beckett,17,1,87,1
+80,16,The F.I.P.,17,Sara Pascoe,9,5,72,4
+81,17,A fat bald white man.,18,Hugh Dennis,13,4=,13,4=
+82,17,A fat bald white man.,19,Joe Lycett,17,2,17,2
+83,17,A fat bald white man.,20,Lolly Adefope,13,4=,13,4=
+84,17,A fat bald white man.,21,Mel Giedroyc,16,3,16,3
+85,17,A fat bald white man.,22,Noel Fielding,18,1,18,1
+86,18,Look at me.,18,Hugh Dennis,17,4,30,4=
+87,18,Look at me.,19,Joe Lycett,13,5,30,4=
+88,18,Look at me.,20,Lolly Adefope,18,2=,31,3
+89,18,Look at me.,21,Mel Giedroyc,20,1,36,1=
+90,18,Look at me.,22,Noel Fielding,18,2=,36,1=
+91,19,Hollowing out a baguette.,18,Hugh Dennis,15,3,45,3
+92,19,Hollowing out a baguette.,19,Joe Lycett,19,1=,49,2
+93,19,Hollowing out a baguette.,20,Lolly Adefope,12,4,43,4
+94,19,Hollowing out a baguette.,21,Mel Giedroyc,3,5,39,5
+95,19,Hollowing out a baguette.,22,Noel Fielding,19,1=,55,1
+96,20,Friendship is truth.,18,Hugh Dennis,17,4,62,4
+97,20,Friendship is truth.,19,Joe Lycett,19,3,68,2
+98,20,Friendship is truth.,20,Lolly Adefope,15,5,58,5
+99,20,Friendship is truth.,21,Mel Giedroyc,24,1,63,3
+100,20,Friendship is truth.,22,Noel Fielding,23,2,78,1
+101,21,Meat.,18,Hugh Dennis,21,1=,83,4
+102,21,Meat.,19,Joe Lycett,18,3,86,2
+103,21,Meat.,20,Lolly Adefope,15,4,73,5
+104,21,Meat.,21,Mel Giedroyc,21,1=,84,3
+105,21,Meat.,22,Noel Fielding,12,5,90,1
+106,22,Spatchcock it.,18,Hugh Dennis,13,5,96,4
+107,22,Spatchcock it.,19,Joe Lycett,14,4,100,2=
+108,22,Spatchcock it.,20,Lolly Adefope,19,1,92,5
+109,22,Spatchcock it.,21,Mel Giedroyc,16,2,100,2=
+110,22,Spatchcock it.,22,Noel Fielding,15,3,105,1
+111,23,No stars for naughty boys.,18,Hugh Dennis,20,1=,116,3
+112,23,No stars for naughty boys.,19,Joe Lycett,20,1=,120,2
+113,23,No stars for naughty boys.,20,Lolly Adefope,20,1=,112,5
+114,23,No stars for naughty boys.,21,Mel Giedroyc,13,5,113,4
+115,23,No stars for naughty boys.,22,Noel Fielding,19,4,124,1
+116,24,Tony Three Pies.,18,Hugh Dennis,13,4=,129,4
+117,24,Tony Three Pies.,19,Joe Lycett,16,3,136,2
+118,24,Tony Three Pies.,20,Lolly Adefope,13,4=,125,5
+119,24,Tony Three Pies.,21,Mel Giedroyc,21,1,134,3
+120,24,Tony Three Pies.,22,Noel Fielding,20,2,144,1
+121,25,Dignity intact.,23,Aisling Bea,13,4=,13,4=
+122,25,Dignity intact.,24,Bob Mortimer,18,1,18,1
+123,25,Dignity intact.,25,Mark Watson,17,2,17,2
+124,25,Dignity intact.,26,Nish Kumar,13,4=,13,4=
+125,25,Dignity intact.,27,Sally Phillips,14,3,14,3
+126,26,The leprechaun or the lesbian.,23,Aisling Bea,17,4,30,5
+127,26,The leprechaun or the lesbian.,24,Bob Mortimer,16,5,34,2=
+128,26,The leprechaun or the lesbian.,25,Mark Watson,19,2=,36,1
+129,26,The leprechaun or the lesbian.,26,Nish Kumar,19,2=,32,4
+130,26,The leprechaun or the lesbian.,27,Sally Phillips,20,1,34,2=
+131,27,Phoenix.,23,Aisling Bea,13,4,43,5
+132,27,Phoenix.,24,Bob Mortimer,17,1,51,1=
+133,27,Phoenix.,25,Mark Watson,15,3,51,1=
+134,27,Phoenix.,26,Nish Kumar,12,5,44,4
+135,27,Phoenix.,27,Sally Phillips,16,2,50,3
+136,28,Residue around the hoof.,23,Aisling Bea,24,1=,67,3
+137,28,Residue around the hoof.,24,Bob Mortimer,21,3,72,2
+138,28,Residue around the hoof.,25,Mark Watson,24,1=,75,1
+139,28,Residue around the hoof.,26,Nish Kumar,12,5,56,5
+140,28,Residue around the hoof.,27,Sally Phillips,15,4,65,4
+141,29,A wind-dried puffin.,23,Aisling Bea,15,2,82,3
+142,29,A wind-dried puffin.,24,Bob Mortimer,14,3=,86,2
+143,29,A wind-dried puffin.,25,Mark Watson,16,1,91,1
+144,29,A wind-dried puffin.,26,Nish Kumar,13,5,69,5
+145,29,A wind-dried puffin.,27,Sally Phillips,14,3=,79,4
+146,30,Spoony Neeson.,23,Aisling Bea,17,3,99,3
+147,30,Spoony Neeson.,24,Bob Mortimer,18,1=,104,1=
+148,30,Spoony Neeson.,25,Mark Watson,13,4,104,1=
+149,30,Spoony Neeson.,26,Nish Kumar,12,5,81,5
+150,30,Spoony Neeson.,27,Sally Phillips,18,1=,97,4
+151,31,Boing boing.,23,Aisling Bea,17,2,116,3
+152,31,Boing boing.,24,Bob Mortimer,18,1,122,1
+153,31,Boing boing.,25,Mark Watson,15,4,119,2
+154,31,Boing boing.,26,Nish Kumar,12,5,93,5
+155,31,Boing boing.,27,Sally Phillips,16,3,113,4
+156,32,Their water's so delicious.,23,Aisling Bea,10,5,126,4
+157,32,Their water's so delicious.,24,Bob Mortimer,16,2,138,1
+158,32,Their water's so delicious.,25,Mark Watson,11,4,130,2=
+159,32,Their water's so delicious.,26,Nish Kumar,14,3,107,5
+160,32,Their water's so delicious.,27,Sally Phillips,17,1,130,2=
+161,33,Wiley giraffe blower.,28,Bob Mortimer,11,5,11,5
+162,33,Wiley giraffe blower.,29,Josh Widdicombe,19,2=,19,2=
+163,33,Wiley giraffe blower.,30,Katherine Ryan,20,1,20,1
+164,33,Wiley giraffe blower.,31,Noel Fielding,16,4,16,4
+165,33,Wiley giraffe blower.,32,Rob Beckett,19,2=,19,2=
+166,34,I've sinned again.,28,Bob Mortimer,13,5,24,5
+167,34,I've sinned again.,29,Josh Widdicombe,18,1,37,1
+168,34,I've sinned again.,30,Katherine Ryan,15,4,35,3
+169,34,I've sinned again.,31,Noel Fielding,16,3,32,4
+170,34,I've sinned again.,32,Rob Beckett,17,2,36,2
+171,35,The old soft curved padlock.,33,Alice Levine,18,1=,18,1=
+172,35,The old soft curved padlock.,34,Asim Chaudhry,8,5,8,5
+173,35,The old soft curved padlock.,35,Liza Tarbuck,17,3,17,3
+174,35,The old soft curved padlock.,36,Russell Howard,18,1=,18,1=
+175,35,The old soft curved padlock.,37,Tim Vine,11,4,11,4
+176,36,Tarpeters.,33,Alice Levine,13,4=,31,3
+177,36,Tarpeters.,34,Asim Chaudhry,13,4=,21,5
+178,36,Tarpeters.,35,Liza Tarbuck,19,1,36,1
+179,36,Tarpeters.,36,Russell Howard,14,2=,32,2
+180,36,Tarpeters.,37,Tim Vine,14,2=,25,4
+181,37,One warm prawn.,33,Alice Levine,6,5,37,5
+182,37,One warm prawn.,34,Asim Chaudhry,19,2,40,3=
+183,37,One warm prawn.,35,Liza Tarbuck,22,1,58,1
+184,37,One warm prawn.,36,Russell Howard,16,3,48,2
+185,37,One warm prawn.,37,Tim Vine,15,4,40,3=
+186,38,BMXing!,33,Alice Levine,23,2,60,4
+187,38,BMXing!,34,Asim Chaudhry,18,5,58,5
+188,38,BMXing!,35,Liza Tarbuck,20,4,78,1
+189,38,BMXing!,36,Russell Howard,24,1,72,2
+190,38,BMXing!,37,Tim Vine,21,3,61,3
+191,39,H.,33,Alice Levine,16,5,76,5
+192,39,H.,34,Asim Chaudhry,19,4,77,4
+193,39,H.,35,Liza Tarbuck,25,2,103,1
+194,39,H.,36,Russell Howard,21,3,93,2
+195,39,H.,37,Tim Vine,26,1,87,3
+196,40,We met at mealtimes.,33,Alice Levine,15,4,91,5
+197,40,We met at mealtimes.,34,Asim Chaudhry,17,3,94,4
+198,40,We met at mealtimes.,35,Liza Tarbuck,20,2,123,1
+199,40,We met at mealtimes.,36,Russell Howard,12,5,105,3
+200,40,We met at mealtimes.,37,Tim Vine,23,1,110,2
+201,41,Roadkill doused in syrup.,33,Alice Levine,14,5,105,5
+202,41,Roadkill doused in syrup.,34,Asim Chaudhry,15,4,109,4
+203,41,Roadkill doused in syrup.,35,Liza Tarbuck,17,3,140,1
+204,41,Roadkill doused in syrup.,36,Russell Howard,21,1,126,3
+205,41,Roadkill doused in syrup.,37,Tim Vine,20,2,130,2
+206,42,What kind of pictures?,33,Alice Levine,13,5,118,5
+207,42,What kind of pictures?,34,Asim Chaudhry,16,3=,125,4
+208,42,What kind of pictures?,35,Liza Tarbuck,17,1=,157,1
+209,42,What kind of pictures?,36,Russell Howard,17,1=,143,3
+210,42,What kind of pictures?,37,Tim Vine,16,3=,146,2
+211,43,The Bubble Brothers.,33,Alice Levine,18,1,136,5
+212,43,The Bubble Brothers.,34,Asim Chaudhry,12,5,137,4
+213,43,The Bubble Brothers.,35,Liza Tarbuck,14,4,171,1
+214,43,The Bubble Brothers.,36,Russell Howard,15,3,158,3
+215,43,The Bubble Brothers.,37,Tim Vine,16,2,162,2
+216,44,He was a different man.,33,Alice Levine,16,2,152,5
+217,44,He was a different man.,34,Asim Chaudhry,22,1,159,4
+218,44,He was a different man.,35,Liza Tarbuck,10,5,181,1
+219,44,He was a different man.,36,Russell Howard,12,4,170,3
+220,44,He was a different man.,37,Tim Vine,13,3,175,2
+221,45,The mean bean.,38,James Acaster,11,5,11,5
+222,45,The mean bean.,39,Jessica Knappett,14,3,14,3
+223,45,The mean bean.,40,Kerry Godliman,20,1,20,1
+224,45,The mean bean.,41,Phil Wang,13,4,13,4
+225,45,The mean bean.,42,Rhod Gilbert,19,2,19,2
+226,46,My eyes are circles.,38,James Acaster,16,5,27,5
+227,46,My eyes are circles.,39,Jessica Knappett,23,1=,37,3
+228,46,My eyes are circles.,40,Kerry Godliman,23,1=,43,1
+229,46,My eyes are circles.,41,Phil Wang,19,4,32,4
+230,46,My eyes are circles.,42,Rhod Gilbert,22,3,41,2
+231,47,Twelve blush majesty two.,38,James Acaster,18,1,45,5
+232,47,Twelve blush majesty two.,39,Jessica Knappett,15,3=,52,2
+233,47,Twelve blush majesty two.,40,Kerry Godliman,17,2,60,1
+234,47,Twelve blush majesty two.,41,Phil Wang,15,3=,47,4
+235,47,Twelve blush majesty two.,42,Rhod Gilbert,9,5,50,3
+236,48,OLLIE.,38,James Acaster,17,1=,62,4
+237,48,OLLIE.,39,Jessica Knappett,16,3=,68,2
+238,48,OLLIE.,40,Kerry Godliman,16,3=,76,1
+239,48,OLLIE.,41,Phil Wang,12,5,59,5
+240,48,OLLIE.,42,Rhod Gilbert,17,1=,67,3
+241,49,Lotta soup.,38,James Acaster,20,2,82,4
+242,49,Lotta soup.,39,Jessica Knappett,25,1,93,1=
+243,49,Lotta soup.,40,Kerry Godliman,17,4,93,1=
+244,49,Lotta soup.,41,Phil Wang,9,5,68,5
+245,49,Lotta soup.,42,Rhod Gilbert,18,3,85,3
+246,50,A coquettish fascinator.,38,James Acaster,19,1,101,4
+247,50,A coquettish fascinator.,39,Jessica Knappett,16,5,109,2
+248,50,A coquettish fascinator.,40,Kerry Godliman,17,3=,110,1
+249,50,A coquettish fascinator.,41,Phil Wang,17,3=,85,5
+250,50,A coquettish fascinator.,42,Rhod Gilbert,18,2,103,3
+251,51,The perfect stuff.,38,James Acaster,15,3=,116,4
+252,51,The perfect stuff.,39,Jessica Knappett,18,2,127,1
+253,51,The perfect stuff.,40,Kerry Godliman,14,5,124,2=
+254,51,The perfect stuff.,41,Phil Wang,15,3=,100,5
+255,51,The perfect stuff.,42,Rhod Gilbert,21,1,124,2=
+256,52,Mother honks her horn.,38,James Acaster,16,3=,132,4
+257,52,Mother honks her horn.,39,Jessica Knappett,19,2,146,1
+258,52,Mother honks her horn.,40,Kerry Godliman,16,3=,140,3
+259,52,Mother honks her horn.,41,Phil Wang,9,5,109,5
+260,52,Mother honks her horn.,42,Rhod Gilbert,20,1,144,2
+261,53,The pendulum draws the eye.,38,James Acaster,14,3,146,4
+262,53,The pendulum draws the eye.,39,Jessica Knappett,18,2,164,1
+263,53,The pendulum draws the eye.,40,Kerry Godliman,21,1,161,2
+264,53,The pendulum draws the eye.,41,Phil Wang,11,4,120,5
+265,53,The pendulum draws the eye.,42,Rhod Gilbert,9,5,153,3
+266,54,I can hear it gooping.,38,James Acaster,19,1,165,4
+267,54,I can hear it gooping.,39,Jessica Knappett,11,5,175,2
+268,54,I can hear it gooping.,40,Kerry Godliman,15,2,176,1
+269,54,I can hear it gooping.,41,Phil Wang,13,4,133,5
+270,54,I can hear it gooping.,42,Rhod Gilbert,14,3,167,3
+271,55,Hello.,43,Iain Stirling,20,1=,20,1=
+272,55,Hello.,44,Joe Thomas,12,4,12,4
+273,55,Hello.,45,Lou Sanders,20,1=,20,1=
+274,55,Hello.,46,Paul Sinha,10,5,10,5
+275,55,Hello.,47,Sian Gibson,16,3,16,3
+276,56,A novel about Russian Gulags.,43,Iain Stirling,13,5,33,2
+277,56,A novel about Russian Gulags.,44,Joe Thomas,20,2,32,3=
+278,56,A novel about Russian Gulags.,45,Lou Sanders,21,1,41,1
+279,56,A novel about Russian Gulags.,46,Paul Sinha,19,3,29,5
+280,56,A novel about Russian Gulags.,47,Sian Gibson,16,4,32,3=
+281,57,Stuck in a mammal groove.,43,Iain Stirling,17,2,50,2
+282,57,Stuck in a mammal groove.,44,Joe Thomas,10,5,42,4
+283,57,Stuck in a mammal groove.,45,Lou Sanders,19,1,60,1
+284,57,Stuck in a mammal groove.,46,Paul Sinha,11,4,40,5
+285,57,Stuck in a mammal groove.,47,Sian Gibson,16,3,48,3
+286,58,The barrel dad.,43,Iain Stirling,10,5,60,3
+287,58,The barrel dad.,44,Joe Thomas,15,1=,57,4
+288,58,The barrel dad.,45,Lou Sanders,15,1=,75,1
+289,58,The barrel dad.,46,Paul Sinha,11,4,51,5
+290,58,The barrel dad.,47,Sian Gibson,15,1=,63,2
+291,59,Stay humble.,43,Iain Stirling,21,1,81,2
+292,59,Stay humble.,44,Joe Thomas,20,2=,77,4
+293,59,Stay humble.,45,Lou Sanders,20,2=,95,1
+294,59,Stay humble.,46,Paul Sinha,14,5,65,5
+295,59,Stay humble.,47,Sian Gibson,17,4,80,3
+296,60,Rock 'n' roll umlaut.,43,Iain Stirling,10,4,91,3=
+297,60,Rock 'n' roll umlaut.,44,Joe Thomas,14,2,91,3=
+298,60,Rock 'n' roll umlaut.,45,Lou Sanders,12,3,107,1
+299,60,Rock 'n' roll umlaut.,46,Paul Sinha,9,5,74,5
+300,60,Rock 'n' roll umlaut.,47,Sian Gibson,15,1,95,2
+301,61,This is Trevor.,43,Iain Stirling,10,5,101,4
+302,61,This is Trevor.,44,Joe Thomas,24,1,115,2
+303,61,This is Trevor.,45,Lou Sanders,13,2=,120,1
+304,61,This is Trevor.,46,Paul Sinha,13,2=,87,5
+305,61,This is Trevor.,47,Sian Gibson,11,4,106,3
+306,62,Aquatic sewing machine.,43,Iain Stirling,18,2,119,3
+307,62,Aquatic sewing machine.,44,Joe Thomas,7,5,122,2
+308,62,Aquatic sewing machine.,45,Lou Sanders,12,3,132,1
+309,62,Aquatic sewing machine.,46,Paul Sinha,21,1,108,5
+310,62,Aquatic sewing machine.,47,Sian Gibson,8,4,114,4
+311,63,I've been a bit ill.,43,Iain Stirling,19,2,138,2=
+312,63,I've been a bit ill.,44,Joe Thomas,16,4=,138,2=
+313,63,I've been a bit ill.,45,Lou Sanders,20,1,152,1
+314,63,I've been a bit ill.,46,Paul Sinha,17,3,125,5
+315,63,I've been a bit ill.,47,Sian Gibson,16,4=,130,4
+316,64,Clumpy swayey clumsy man.,43,Iain Stirling,18,1,156,2
+317,64,Clumpy swayey clumsy man.,44,Joe Thomas,12,3=,150,3
+318,64,Clumpy swayey clumsy man.,45,Lou Sanders,12,3=,164,1
+319,64,Clumpy swayey clumsy man.,46,Paul Sinha,11,5,136,5
+320,64,Clumpy swayey clumsy man.,47,Sian Gibson,13,2,143,4
+321,65,Join our cult.,48,David Baddiel,14,3,14,3
+322,65,Join our cult.,49,Ed Gamble,16,2,16,2
+323,65,Join our cult.,50,Jo Brand,12,4=,12,4=
+324,65,Join our cult.,51,Katy Wix,12,4=,12,4=
+325,65,Join our cult.,52,Rose Matafeo,17,1,17,1
+326,66,Butter in the microwave.,48,David Baddiel,10,5,24,5
+327,66,Butter in the microwave.,49,Ed Gamble,19,1,35,1
+328,66,Butter in the microwave.,50,Jo Brand,15,3=,27,4
+329,66,Butter in the microwave.,51,Katy Wix,18,2,30,3
+330,66,Butter in the microwave.,52,Rose Matafeo,15,3=,32,2
+331,67,Five miles per day.,48,David Baddiel,17,3=,41,5
+332,67,Five miles per day.,49,Ed Gamble,17,3=,52,2=
+333,67,Five miles per day.,50,Jo Brand,15,5,42,4
+334,67,Five miles per day.,51,Katy Wix,23,1,53,1
+335,67,Five miles per day.,52,Rose Matafeo,20,2,52,2=
+336,68,Quisps.,48,David Baddiel,12,4,53,5
+337,68,Quisps.,49,Ed Gamble,16,2=,68,2
+338,68,Quisps.,50,Jo Brand,16,2=,58,4
+339,68,Quisps.,51,Katy Wix,11,5,64,3
+340,68,Quisps.,52,Rose Matafeo,18,1,70,1
+341,69,Another spoon.,48,David Baddiel,12,5,65,5
+342,69,Another spoon.,49,Ed Gamble,14,4,82,2
+343,69,Another spoon.,50,Jo Brand,19,1,77,4
+344,69,Another spoon.,51,Katy Wix,16,3,80,3
+345,69,Another spoon.,52,Rose Matafeo,18,2,88,1
+346,70,Bready bready bready.,48,David Baddiel,10,5,75,5
+347,70,Bready bready bready.,49,Ed Gamble,19,1,101,2
+348,70,Bready bready bready.,50,Jo Brand,16,2,93,3=
+349,70,Bready bready bready.,51,Katy Wix,13,4,93,3=
+350,70,Bready bready bready.,52,Rose Matafeo,14,3,102,1
+351,71,A cuddle.,48,David Baddiel,14,4,89,5
+352,71,A cuddle.,49,Ed Gamble,17,3,118,1
+353,71,A cuddle.,50,Jo Brand,22,2,115,3
+354,71,A cuddle.,51,Katy Wix,24,1,117,2
+355,71,A cuddle.,52,Rose Matafeo,11,5,113,4
+356,72,Shaqinahat.,48,David Baddiel,10,5,99,5
+357,72,Shaqinahat.,49,Ed Gamble,20,1,138,1
+358,72,Shaqinahat.,50,Jo Brand,15,3=,130,3=
+359,72,Shaqinahat.,51,Katy Wix,15,3=,132,2
+360,72,Shaqinahat.,52,Rose Matafeo,17,2,130,3=
+361,73,Don't like them go bang.,48,David Baddiel,19,1,118,5
+362,73,Don't like them go bang.,49,Ed Gamble,17,2=,155,1
+363,73,Don't like them go bang.,50,Jo Brand,14,5,144,4
+364,73,Don't like them go bang.,51,Katy Wix,17,2=,149,2
+365,73,Don't like them go bang.,52,Rose Matafeo,17,2=,147,3
+366,74,Think about the spirit.,48,David Baddiel,10,3=,128,5
+367,74,Think about the spirit.,49,Ed Gamble,12,1=,167,1
+368,74,Think about the spirit.,50,Jo Brand,10,3=,154,4
+369,74,Think about the spirit.,51,Katy Wix,9,5,158,3
+370,74,Think about the spirit.,52,Rose Matafeo,12,1=,159,2
+371,75,God's haemorrhoid.,53,Daisy May Cooper,11,2,11,2
+372,75,God's haemorrhoid.,54,Johnny Vegas,10,3,10,3
+373,75,God's haemorrhoid.,55,Katherine Parkinson,6,5,6,5
+374,75,God's haemorrhoid.,56,Mawaan Rizwan,8,4,8,4
+375,75,God's haemorrhoid.,57,Richard Herring,12,1,12,1
+376,76,A documentary about a despot.,53,Daisy May Cooper,18,3,29,2
+377,76,A documentary about a despot.,54,Johnny Vegas,15,5,25,3=
+378,76,A documentary about a despot.,55,Katherine Parkinson,19,1=,25,3=
+379,76,A documentary about a despot.,56,Mawaan Rizwan,16,4,24,5
+380,76,A documentary about a despot.,57,Richard Herring,19,1=,31,1
+381,77,Point of swivel.,53,Daisy May Cooper,19,1,48,1
+382,77,Point of swivel.,54,Johnny Vegas,17,2,42,3
+383,77,Point of swivel.,55,Katherine Parkinson,7,5,32,5
+384,77,Point of swivel.,56,Mawaan Rizwan,14,4,38,4
+385,77,Point of swivel.,57,Richard Herring,15,3,46,2
+386,78,Toshwash.,53,Daisy May Cooper,19,1,67,1
+387,78,Toshwash.,54,Johnny Vegas,17,2,59,2=
+388,78,Toshwash.,55,Katherine Parkinson,15,3,47,5
+389,78,Toshwash.,56,Mawaan Rizwan,13,4=,51,4
+390,78,Toshwash.,57,Richard Herring,13,4=,59,2=
+391,79,I hate your trainers.,53,Daisy May Cooper,24,2,91,1
+392,79,I hate your trainers.,54,Johnny Vegas,15,5,74,3
+393,79,I hate your trainers.,55,Katherine Parkinson,20,3,67,5
+394,79,I hate your trainers.,56,Mawaan Rizwan,17,4,68,4
+395,79,I hate your trainers.,57,Richard Herring,26,1,85,2
+396,80,Hippopotamus.,53,Daisy May Cooper,14,3,105,1
+397,80,Hippopotamus.,54,Johnny Vegas,19,2,93,3
+398,80,Hippopotamus.,55,Katherine Parkinson,10,5,77,5
+399,80,Hippopotamus.,56,Mawaan Rizwan,22,1,90,4
+400,80,Hippopotamus.,57,Richard Herring,12,4,97,2
+401,81,Legit glass.,53,Daisy May Cooper,11,4,116,1
+402,81,Legit glass.,54,Johnny Vegas,16,1=,109,2
+403,81,Legit glass.,55,Katherine Parkinson,13,3,90,5
+404,81,Legit glass.,56,Mawaan Rizwan,16,1=,106,3=
+405,81,Legit glass.,57,Richard Herring,9,5,106,3=
+406,82,Moments of silence.,53,Daisy May Cooper,7,5,123,2
+407,82,Moments of silence.,54,Johnny Vegas,12,2=,121,3
+408,82,Moments of silence.,55,Katherine Parkinson,12,2=,102,5
+409,82,Moments of silence.,56,Mawaan Rizwan,10,4,116,4
+410,82,Moments of silence.,57,Richard Herring,18,1,124,1
+411,83,Air Horn Andy.,53,Daisy May Cooper,20,2,143,2
+412,83,Air Horn Andy.,54,Johnny Vegas,9,4,130,4
+413,83,Air Horn Andy.,55,Katherine Parkinson,6,5,108,5
+414,83,Air Horn Andy.,56,Mawaan Rizwan,18,3,134,3
+415,83,Air Horn Andy.,57,Richard Herring,21,1,145,1
+416,84,Dog meat trifle.,53,Daisy May Cooper,15,3,158,2
+417,84,Dog meat trifle.,54,Johnny Vegas,9,5,139,4
+418,84,Dog meat trifle.,55,Katherine Parkinson,10,4,118,5
+419,84,Dog meat trifle.,56,Mawaan Rizwan,17,1=,151,3
+420,84,Dog meat trifle.,57,Richard Herring,17,1=,162,1
+421,85,The fastest duck.,58,John Hannah,10,4=,10,4=
+422,85,The fastest duck.,59,Krishnan Guru-Murthy,12,3,12,3
+423,85,The fastest duck.,60,Nicola Coughlan,10,4=,10,4=
+424,85,The fastest duck.,61,Rylan Clark-Neal,13,2,13,2
+425,85,The fastest duck.,62,Shirley Ballas,17,1,17,1
+426,86,It's not your fault.,63,Charlotte Ritchie,5,5,5,5
+427,86,It's not your fault.,64,Jamali Maddix,7,4,7,4
+428,86,It's not your fault.,65,Lee Mack,17,2=,17,2=
+429,86,It's not your fault.,66,Mike Wozniak,17,2=,17,2=
+430,86,It's not your fault.,67,Sarah Kendall,18,1,18,1
+431,87,The Lure of the Treacle Puppies.,63,Charlotte Ritchie,12,5,17,5
+432,87,The Lure of the Treacle Puppies.,64,Jamali Maddix,13,4,20,4
+433,87,The Lure of the Treacle Puppies.,65,Lee Mack,16,3,33,3
+434,87,The Lure of the Treacle Puppies.,66,Mike Wozniak,21,1,38,1
+435,87,The Lure of the Treacle Puppies.,67,Sarah Kendall,17,2,35,2
+436,88,Run up a tree to the moon.,63,Charlotte Ritchie,11,4=,28,5
+437,88,Run up a tree to the moon.,64,Jamali Maddix,11,4=,31,4
+438,88,Run up a tree to the moon.,65,Lee Mack,18,2,51,2=
+439,88,Run up a tree to the moon.,66,Mike Wozniak,13,3,51,2=
+440,88,Run up a tree to the moon.,67,Sarah Kendall,20,1,55,1
+441,89,Premature conker.,63,Charlotte Ritchie,13,3,41,5
+442,89,Premature conker.,64,Jamali Maddix,21,2,52,4
+443,89,Premature conker.,65,Lee Mack,7,4,58,2
+444,89,Premature conker.,66,Mike Wozniak,6,5,57,3
+445,89,Premature conker.,67,Sarah Kendall,23,1,78,1
+446,90,Slap and tong.,63,Charlotte Ritchie,17,1,58,5
+447,90,Slap and tong.,64,Jamali Maddix,15,2,67,4
+448,90,Slap and tong.,65,Lee Mack,12,4=,70,3
+449,90,Slap and tong.,66,Mike Wozniak,14,3,71,2
+450,90,Slap and tong.,67,Sarah Kendall,12,4=,90,1
+451,91,Absolute casserole.,63,Charlotte Ritchie,11,5,69,5
+452,91,Absolute casserole.,64,Jamali Maddix,17,1=,84,3
+453,91,Absolute casserole.,65,Lee Mack,13,4,83,4
+454,91,Absolute casserole.,66,Mike Wozniak,17,1=,88,2
+455,91,Absolute casserole.,67,Sarah Kendall,16,3,106,1
+456,92,You've got no chutzpah.,63,Charlotte Ritchie,9,5,78,5
+457,92,You've got no chutzpah.,64,Jamali Maddix,12,3=,96,4
+458,92,You've got no chutzpah.,65,Lee Mack,22,1,105,2
+459,92,You've got no chutzpah.,66,Mike Wozniak,14,2,102,3
+460,92,You've got no chutzpah.,67,Sarah Kendall,12,3=,118,1
+461,93,An orderly species.,63,Charlotte Ritchie,11,5,89,5
+462,93,An orderly species.,64,Jamali Maddix,16,3,112,4
+463,93,An orderly species.,65,Lee Mack,18,1,123,2
+464,93,An orderly species.,66,Mike Wozniak,17,2,119,3
+465,93,An orderly species.,67,Sarah Kendall,12,4,130,1
+466,94,Mr Octopus and Pottyhands.,63,Charlotte Ritchie,20,1,109,5
+467,94,Mr Octopus and Pottyhands.,64,Jamali Maddix,13,4,125,4
+468,94,Mr Octopus and Pottyhands.,65,Lee Mack,9,5,132,3
+469,94,Mr Octopus and Pottyhands.,66,Mike Wozniak,18,2,137,2
+470,94,Mr Octopus and Pottyhands.,67,Sarah Kendall,16,3,146,1
+471,95,Activate Jamali.,63,Charlotte Ritchie,16,3,125,5
+472,95,Activate Jamali.,64,Jamali Maddix,12,4=,137,4
+473,95,Activate Jamali.,65,Lee Mack,19,1,151,3
+474,95,Activate Jamali.,66,Mike Wozniak,17,2,154,2
+475,95,Activate Jamali.,67,Sarah Kendall,12,4=,158,1
+476,96,An imbalance in the poppability.,68,Alan Davies,15,3,15,3
+477,96,An imbalance in the poppability.,69,Desiree Burch,16,2,16,2
+478,96,An imbalance in the poppability.,70,Guz Khan,14,4,14,4
+479,96,An imbalance in the poppability.,71,Morgana Robinson,17,1,17,1
+480,96,An imbalance in the poppability.,72,Victoria Coren Mitchell,12,5,12,5
+481,97,Oatmeal and death.,68,Alan Davies,16,3=,31,4
+482,97,Oatmeal and death.,69,Desiree Burch,16,3=,32,3
+483,97,Oatmeal and death.,70,Guz Khan,20,1,34,1=
+484,97,Oatmeal and death.,71,Morgana Robinson,17,2,34,1=
+485,97,Oatmeal and death.,72,Victoria Coren Mitchell,13,5,25,5
+486,98,The end of the franchise.,68,Alan Davies,14,3=,45,4
+487,98,The end of the franchise.,69,Desiree Burch,21,1,53,1
+488,98,The end of the franchise.,70,Guz Khan,14,3=,48,3
+489,98,The end of the franchise.,71,Morgana Robinson,18,2,52,2
+490,98,The end of the franchise.,72,Victoria Coren Mitchell,13,5,38,5
+491,99,The customised inhaler.,68,Alan Davies,21,1,66,2
+492,99,The customised inhaler.,69,Desiree Burch,15,3,68,1
+493,99,The customised inhaler.,70,Guz Khan,14,4,62,4
+494,99,The customised inhaler.,71,Morgana Robinson,13,5,65,3
+495,99,The customised inhaler.,72,Victoria Coren Mitchell,16,2,54,5
+496,100,Croissants is croissants.,68,Alan Davies,14,3,80,3
+497,100,Croissants is croissants.,69,Desiree Burch,8,5,76,4
+498,100,Croissants is croissants.,70,Guz Khan,21,1,83,1
+499,100,Croissants is croissants.,71,Morgana Robinson,17,2,82,2
+500,100,Croissants is croissants.,72,Victoria Coren Mitchell,10,4,64,5
+501,101,A chair in a sweet.,68,Alan Davies,14,4,94,3
+502,101,A chair in a sweet.,69,Desiree Burch,17,2=,93,4
+503,101,A chair in a sweet.,70,Guz Khan,19,1,102,1
+504,101,A chair in a sweet.,71,Morgana Robinson,17,2=,99,2
+505,101,A chair in a sweet.,72,Victoria Coren Mitchell,9,5,73,5
+506,102,The integrity of the product.,68,Alan Davies,16,3,110,2=
+507,102,The integrity of the product.,69,Desiree Burch,17,2,110,2=
+508,102,The integrity of the product.,70,Guz Khan,8,5,110,2=
+509,102,The integrity of the product.,71,Morgana Robinson,14,4,113,1
+510,102,The integrity of the product.,72,Victoria Coren Mitchell,18,1,91,5
+511,103,A couple of Ethels.,68,Alan Davies,21,1=,131,2=
+512,103,A couple of Ethels.,69,Desiree Burch,9,4=,119,4
+513,103,A couple of Ethels.,70,Guz Khan,21,1=,131,2=
+514,103,A couple of Ethels.,71,Morgana Robinson,19,3,132,1
+515,103,A couple of Ethels.,72,Victoria Coren Mitchell,9,4=,100,5
+516,104,Nothing matters.,68,Alan Davies,11,4,142,3
+517,104,Nothing matters.,69,Desiree Burch,21,1,140,4
+518,104,Nothing matters.,70,Guz Khan,14,3,145,2
+519,104,Nothing matters.,71,Morgana Robinson,18,2,150,1
+520,104,Nothing matters.,72,Victoria Coren Mitchell,8,5,108,5
+521,105,Caring Uncle Minpict.,68,Alan Davies,19,3,161,3=
+522,105,Caring Uncle Minpict.,69,Desiree Burch,21,2,161,3=
+523,105,Caring Uncle Minpict.,70,Guz Khan,22,1,167,2
+524,105,Caring Uncle Minpict.,71,Morgana Robinson,18,4,168,1
+525,105,Caring Uncle Minpict.,72,Victoria Coren Mitchell,13,5,121,5
+526,106,Basic recipe 28.,73,Adrian Chiles,22,1,22,1
+527,106,Basic recipe 28.,74,Claudia Winkleman,6,5,6,5
+528,106,Basic recipe 28.,75,Jonnie Peacock,15,2,15,2
+529,106,Basic recipe 28.,76,Lady Leshurr,12,4,12,4
+530,106,Basic recipe 28.,77,Sayeeda Warsi,13,3,13,3
+531,107,The noise that blue makes.,78,Ardal O'Hanlon,10,4=,10,4=
+532,107,The noise that blue makes.,79,Bridget Christie,16,3,16,3
+533,107,The noise that blue makes.,80,Chris Ramsey,23,1,23,1
+534,107,The noise that blue makes.,81,Judi Love,10,4=,10,4=
+535,107,The noise that blue makes.,82,Sophie Duker,18,2,18,2
+536,108,Birdy hand finger.,78,Ardal O'Hanlon,15,3,25,4
+537,108,Birdy hand finger.,79,Bridget Christie,16,2,32,2
+538,108,Birdy hand finger.,80,Chris Ramsey,18,1,41,1
+539,108,Birdy hand finger.,81,Judi Love,14,4,24,5
+540,108,Birdy hand finger.,82,Sophie Duker,13,5,31,3
+541,109,I think I've got this.,78,Ardal O'Hanlon,11,5,36,5
+542,109,I think I've got this.,79,Bridget Christie,25,1,57,1
+543,109,I think I've got this.,80,Chris Ramsey,13,4,54,2
+544,109,I think I've got this.,81,Judi Love,16,2=,40,4
+545,109,I think I've got this.,82,Sophie Duker,16,2=,47,3
+546,110,Shoe Who.,78,Ardal O'Hanlon,17,1=,53,5
+547,110,Shoe Who.,79,Bridget Christie,16,3=,73,1
+548,110,Shoe Who.,80,Chris Ramsey,17,1=,71,2
+549,110,Shoe Who.,81,Judi Love,16,3=,56,4
+550,110,Shoe Who.,82,Sophie Duker,16,3=,63,3
+551,111,Having a little chuckle.,78,Ardal O'Hanlon,21,1,74,4
+552,111,Having a little chuckle.,79,Bridget Christie,11,3=,84,1
+553,111,Having a little chuckle.,80,Chris Ramsey,11,3=,82,2
+554,111,Having a little chuckle.,81,Judi Love,11,3=,67,5
+555,111,Having a little chuckle.,82,Sophie Duker,13,2,76,3
+556,112,The 75th question.,78,Ardal O'Hanlon,12,3,86,4
+557,112,The 75th question.,79,Bridget Christie,9,5,93,2
+558,112,The 75th question.,80,Chris Ramsey,15,1=,97,1
+559,112,The 75th question.,81,Judi Love,11,4,78,5
+560,112,The 75th question.,82,Sophie Duker,15,1=,91,3
+561,113,Heg.,78,Ardal O'Hanlon,20,3,106,4
+562,113,Heg.,79,Bridget Christie,19,4=,112,3
+563,113,Heg.,80,Chris Ramsey,19,4=,116,2
+564,113,Heg.,81,Judi Love,24,2,102,5
+565,113,Heg.,82,Sophie Duker,28,1,119,1
+566,114,You tuper super.,78,Ardal O'Hanlon,18,3,124,4
+567,114,You tuper super.,79,Bridget Christie,20,1,132,2
+568,114,You tuper super.,80,Chris Ramsey,14,4,130,3
+569,114,You tuper super.,81,Judi Love,10,5,112,5
+570,114,You tuper super.,82,Sophie Duker,19,2,138,1
+571,115,It might be wind.,78,Ardal O'Hanlon,14,3,138,4
+572,115,It might be wind.,79,Bridget Christie,7,5,139,3
+573,115,It might be wind.,80,Chris Ramsey,19,1,149,2
+574,115,It might be wind.,81,Judi Love,17,2,129,5
+575,115,It might be wind.,82,Sophie Duker,13,4,151,1
+576,116,The House Queens.,78,Ardal O'Hanlon,15,4,153,4
+577,116,The House Queens.,79,Bridget Christie,18,3,157,3
+578,116,The House Queens.,80,Chris Ramsey,21,2,170,2
+579,116,The House Queens.,81,Judi Love,13,5,142,5
+580,116,The House Queens.,82,Sophie Duker,22,1,173,1
+581,117,The Alpine Darling.,83,Ed Gamble,11,5,11,5
+582,117,The Alpine Darling.,84,Kerry Godliman,12,3=,12,3=
+583,117,The Alpine Darling.,85,Liza Tarbuck,14,2,14,2
+584,117,The Alpine Darling.,86,Lou Sanders,12,3=,12,3=
+585,117,The Alpine Darling.,87,Richard Herring,17,1,17,1
+586,118,"The chassis, the wings.",88,Dara Ó Briain,17,2=,17,2=
+587,118,"The chassis, the wings.",89,Fern Brady,17,2=,17,2=
+588,118,"The chassis, the wings.",90,John Kearns,11,5,11,5
+589,118,"The chassis, the wings.",91,Munya Chawawa,14,4,14,4
+590,118,"The chassis, the wings.",92,Sarah Millican,18,1,18,1
+591,119,Enormous hugeness.,88,Dara Ó Briain,30,1,47,1
+592,119,Enormous hugeness.,89,Fern Brady,14,4,31,4
+593,119,Enormous hugeness.,90,John Kearns,10,5,21,5
+594,119,Enormous hugeness.,91,Munya Chawawa,21,2,35,2
+595,119,Enormous hugeness.,92,Sarah Millican,16,3,34,3
+596,120,Dafty in the middle.,88,Dara Ó Briain,17,2=,64,1
+597,120,Dafty in the middle.,89,Fern Brady,14,4,45,4
+598,120,Dafty in the middle.,90,John Kearns,20,1,41,5
+599,120,Dafty in the middle.,91,Munya Chawawa,11,5,46,3
+600,120,Dafty in the middle.,92,Sarah Millican,17,2=,51,2
+601,121,Crumbs in my bralette.,88,Dara Ó Briain,19,2,83,1
+602,121,Crumbs in my bralette.,89,Fern Brady,15,3,60,3
+603,121,Crumbs in my bralette.,90,John Kearns,12,4,53,5
+604,121,Crumbs in my bralette.,91,Munya Chawawa,9,5,55,4
+605,121,Crumbs in my bralette.,92,Sarah Millican,22,1,73,2
+606,122,Chip Biffington.,88,Dara Ó Briain,19,3=,102,1
+607,122,Chip Biffington.,89,Fern Brady,19,3=,79,3
+608,122,Chip Biffington.,90,John Kearns,23,1,76,4
+609,122,Chip Biffington.,91,Munya Chawawa,20,2,75,5
+610,122,Chip Biffington.,92,Sarah Millican,17,5,90,2
+611,123,Long-legged lobster.,88,Dara Ó Briain,10,4,112,1
+612,123,Long-legged lobster.,89,Fern Brady,6,5,85,5
+613,123,Long-legged lobster.,90,John Kearns,13,3,89,3=
+614,123,Long-legged lobster.,91,Munya Chawawa,14,2,89,3=
+615,123,Long-legged lobster.,92,Sarah Millican,19,1,109,2
+616,124,The system of endless plates.,88,Dara Ó Briain,21,1,133,1
+617,124,The system of endless plates.,89,Fern Brady,16,3,101,4
+618,124,The system of endless plates.,90,John Kearns,18,2,107,3
+619,124,The system of endless plates.,91,Munya Chawawa,8,5,97,5
+620,124,The system of endless plates.,92,Sarah Millican,15,4,124,2
+621,125,The one that bats do.,88,Dara Ó Briain,9,4,142,1
+622,125,The one that bats do.,89,Fern Brady,12,3,113,4=
+623,125,The one that bats do.,90,John Kearns,6,5,113,4=
+624,125,The one that bats do.,91,Munya Chawawa,21,1,118,3
+625,125,The one that bats do.,92,Sarah Millican,17,2,141,2
+626,126,A new business end.,88,Dara Ó Briain,22,2,164,1
+627,126,A new business end.,89,Fern Brady,23,1,136,3
+628,126,A new business end.,90,John Kearns,19,3,132,5
+629,126,A new business end.,91,Munya Chawawa,16,5,134,4
+630,126,A new business end.,92,Sarah Millican,18,4,159,2
+631,127,Did I meet these potatoes before?,88,Dara Ó Briain,20,1,184,1
+632,127,Did I meet these potatoes before?,89,Fern Brady,8,5,144,4=
+633,127,Did I meet these potatoes before?,90,John Kearns,12,4,144,4=
+634,127,Did I meet these potatoes before?,91,Munya Chawawa,16,2,150,3
+635,127,Did I meet these potatoes before?,92,Sarah Millican,15,3,174,2
+636,128,That's a swizz.,93,Amelia Demoldenberg,14,2=,14,2=
+637,128,That's a swizz.,94,Carol Vorderman,14,2=,14,2=
+638,128,That's a swizz.,95,Greg James,14,2=,14,2=
+639,128,That's a swizz.,96,Mo Farah,20,1,20,1
+640,128,That's a swizz.,97,Rebecca Lucy Taylor,14,2=,14,2=
+641,129,The curse of politeness.,98,Frankie Boyle,12,4,12,4
+642,129,The curse of politeness.,99,Ivo Graham,9,5,9,5
+643,129,The curse of politeness.,100,Jenny Eclair,16,2,16,2
+644,129,The curse of politeness.,101,Kiell Smith-Bynoe,15,3,15,3
+645,129,The curse of politeness.,102,Mae Martin,19,1,19,1
+646,130,Trapped in a loveless marriage.,98,Frankie Boyle,16,2=,28,4
+647,130,Trapped in a loveless marriage.,99,Ivo Graham,17,1,26,5
+648,130,Trapped in a loveless marriage.,100,Jenny Eclair,15,4,31,2
+649,130,Trapped in a loveless marriage.,101,Kiell Smith-Bynoe,14,5,29,3
+650,130,Trapped in a loveless marriage.,102,Mae Martin,16,2=,35,1
+651,131,I love to squander promise.,98,Frankie Boyle,16,3,44,4
+652,131,I love to squander promise.,99,Ivo Graham,21,1,47,3
+653,131,I love to squander promise.,100,Jenny Eclair,20,2,51,1
+654,131,I love to squander promise.,101,Kiell Smith-Bynoe,9,5,38,5
+655,131,I love to squander promise.,102,Mae Martin,14,4,49,2
+656,132,How heavy is the water?,98,Frankie Boyle,12,3,56,3
+657,132,How heavy is the water?,99,Ivo Graham,7,5,54,4
+658,132,How heavy is the water?,100,Jenny Eclair,15,1,66,1
+659,132,How heavy is the water?,101,Kiell Smith-Bynoe,13,2,51,5
+660,132,How heavy is the water?,102,Mae Martin,10,4,59,2
+661,133,Old Honkfoot.,98,Frankie Boyle,13,4,69,4
+662,133,Old Honkfoot.,99,Ivo Graham,9,5,63,5
+663,133,Old Honkfoot.,100,Jenny Eclair,22,3,88,1
+664,133,Old Honkfoot.,101,Kiell Smith-Bynoe,25,2,76,3
+665,133,Old Honkfoot.,102,Mae Martin,28,1,87,2
+666,134,It's my milk now.,98,Frankie Boyle,18,2,87,4
+667,134,It's my milk now.,99,Ivo Graham,14,3,77,5
+668,134,It's my milk now.,100,Jenny Eclair,7,5,95,2
+669,134,It's my milk now.,101,Kiell Smith-Bynoe,12,4,88,3
+670,134,It's my milk now.,102,Mae Martin,21,1,108,1
+671,135,Schrödinger's egg.,98,Frankie Boyle,17,2,104,4
+672,135,Schrödinger's egg.,99,Ivo Graham,14,4,91,5
+673,135,Schrödinger's egg.,100,Jenny Eclair,11,5,106,3
+674,135,Schrödinger's egg.,101,Kiell Smith-Bynoe,20,1,108,2
+675,135,Schrödinger's egg.,102,Mae Martin,15,3,123,1
+676,136,100% Bosco.,98,Frankie Boyle,16,3=,120,4
+677,136,100% Bosco.,99,Ivo Graham,12,5,103,5
+678,136,100% Bosco.,100,Jenny Eclair,16,3=,122,3
+679,136,100% Bosco.,101,Kiell Smith-Bynoe,20,1,128,2
+680,136,100% Bosco.,102,Mae Martin,18,2,141,1
+681,137,A show about pedantry.,98,Frankie Boyle,20,2,140,3
+682,137,A show about pedantry.,99,Ivo Graham,16,3,119,5
+683,137,A show about pedantry.,100,Jenny Eclair,12,5,134,4
+684,137,A show about pedantry.,101,Kiell Smith-Bynoe,21,1,149,2
+685,137,A show about pedantry.,102,Mae Martin,15,4,156,1
+686,138,A yardstick for failure.,98,Frankie Boyle,10,4,150,4
+687,138,A yardstick for failure.,99,Ivo Graham,12,3,131,5
+688,138,A yardstick for failure.,100,Jenny Eclair,18,1=,152,3
+689,138,A yardstick for failure.,101,Kiell Smith-Bynoe,9,5,158,2
+690,138,A yardstick for failure.,102,Mae Martin,18,1=,174,1
+691,139,The natural friends.,103,Julian Clary,19,2,19,2
+692,139,The natural friends.,104,Lucy Beaumont,13,4=,13,4=
+693,139,The natural friends.,105,Sam Campbell,21,1,21,1
+694,139,The natural friends.,106,Sue Perkins,13,4=,13,4=
+695,139,The natural friends.,107,Susan Wokoma,14,3,14,3
+696,140,Hell is here.,103,Julian Clary,16,3,35,1
+697,140,Hell is here.,104,Lucy Beaumont,10,5,23,5
+698,140,Hell is here.,105,Sam Campbell,12,4,33,2=
+699,140,Hell is here.,106,Sue Perkins,19,1=,32,4
+700,140,Hell is here.,107,Susan Wokoma,19,1=,33,2=
+701,141,Languidly.,103,Julian Clary,19,2,54,2
+702,141,Languidly.,104,Lucy Beaumont,17,3,40,4
+703,141,Languidly.,105,Sam Campbell,24,1,57,1
+704,141,Languidly.,106,Sue Perkins,10,4,42,3
+705,141,Languidly.,107,Susan Wokoma,6,5,39,5
+706,142,Dynamite chicks.,103,Julian Clary,17,3=,71,2
+707,142,Dynamite chicks.,104,Lucy Beaumont,18,1=,58,4
+708,142,Dynamite chicks.,105,Sam Campbell,17,3=,74,1
+709,142,Dynamite chicks.,106,Sue Perkins,18,1=,60,3
+710,142,Dynamite chicks.,107,Susan Wokoma,11,5,50,5
+711,143,Skateboard Division.,103,Julian Clary,15,1,86,2
+712,143,Skateboard Division.,104,Lucy Beaumont,7,5,65,4
+713,143,Skateboard Division.,105,Sam Campbell,14,2,88,1
+714,143,Skateboard Division.,106,Sue Perkins,12,4,72,3
+715,143,Skateboard Division.,107,Susan Wokoma,13,3,63,5
+716,144,Brother Alex.,103,Julian Clary,9,5,95,2
+717,144,Brother Alex.,104,Lucy Beaumont,20,1,85,4
+718,144,Brother Alex.,105,Sam Campbell,18,2,106,1
+719,144,Brother Alex.,106,Sue Perkins,17,3=,89,3
+720,144,Brother Alex.,107,Susan Wokoma,17,3=,80,5
+721,145,I'm off to find a robin.,103,Julian Clary,13,3,108,2
+722,145,I'm off to find a robin.,104,Lucy Beaumont,14,1=,99,3
+723,145,I'm off to find a robin.,105,Sam Campbell,14,1=,120,1
+724,145,I'm off to find a robin.,106,Sue Perkins,6,5,95,4
+725,145,I'm off to find a robin.,107,Susan Wokoma,12,4,92,5
+726,146,Never packed a boot.,103,Julian Clary,15,2=,123,2
+727,146,Never packed a boot.,104,Lucy Beaumont,7,5,106,4=
+728,146,Never packed a boot.,105,Sam Campbell,15,2=,135,1
+729,146,Never packed a boot.,106,Sue Perkins,11,4,106,4=
+730,146,Never packed a boot.,107,Susan Wokoma,17,1,109,3

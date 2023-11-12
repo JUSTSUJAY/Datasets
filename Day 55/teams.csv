@@ -1,0 +1,37 @@
+id,series,series_label,members,size,initials,irregular
+1,1,Series 1,Frank and Tim,2,F+T,0
+2,1,Series 1,"Josh, Roisin and Romesh",3,JR+R,0
+3,2,Series 2,Jon and Richard,2,J+R,0
+4,2,Series 2,"Doc, Joe and Katherine",3,DJ+K,0
+5,3,Series 3,Rob and Sara,2,R+S,0
+6,3,Series 3,"Al, Dave and Paul",3,AD+P,0
+7,4,Series 4,Hugh and Mel,2,H+M,0
+8,4,Series 4,"Joe, Lolly and Noel",3,JL+N,0
+9,5,Series 5,Mark and Nish,2,M+N,0
+10,5,Series 5,"Aisling, Bob and Sally",3,AB+S,0
+11,6,Series 6,Alice and Russell,2,A+R,0
+12,6,Series 6,"Asim, Liza and Tim",3,AL+T,0
+13,7,Series 7,Jessica and Kerry,2,J+K,0
+14,7,Series 7,"James, Phil and Rhod",3,JP+R,0
+15,8,Series 8,Joe and Sian,2,J+S,0
+16,8,Series 8,"Iain, Lou and Paul",3,IL+P,0
+17,9,Series 9,David and Jo,2,D+J,0
+18,9,Series 9,"Ed, Katy and Rose",3,EK+R,0
+19,9,Series 9,David and Ed,2,D+E,1
+20,9,Series 9,"Jo, Katy and Rose",3,JK+R,1
+21,10,Series 10,Daisy and Richard,2,D+R,0
+22,10,Series 10,"Johnny, Katherine and Mawaan",3,JK+M,0
+23,10,Series 10,Daisy and Katherine,2,D+K,1
+24,10,Series 10,"Johnny, Mawaan and Richard",3,JM+R,1
+25,11,Series 11,Lee and Mike,2,L+M,0
+26,11,Series 11,"Charlotte, Jamali and Sarah",3,CJ+S,0
+27,12,Series 12,Alan and Victoria,2,A+V,0
+28,12,Series 12,"Desiree, Guz and Morgana",3,DG+M,0
+29,13,Series 13,Ardal and Chris,2,A+C,0
+30,13,Series 13,"Bridget, Judi and Sophie",3,BJ+S,0
+31,14,Series 14,Munya and Sarah,2,M+S,0
+32,14,Series 14,"Dara, Fern and John",3,DF+J,0
+33,15,Series 15,Frankie and Ivo,2,F+I,0
+34,15,Series 15,"Jenny, Kiell and Mae",3,JK+M,0
+35,16,Series 16,Sue and Susan,2,S+S,0
+36,16,Series 16,"Julian, Lucy and Sam",3,JL+S,0

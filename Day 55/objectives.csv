@@ -1,0 +1,179 @@
+id,unit,target,label
+1,grams,most,grams ▲
+2,time,least,time ▼
+3,pies,most,pies ▲
+4,meters,most,meters ▲
+5,difference in seconds,least,difference in seconds ▼
+6,difference in minutes,least,difference in minutes ▼
+7,tears,most,tears ▲
+8,names,most,names ▲
+9,miles,most,miles ▲
+10,centimeters,most,centimeters ▲
+11,blush depth in ticks,most,blush depth in ticks ▲
+12,shots,least,shots ▼
+13,eggs,least,eggs ▼
+14,minutes,least,minutes ▼
+15,points,least,points ▼
+16,blue sweets,most,blue sweets ▲
+17,Fred facts,most,Fred facts ▲
+18,mistakes,least,mistakes ▼
+19,potatoes,most,potatoes ▲
+20,mayor's rating,most,mayor's rating ▲
+21,behatted rabbits,most,behatted rabbits ▲
+22,wrong guesses,most,wrong guesses ▲
+23,guessed tasks,most,guessed tasks ▲
+24,claps,most,claps ▲
+25,steps,least,steps ▼
+26,balanced swedes,most,balanced swedes ▲
+27,kilograms,most,kilograms ▲
+28,sweatdrops,most,sweatdrops ▲
+29,anchored balloons,most,anchored balloons ▲
+30,square miles,most,square miles ▲
+31,sticky notes,most,sticky notes ▲
+32,correct answers,most,correct answers ▲
+33,doughnuts,least,doughnuts ▼
+34,milliliters,most,milliliters ▲
+35,time,most,time ▲
+36,penalties,least,penalties ▼
+37,chained balloons,most,chained balloons ▲
+38,tubes,most,tubes ▲
+39,peas,most,peas ▲
+40,centimeters,least,centimeters ▼
+41,kicks,least,kicks ▼
+42,identified items,most,identified items ▲
+43,£,most,£ ▲
+44,inches,median,inches ◀
+45,difference in centimeters,least,difference in centimeters ▼
+46,spotted differences,most,spotted differences ▲
+47,attempts,least,attempts ▼
+48,cans,most,cans ▲
+49,identified Finns minus non-Finns,most,identified Finns minus non-Finns ▲
+50,bull's-eyed yoghurt,most,bull's-eyed yoghurt ▲
+51,meters off target,least,meters off target ▼
+52,team members,most,team members ▲
+53,votes,most,votes ▲
+54,zip-lined items,most,zip-lined items ▲
+55,fish puns,most,fish puns ▲
+56,caught makes,most,caught makes ▲
+57,descended steps,most,descended steps ▲
+58,steps,most,steps ▲
+59,inches,most,inches ▲
+60,sorted objects,most,sorted objects ▲
+61,spins,most,spins ▲
+62,darts score,most,darts score ▲
+63,photographed egg-holders,most,photographed egg-holders ▲
+64,deceptions,most,deceptions ▲
+65,guessed flavors,most,guessed flavors ▲
+66,caught socks minus touched pants,most,caught socks minus touched pants ▲
+67,difference in feet,least,difference in feet ▼
+68,unbroken eggs,most,unbroken eggs ▲
+69,shelved eggs,most,shelved eggs ▲
+70,ducks,most,ducks ▲
+71,correct answers minus misses,most,correct answers minus misses ▲
+72,guessed animals,most,guessed animals ▲
+73,held points,most,held points ▲
+74,skittles,least,skittles ▼
+75,rosettes,most,rosettes ▲
+76,difference in baked beans,least,difference in baked beans ▼
+77,difference,least,difference ▼
+78,beats per minute,most,beats per minute ▲
+79,strokes,least,strokes ▼
+80,understood words,most,understood words ▲
+81,correctly donned items,most,correctly donned items ▲
+82,white circles,most,white circles ▲
+83,box size,least,box size ▼
+84,pairs of glasses,most,pairs of glasses ▲
+85,meters,least,meters ▼
+86,grains of rice,most,grains of rice ▲
+87,% sand diverted,most,% sand diverted ▲
+88,herded ping pong balls,most,herded ping pong balls ▲
+89,pink ladies,most,pink ladies ▲
+90,correctly guessed crisp flavors,most,correctly guessed crisp flavors ▲
+91,points,most,points ▲
+92,bounces,most,bounces ▲
+93,plates and bowls,most,plates and bowls ▲
+94,correct lollies,most,correct lollies ▲
+95,correct balls,most,correct balls ▲
+96,remembered items,most,remembered items ▲
+97,parts water minus other,most,parts water minus other ▲
+98,correct-initialed things,most,correct-initialed things ▲
+99,bricks,most,bricks ▲
+100,gold rings,most,gold rings ▲
+101,balloons,most,balloons ▲
+102,egg,most,egg ▲
+103,correct minus incorrect balls,most,correct minus incorrect balls ▲
+104,correct guesses,most,correct guesses ▲
+105,round wins,most,round wins ▲
+106,difference in sheets,least,difference in sheets ▼
+107,completed tasks,most,completed tasks ▲
+108,difference in balls,least,difference in balls ▼
+109,monster criteria,most,monster criteria ▲
+110,difference in green eggs,least,difference in green eggs ▼
+111,centimeters cubed,most,centimeters cubed ▲
+112,grams,least,grams ▼
+113,balls,most,balls ▲
+114,nursery rhymes,most,nursery rhymes ▲
+115,slaps plus tongs,most,slaps plus tongs ▲
+116,rubber bands,most,rubber bands ▲
+117,alarms,least,alarms ▼
+118,missed beats,least,missed beats ▼
+119,score,most,score ▲
+120,difference in grams,least,difference in grams ▼
+121,guessed poses,most,guessed poses ▲
+122,guessed ingredients,most,guessed ingredients ▲
+123,speed points,most,speed points ▲
+124,coverage points,most,coverage points ▲
+125,cleanliness points,most,cleanliness points ▲
+126,routine criteria,most,routine criteria ▲
+127,bucketed forks,most,bucketed forks ▲
+128,landed aeroplanes,most,landed aeroplanes ▲
+129,sheets,least,sheets ▼
+130,difference in inches,least,difference in inches ▼
+131,identified noises,least,identified noises ▼
+132,questions,least,questions ▼
+133,characters,most,characters ▲
+134,beer mats,most,beer mats ▲
+135,millimeters,least,millimeters ▼
+136,hertz,least,hertz ▼
+137,hertz,most,hertz ▲
+138,note range,most,note range ▲
+139,tin cans,most,tin cans ▲
+140,identified liquids,most,identified liquids ▲
+141,basketed ducks,most,basketed ducks ▲
+142,named films,most,named films ▲
+143,sheets,most,sheets ▲
+144,signs,most,signs ▲
+145,% signs obeyed,most,% signs obeyed ▲
+146,socks,most,socks ▲
+147,ducks and socks,most,ducks and socks ▲
+148,identified animals,most,identified animals ▲
+149,involved balls,most,involved balls ▲
+150,wrong guesses,least,wrong guesses ▼
+151,completed cycles,most,completed cycles ▲
+152,difference in dots,least,difference in dots ▼
+153,carp pellets,most,carp pellets ▲
+154,correct items,most,correct items ▲
+155,poled rings,most,poled rings ▲
+156,bucketed items,most,bucketed items ▲
+157,animals,least,animals ▼
+158,potatotal,most,potatotal ▲
+159,sausage facts,most,sausage facts ▲
+160,strikes,most,strikes ▲
+161,correct sequences,most,correct sequences ▲
+162,salvaged spoons,most,salvaged spoons ▲
+163,pieces of eggless shell,least,pieces of eggless shell ▼
+164,rotations,most,rotations ▲
+165,guessed impressions,most,guessed impressions ▲
+166,piled pineapples,most,piled pineapples ▲
+167,balls,least,balls ▼
+168,actual facts,most,actual facts ▲
+169,decibels,most,decibels ▲
+170,decimal places of π,most,decimal places of π ▲
+171,things,most,things ▲
+172,hits,most,hits ▲
+173,rounds survived,most,rounds survived ▲
+174,aspirins,most,aspirins ▲
+175,forbidden words,least,forbidden words ▼
+176,pretty much right things,most,pretty much right things ▲
+177,balanced tees,most,balanced tees ▲
+178,identified proverbs,most,identified proverbs ▲

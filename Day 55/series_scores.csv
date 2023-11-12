@@ -1,0 +1,106 @@
+id,series,series_label,contestant,contestant_label,score,rank
+1,1,Series 1,3,Frank Skinner,93,2=
+2,1,Series 1,4,Josh Widdicombe,94,1
+3,1,Series 1,5,Roisin Conaty,68,5
+4,1,Series 1,6,Romesh Ranganathan,93,2=
+5,1,Series 1,7,Tim Key,88,4
+6,2,Series 2,8,Doc Brown,78,4
+7,2,Series 2,9,Joe Wilkinson,69,5
+8,2,Series 2,10,Jon Richardson,90,2
+9,2,Series 2,11,Katherine Ryan,94,1
+10,2,Series 2,12,Richard Osman,86,3
+11,3,Series 3,13,Al Murray,80,3
+12,3,Series 3,14,Dave Gorman,81,2
+13,3,Series 3,15,Paul Chowdhry,66,5
+14,3,Series 3,16,Rob Beckett,87,1
+15,3,Series 3,17,Sara Pascoe,72,4
+16,4,Series 4,18,Hugh Dennis,129,4
+17,4,Series 4,19,Joe Lycett,136,2
+18,4,Series 4,20,Lolly Adefope,125,5
+19,4,Series 4,21,Mel Giedroyc,134,3
+20,4,Series 4,22,Noel Fielding,144,1
+21,5,Series 5,23,Aisling Bea,126,4
+22,5,Series 5,24,Bob Mortimer,138,1
+23,5,Series 5,25,Mark Watson,130,2=
+24,5,Series 5,26,Nish Kumar,107,5
+25,5,Series 5,27,Sally Phillips,130,2=
+26,-1,CoC,28,Bob Mortimer,24,5
+27,-1,CoC,29,Josh Widdicombe,37,1
+28,-1,CoC,30,Katherine Ryan,35,3
+29,-1,CoC,31,Noel Fielding,32,4
+30,-1,CoC,32,Rob Beckett,36,2
+31,6,Series 6,33,Alice Levine,152,5
+32,6,Series 6,34,Asim Chaudhry,159,4
+33,6,Series 6,35,Liza Tarbuck,181,1
+34,6,Series 6,36,Russell Howard,170,3
+35,6,Series 6,37,Tim Vine,175,2
+36,7,Series 7,38,James Acaster,165,4
+37,7,Series 7,39,Jessica Knappett,175,2
+38,7,Series 7,40,Kerry Godliman,176,1
+39,7,Series 7,41,Phil Wang,133,5
+40,7,Series 7,42,Rhod Gilbert,167,3
+41,8,Series 8,43,Iain Stirling,156,2
+42,8,Series 8,44,Joe Thomas,150,3
+43,8,Series 8,45,Lou Sanders,164,1
+44,8,Series 8,46,Paul Sinha,136,5
+45,8,Series 8,47,Sian Gibson,143,4
+46,9,Series 9,48,David Baddiel,128,5
+47,9,Series 9,49,Ed Gamble,167,1
+48,9,Series 9,50,Jo Brand,154,4
+49,9,Series 9,51,Katy Wix,158,3
+50,9,Series 9,52,Rose Matafeo,159,2
+51,10,Series 10,53,Daisy May Cooper,158,2
+52,10,Series 10,54,Johnny Vegas,139,4
+53,10,Series 10,55,Katherine Parkinson,118,5
+54,10,Series 10,56,Mawaan Rizwan,151,3
+55,10,Series 10,57,Richard Herring,162,1
+56,-2,NYT 2021,58,John Hannah,10,4=
+57,-2,NYT 2021,59,Krishnan Guru-Murthy,12,3
+58,-2,NYT 2021,60,Nicola Coughlan,10,4=
+59,-2,NYT 2021,61,Rylan Clark-Neal,13,2
+60,-2,NYT 2021,62,Shirley Ballas,17,1
+61,11,Series 11,63,Charlotte Ritchie,125,5
+62,11,Series 11,64,Jamali Maddix,137,4
+63,11,Series 11,65,Lee Mack,151,3
+64,11,Series 11,66,Mike Wozniak,154,2
+65,11,Series 11,67,Sarah Kendall,158,1
+66,12,Series 12,68,Alan Davies,161,3=
+67,12,Series 12,69,Desiree Burch,161,3=
+68,12,Series 12,70,Guz Khan,167,2
+69,12,Series 12,71,Morgana Robinson,168,1
+70,12,Series 12,72,Victoria Coren Mitchell,121,5
+71,-3,NYT 2022,73,Adrian Chiles,22,1
+72,-3,NYT 2022,74,Claudia Winkleman,6,5
+73,-3,NYT 2022,75,Jonnie Peacock,15,2
+74,-3,NYT 2022,76,Lady Leshurr,12,4
+75,-3,NYT 2022,77,Sayeeda Warsi,13,3
+76,13,Series 13,78,Ardal O'Hanlon,153,4
+77,13,Series 13,79,Bridget Christie,157,3
+78,13,Series 13,80,Chris Ramsey,170,2
+79,13,Series 13,81,Judi Love,142,5
+80,13,Series 13,82,Sophie Duker,173,1
+81,-4,CoC II,83,Ed Gamble,11,5
+82,-4,CoC II,84,Kerry Godliman,12,3=
+83,-4,CoC II,85,Liza Tarbuck,14,2
+84,-4,CoC II,86,Lou Sanders,12,3=
+85,-4,CoC II,87,Richard Herring,17,1
+86,14,Series 14,88,Dara Ó Briain,184,1
+87,14,Series 14,89,Fern Brady,144,4=
+88,14,Series 14,90,John Kearns,144,4=
+89,14,Series 14,91,Munya Chawawa,150,3
+90,14,Series 14,92,Sarah Millican,174,2
+91,-5,NYT 2023,93,Amelia Demoldenberg,14,2=
+92,-5,NYT 2023,94,Carol Vorderman,14,2=
+93,-5,NYT 2023,95,Greg James,14,2=
+94,-5,NYT 2023,96,Mo Farah,20,1
+95,-5,NYT 2023,97,Rebecca Lucy Taylor,14,2=
+96,15,Series 15,98,Frankie Boyle,150,4
+97,15,Series 15,99,Ivo Graham,131,5
+98,15,Series 15,100,Jenny Eclair,152,3
+99,15,Series 15,101,Kiell Smith-Bynoe,158,2
+100,15,Series 15,102,Mae Martin,174,1
+101,16,Series 16,103,Julian Clary,123,2
+102,16,Series 16,104,Lucy Beaumont,106,4=
+103,16,Series 16,105,Sam Campbell,135,1
+104,16,Series 16,106,Sue Perkins,106,4=
+105,16,Series 16,107,Susan Wokoma,109,3

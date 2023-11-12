@@ -1,0 +1,113 @@
+id,series,series_label,seat,name,dob,gender,hand,team,team_label,champion,TMI
+1,,,,Alex Horne,1978-09-10,M,R,,,0,32
+2,,,,Greg Davies,1968-05-14,M,R,,,0,19
+3,1,Series 1,1,Frank Skinner,1957-01-28,M,R,1,Frank and Tim,0,56
+4,1,Series 1,2,Josh Widdicombe,1983-04-08,M,R,2,"Josh, Roisin and Romesh",1,69
+5,1,Series 1,3,Roisin Conaty,1979-03-26,F,R,2,"Josh, Roisin and Romesh",0,15
+6,1,Series 1,4,Romesh Ranganathan,1978-03-27,M,R,2,"Josh, Roisin and Romesh",0,48
+7,1,Series 1,5,Tim Key,1976-09-02,M,R,1,Frank and Tim,0,34
+8,2,Series 2,1,Doc Brown,1977-09-21,M,R,4,"Doc, Joe and Katherine",0,11
+9,2,Series 2,2,Joe Wilkinson,1975-05-02,M,R,4,"Doc, Joe and Katherine",0,70
+10,2,Series 2,3,Jon Richardson,1982-09-26,M,R,3,Jon and Richard,0,49
+11,2,Series 2,4,Katherine Ryan,1983-06-30,F,R,4,"Doc, Joe and Katherine",1,52
+12,2,Series 2,5,Richard Osman,1970-11-28,M,R,3,Jon and Richard,0,44
+13,3,Series 3,1,Al Murray,1968-05-10,M,R,6,"Al, Dave and Paul",0,43
+14,3,Series 3,2,Dave Gorman,1971-03-02,M,R,6,"Al, Dave and Paul",0,27
+15,3,Series 3,3,Paul Chowdhry,1974-08-21,M,R,6,"Al, Dave and Paul",0,13
+16,3,Series 3,4,Rob Beckett,1986-01-02,M,R,5,Rob and Sara,1,8
+17,3,Series 3,5,Sara Pascoe,1981-05-22,F,R,5,Rob and Sara,0,46
+18,4,Series 4,1,Hugh Dennis,1962-02-13,M,R,7,Hugh and Mel,0,20
+19,4,Series 4,2,Joe Lycett,1988-07-05,M,L,8,"Joe, Lolly and Noel",0,40
+20,4,Series 4,3,Lolly Adefope,1990-09-14,F,L,8,"Joe, Lolly and Noel",0,2
+21,4,Series 4,4,Mel Giedroyc,1968-06-05,F,R,7,Hugh and Mel,0,24
+22,4,Series 4,5,Noel Fielding,1973-05-21,M,R,8,"Joe, Lolly and Noel",1,21
+23,5,Series 5,1,Aisling Bea,1984-03-16,F,R,10,"Aisling, Bob and Sally",0,7
+24,5,Series 5,2,Bob Mortimer,1959-05-23,M,R,10,"Aisling, Bob and Sally",1,42
+25,5,Series 5,3,Mark Watson,1980-02-13,M,L,9,Mark and Nish,0,65
+26,5,Series 5,4,Nish Kumar,1985-08-26,M,R,9,Mark and Nish,0,36
+27,5,Series 5,5,Sally Phillips,1970-05-10,F,R,10,"Aisling, Bob and Sally",0,47
+28,-1,CoC,1,Bob Mortimer,1959-05-23,M,R,,,0,42
+29,-1,CoC,2,Josh Widdicombe,1983-04-08,M,R,,,0,69
+30,-1,CoC,3,Katherine Ryan,1983-06-30,F,R,,,0,52
+31,-1,CoC,4,Noel Fielding,1973-05-21,M,R,,,0,21
+32,-1,CoC,5,Rob Beckett,1986-01-02,M,R,,,0,8
+33,6,Series 6,1,Alice Levine,1986-07-08,F,R,11,Alice and Russell,0,39
+34,6,Series 6,2,Asim Chaudhry,1986-11-24,M,R,12,"Asim, Liza and Tim",0,12
+35,6,Series 6,3,Liza Tarbuck,1964-11-21,F,R,12,"Asim, Liza and Tim",1,59
+36,6,Series 6,4,Russell Howard,1980-03-23,M,R,11,Alice and Russell,0,33
+37,6,Series 6,5,Tim Vine,1967-03-04,M,R,12,"Asim, Liza and Tim",0,63
+38,7,Series 7,1,James Acaster,1985-01-09,M,R,14,"James, Phil and Rhod",0,1
+39,7,Series 7,2,Jessica Knappett,1984-11-28,F,R,13,Jessica and Kerry,0,35
+40,7,Series 7,3,Kerry Godliman,1973-11-17,F,R,13,Jessica and Kerry,1,26
+41,7,Series 7,4,Phil Wang,1990-01-22,M,R,14,"James, Phil and Rhod",0,64
+42,7,Series 7,5,Rhod Gilbert,1968-10-18,M,R,14,"James, Phil and Rhod",0,25
+43,8,Series 8,1,Iain Stirling,1988-01-27,M,R,16,"Iain, Lou and Paul",0,57
+44,8,Series 8,2,Joe Thomas,1983-10-28,M,R,15,Joe and Sian,0,60
+45,8,Series 8,3,Lou Sanders,1985-11-24,F,R,16,"Iain, Lou and Paul",1,54
+46,8,Series 8,4,Paul Sinha,1970-05-28,M,R,16,"Iain, Lou and Paul",0,55
+47,8,Series 8,5,Sian Gibson,1976-07-30,F,R,15,Joe and Sian,0,23
+48,9,Series 9,1,David Baddiel,1964-05-28,M,R,17,David and Jo,0,5
+49,9,Series 9,2,Ed Gamble,1986-03-11,M,R,18,"Ed, Katy and Rose",1,22
+50,9,Series 9,3,Jo Brand,1957-07-23,F,R,17,David and Jo,0,10
+51,9,Series 9,4,Katy Wix,1980-02-28,F,R,18,"Ed, Katy and Rose",0,72
+52,9,Series 9,5,Rose Matafeo,1992-02-25,F,R,18,"Ed, Katy and Rose",0,41
+53,10,Series 10,1,Daisy May Cooper,1986-08-01,F,R,21,Daisy and Richard,0,16
+54,10,Series 10,2,Johnny Vegas,1970-09-05,M,R,22,"Johnny, Katherine and Mawaan",0,61
+55,10,Series 10,3,Katherine Parkinson,1978-03-09,F,R,22,"Johnny, Katherine and Mawaan",0,45
+56,10,Series 10,4,Mawaan Rizwan,1992-08-18,M,R,22,"Johnny, Katherine and Mawaan",0,51
+57,10,Series 10,5,Richard Herring,1967-07-12,M,R,21,Daisy and Richard,1,31
+58,-2,NYT 2021,1,John Hannah,1962-04-23,M,R,,,0,30
+59,-2,NYT 2021,2,Krishnan Guru-Murthy,1970-04-05,M,R,,,0,28
+60,-2,NYT 2021,3,Nicola Coughlan,1987-01-09,F,R,,,0,18
+61,-2,NYT 2021,4,Rylan Clark-Neal,1988-10-25,M,R,,,0,14
+62,-2,NYT 2021,5,Shirley Ballas,1960-09-06,F,R,,,0,6
+63,11,Series 11,1,Charlotte Ritchie,1989-08-29,F,R,26,"Charlotte, Jamali and Sarah",0,173
+64,11,Series 11,2,Jamali Maddix,1991-04-08,M,L,26,"Charlotte, Jamali and Sarah",0,174
+65,11,Series 11,3,Lee Mack,1968-08-04,M,R,25,Lee and Mike,0,175
+66,11,Series 11,4,Mike Wozniak,1979-11-08,M,R,25,Lee and Mike,0,176
+67,11,Series 11,5,Sarah Kendall,1976-08-03,F,R,26,"Charlotte, Jamali and Sarah",1,177
+68,12,Series 12,1,Alan Davies,1966-03-06,M,R,27,Alan and Victoria,0,240
+69,12,Series 12,2,Desiree Burch,1979-01-26,F,R,28,"Desiree, Guz and Morgana",0,241
+70,12,Series 12,3,Guz Khan,1986-01-24,M,R,28,"Desiree, Guz and Morgana",0,242
+71,12,Series 12,4,Morgana Robinson,1982-05-07,F,R,28,"Desiree, Guz and Morgana",1,243
+72,12,Series 12,5,Victoria Coren Mitchell,1972-08-18,F,R,27,Alan and Victoria,0,244
+73,-3,NYT 2022,1,Adrian Chiles,1967-03-21,M,R,,,0,318
+74,-3,NYT 2022,2,Claudia Winkleman,1972-01-15,F,R,,,0,319
+75,-3,NYT 2022,3,Jonnie Peacock,1993-05-28,M,R,,,0,321
+76,-3,NYT 2022,4,Lady Leshurr,1987-12-15,F,R,,,0,320
+77,-3,NYT 2022,5,Sayeeda Warsi,1971-03-28,F,R,,,0,322
+78,13,Series 13,1,Ardal O'Hanlon,1965-10-08,M,R,29,Ardal and Chris,0,308
+79,13,Series 13,2,Bridget Christie,1971-08-17,F,R,30,"Bridget, Judi and Sophie",0,309
+80,13,Series 13,3,Chris Ramsey,1986-08-03,M,R,29,Ardal and Chris,0,310
+81,13,Series 13,4,Judi Love,1980-06-04,F,R,30,"Bridget, Judi and Sophie",0,311
+82,13,Series 13,5,Sophie Duker,1990-01-26,F,R,30,"Bridget, Judi and Sophie",1,312
+83,-4,CoC II,1,Ed Gamble,1986-03-11,M,R,,,0,22
+84,-4,CoC II,2,Kerry Godliman,1973-11-17,F,R,,,0,26
+85,-4,CoC II,3,Liza Tarbuck,1964-11-21,F,R,,,0,59
+86,-4,CoC II,4,Lou Sanders,1985-11-24,F,R,,,0,54
+87,-4,CoC II,5,Richard Herring,1967-07-12,M,R,,,0,31
+88,14,Series 14,1,Dara Ó Briain,1972-02-04,M,R,32,"Dara, Fern and John",1,378
+89,14,Series 14,2,Fern Brady,1986-05-26,F,R,32,"Dara, Fern and John",0,379
+90,14,Series 14,3,John Kearns,1987-04-10,M,R,32,"Dara, Fern and John",0,380
+91,14,Series 14,4,Munya Chawawa,1992-12-29,M,L,31,Munya and Sarah,0,381
+92,14,Series 14,5,Sarah Millican,1975-05-29,F,R,31,Munya and Sarah,0,382
+93,-5,NYT 2023,1,Amelia Demoldenberg,1994-01-30,F,R,,,0,414
+94,-5,NYT 2023,2,Carol Vorderman,1960-12-24,F,R,,,0,415
+95,-5,NYT 2023,3,Greg James,1985-12-17,M,R,,,0,416
+96,-5,NYT 2023,4,Mo Farah,1983-03-23,M,R,,,0,417
+97,-5,NYT 2023,5,Rebecca Lucy Taylor,1986-10-15,F,R,,,0,418
+98,15,Series 15,1,Frankie Boyle,1972-08-16,M,R,33,Frankie and Ivo,0,391
+99,15,Series 15,2,Ivo Graham,1990-09-05,M,R,33,Frankie and Ivo,0,392
+100,15,Series 15,3,Jenny Eclair,1960-03-16,F,R,34,"Jenny, Kiell and Mae",0,393
+101,15,Series 15,4,Kiell Smith-Bynoe,1989-03-05,M,R,34,"Jenny, Kiell and Mae",0,394
+102,15,Series 15,5,Mae Martin,1987-05-02,NB,R,34,"Jenny, Kiell and Mae",1,395
+103,16,Series 16,1,Julian Clary,1959-05-25,M,L,36,"Julian, Lucy and Sam",0,454
+104,16,Series 16,2,Lucy Beaumont,1983-08-10,F,R,36,"Julian, Lucy and Sam",0,455
+105,16,Series 16,3,Sam Campbell,1992-09-19,M,R,36,"Julian, Lucy and Sam",0,456
+106,16,Series 16,4,Sue Perkins,1969-09-22,F,L,35,Sue and Susan,0,457
+107,16,Series 16,5,Susan Wokoma,1987-12-31,F,R,35,Sue and Susan,0,458
+108,,,1,Dara Ó Briain,1972-02-04,M,R,,,0,378
+109,,,2,Mae Martin,1987-05-02,NB,R,,,0,395
+110,,,3,Morgana Robinson,1982-05-07,F,R,,,0,243
+111,,,4,Sarah Kendall,1976-08-03,F,R,,,0,177
+112,,,5,Sophie Duker,1990-01-26,F,R,,,0,312

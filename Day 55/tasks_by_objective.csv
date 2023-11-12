@@ -1,0 +1,422 @@
+id,task,task_label,objective,objective_label
+1,2,Eat as much watermelon as possible,1,grams ▲
+2,4,Empty the bathtub,2,time ▼
+3,6,Find Alex,2,time ▼
+4,8,High-five a 55-year-old,2,time ▼
+5,9,Identify the contents of the pies,3,pies ▲
+6,13,Throw a teabag into a mug,4,meters ▲
+7,16,Get an egg as high as possible,4,meters ▲
+8,17,Stand up after 100 seconds,5,difference in seconds ▼
+9,18,Guess Frank’s age in minutes,6,difference in minutes ▼
+10,20,Make a block of ice disappear,2,time ▼
+11,23,Score 11 points,2,time ▼
+12,24,Fill an eggcup with tears,7,tears ▲
+13,26,Memorise an Australian Rules Football team,8,names ▲
+14,28,Move the boulder as far as possible,9,miles ▲
+15,29,Grow the longest nail,10,centimeters ▲
+16,30,Make a bed while holding hands,2,time ▼
+17,31,Make a Swedish person blush,11,blush depth in ticks ▲
+18,34,Play mini golf with eggs,12,shots ▼
+19,34,Play mini golf with eggs,13,eggs ▼
+20,34,Play mini golf with eggs,14,minutes ▼
+21,34,Play mini golf with eggs,15,points ▼
+22,37,Separate the blue sweets,16,blue sweets ▲
+23,39,Place the exercise balls on the yoga mat,2,time ▼
+24,40,Get the potato into the hole,2,time ▼
+25,41,Find out about the Swedish person,2,time ▼
+26,41,Find out about the Swedish person,17,Fred facts ▲
+27,42,Pack a suitcase,2,time ▼
+28,44,Quickly eat an egg,2,time ▼
+29,47,Order a pizza without using certain words,18,mistakes ▼
+30,48,Put potatoes in a basket,19,potatoes ▲
+31,50,Impress the Mayor,20,mayor's rating ▲
+32,53,"See no potato, hear no potato, speak no potato",2,time ▼
+33,54,Throw rabbits into a hat,21,behatted rabbits ▲
+34,57,Conceal a pineapple on your person,22,wrong guesses ▲
+35,58,Set a task / Guess who set the tasks,23,guessed tasks ▲
+36,62,Move items across a stream,2,time ▼
+37,64,Build a bridge for the potato,10,centimeters ▲
+38,65,"Put on gloves, eat a banana, put on a tie, and clap",24,claps ▲
+39,67,Reach the microwave in the fewest steps,25,steps ▼
+40,68,Propel a pea along a red carpet,4,meters ▲
+41,70,Balance swedes on a Swede,26,balanced swedes ▲
+42,71,The heaviest shoebox-sized item,27,kilograms ▲
+43,73,Release Alex,2,time ▼
+44,75,Burst all of the balloons,2,time ▼
+45,76,Unravel the tape,2,time ▼
+46,78,Fill an eggcup with sweat,28,sweatdrops ▲
+47,82,Anchor balloons using bread,29,anchored balloons ▲
+48,84,Spread your clothes far and wide,30,square miles ▲
+49,85,Find out the lying old man’s occupation,2,time ▼
+50,87,Cover yourself in sticky notes,31,sticky notes ▲
+51,90,Move water from one bucket to another,10,centimeters ▲
+52,91,Play charades across a river,32,correct answers ▲
+53,93,The lowest unique number of doughnuts,33,doughnuts ▼
+54,97,Fell all the ducks,2,time ▼
+55,98,Make the most fruit juice,34,milliliters ▲
+56,100,Keep the basketball on the treadmill,35,time ▲
+57,102,Get the flour onto the target,1,grams ▲
+58,103,Put an egg in an egg cup without touching either,36,penalties ▼
+59,103,Put an egg in an egg cup without touching either,2,time ▼
+60,104,Make the longest balloon chain,37,chained balloons ▲
+61,108,Persuade three animals to stand on the mat,2,time ▼
+62,109,Transfer water from one fishbowl to another,34,milliliters ▲
+63,111,Decant wine from one bottle to another,34,milliliters ▲
+64,113,Make the highest splash,4,meters ▲
+65,117,Make the tallest tube tower,38,tubes ▲
+66,119,Slide as far as possible,4,meters ▲
+67,120,Don the diving gear while maintaining eye contact and small talk,36,penalties ▼
+68,120,Don the diving gear while maintaining eye contact and small talk,2,time ▼
+69,123,Make the longest continuous noise,35,time ▲
+70,124,Eat as many peas as possible,39,peas ▲
+71,126,Pass a camel through a small gap,40,centimeters ▼
+72,127,Score a goal with a shopping bag,41,kicks ▼
+73,127,Score a goal with a shopping bag,2,time ▼
+74,131,Identify the contents of the sleeping bag,42,identified items ▲
+75,134,Cross the bunting to give Alex his lunch,36,penalties ▼
+76,134,Cross the bunting to give Alex his lunch,2,time ▼
+77,135,Hide from Alex,35,time ▲
+78,136,Wheelie bin obstacle course,2,time ▼
+79,139,Open the jar of mayonnaise,2,time ▼
+80,140,The most cash,43,£ ▲
+81,143,Strike an item the farthest,4,meters ▲
+82,145,Draw the median duck,44,inches ◀
+83,148,Get Alex to dry land,2,time ▼
+84,149,Score a basket without your hands,2,time ▼
+85,150,Get some fruit into the bowl,2,time ▼
+86,152,Make a coconut-flinging machine,4,meters ▲
+87,158,Retrieve the table tennis ball from the tube,2,time ▼
+88,160,"Eat one item, balance one item, throw one item",2,time ▼
+89,165,Blow up a balloon to the size of a cucumber,45,difference in centimeters ▼
+90,166,Spot the difference,46,spotted differences ▲
+91,167,Sneeze the fastest,2,time ▼
+92,169,Backthrow a picture of a Swede into a bin,47,attempts ▼
+93,174,Build a can tower & greet Alex from different countries,48,cans ▲
+94,175,Identify the Finns,49,identified Finns minus non-Finns ▲
+95,177,Balance Alex on a see-saw,27,kilograms ▲
+96,180,Light a candle using a cupcake,2,time ▼
+97,182,Kick yoghurt at a target,50,bull's-eyed yoghurt ▲
+98,184,Travel blindfolded for three minutes and retrace your steps,51,meters off target ▼
+99,185,Coconut bobsleigh,52,team members ▲
+100,186,Vote for who should receive five points,53,votes ▲
+101,188,Zipwire items to the Taskmaster,54,zip-lined items ▲
+102,190,Transport a coconut as far as possible,4,meters ▲
+103,192,Make the most fish puns,55,fish puns ▲
+104,194,Throw an egg through a basketball hoop,56,caught makes ▲
+105,196,Throw an exercise ball into a bath or put the coconuts in a trolley,2,time ▼
+106,199,The second longest T-word,57,descended steps ▲
+107,202,Find out what’s in the briefcase,2,time ▼
+108,205,Record the most steps on your pedometers,58,steps ▲
+109,208,Make the tallest lemon tower,59,inches ▲
+110,209,Return to the house wearing a hat,5,difference in seconds ▼
+111,210,Sort the objects by size using your feet,60,sorted objects ▲
+112,211,Spin around and kick a football at the caravan,61,spins ▲
+113,213,Get the highest darts score,62,darts score ▲
+114,215,Take a picture of people holding eggs,63,photographed egg-holders ▲
+115,217,Conceal grapes in your mouth or hand,64,deceptions ▲
+116,220,Make something spin for the longest,35,time ▲
+117,221,Identify the baby food flavours,65,guessed flavors ▲
+118,221,Identify the baby food flavours,1,grams ▲
+119,222,Catch the most socks,66,caught socks minus touched pants ▲
+120,228,Remove the banknote from under the glass,2,time ▼
+121,229,Shake hands with the Taskmaster without revealing your identity,64,deceptions ▲
+122,231,Work out the length of a piece of string,67,difference in feet ▼
+123,232,Remove the tablecloth from underneath the eggs,68,unbroken eggs ▲
+124,233,Identify the link and do it 100 times,2,time ▼
+125,235,Throw eggs onto a shelf,69,shelved eggs ▲
+126,238,Knock over the ducks without leaving the carpet,70,ducks ▲
+127,241,Predict how many words you can list for a category,71,correct answers minus misses ▲
+128,243,Knock the bails off the stumps,2,time ▼
+129,245,List and then mime obscure animals,72,guessed animals ▲
+130,253,Quickly receive a text message,2,time ▼
+131,255,Make the biggest bubble and burst it with your nose,59,inches ▲
+132,258,Make a plastic bag as heavy as possible,27,kilograms ▲
+133,259,Hold the most points above the ground,73,held points ▲
+134,261,Knock over the fewest bowling pins,74,skittles ▼
+135,262,Blow out a candle from a distance,4,meters ▲
+136,264,Pick numbers higher and lower than the people next to you,75,rosettes ▲
+137,266,Make the best quick-change outfit,2,time ▼
+138,267,Build the tallest cardboard box tower,10,centimeters ▲
+139,268,Work out the perimeter of the caravan in beans,76,difference in baked beans ▼
+140,271,Write a ten word story while running,2,time ▼
+141,275,Build a tower of cans within a hoop,48,cans ▲
+142,276,Guess the number on Alex’s forearm,77,difference ▼
+143,278,Raise Alex’s heart rate,78,beats per minute ▲
+144,280,Get the ball into the hole by striking it,79,strokes ▼
+145,281,Silently mouth a ten word fact to Greg,80,understood words ▲
+146,283,Work out what the switch does,2,time ▼
+147,285,Make the scales read exactly 31.770kg,2,time ▼
+148,286,Get dressed while wearing handcuffs,81,correctly donned items ▲
+149,287,Make the best toilet paper plane,4,meters ▲
+150,290,Make the most white circles on the target,82,white circles ▲
+151,295,Put 50 different things in the bin,2,time ▼
+152,298,Place 10 pairs of glasses into the smallest box,83,box size ▼
+153,298,Place 10 pairs of glasses into the smallest box,84,pairs of glasses ▲
+154,301,Throw something into the bin behind the fence,2,time ▼
+155,302,Don’t blink,35,time ▲
+156,305,Beat on the drum after exactly 9.58 seconds,5,difference in seconds ▼
+157,308,Follow the clues and then do what they spell,2,time ▼
+158,314,Find the satsuma in a sock,2,time ▼
+159,315,Complete a 24-shot rally,2,time ▼
+160,318,Put on overalls and lie on the ground when the siren sounds,2,time ▼
+161,319,Find the hard-boiled egg,2,time ▼
+162,321,Tie yourself up as securely as possible,35,time ▲
+163,324,Find the baby monitor receiver,2,time ▼
+164,326,Sneak up on Alex,85,meters ▼
+165,327,Collect the most doughnuts in your bucket,1,grams ▲
+166,328,Peel a banana with your feet,2,time ▼
+167,331,Transfer the rice to the bottle,86,grains of rice ▲
+168,332,"Convey an object using only facial expressions, noises, adjectives & verbs",2,time ▼
+169,333,Travel the furthest while making a continuous noise,4,meters ▲
+170,337,Work out what Alex is wearing,2,time ▼
+171,341,Get the toilet paper through the toilet seat,2,time ▼
+172,345,Whip the bottle off the barrel,2,time ▼
+173,347,Move the sand from one bucket to another,87,% sand diverted ▲
+174,349,Play long-distance catch with a beach ball,9,miles ▲
+175,350,Herd the ping pong balls into a pen,88,herded ping pong balls ▲
+176,353,Conceal yourself inside a phone box,2,time ▼
+177,355,Recall the order of the deck of cards,18,mistakes ▼
+178,356,Score a goal from the greatest distance,4,meters ▲
+179,359,Find the apples,89,pink ladies ▲
+180,360,Work out the crisp flavours,90,correctly guessed crisp flavors ▲
+181,365,Catch the tennis balls,91,points ▲
+182,366,Move the beach ball across the finish line using only water,2,time ▼
+183,367,Complete the five-syllable words,91,points ▲
+184,369,Get a ball into a bin with the most bounces,92,bounces ▲
+185,372,Complete some tasks as one person,2,time ▼
+186,373,Stack plates and bowls on your head,93,plates and bowls ▲
+187,375,Erase the eraser,2,time ▼
+188,378,Hook a duck while wearing inversion goggles,2,time ▼
+189,380,Hide three aubergines from Alex,35,time ▲
+190,381,Arrange the lollies in rainbow order,94,correct lollies ▲
+191,385,Identify which bin Alex is in,2,time ▼
+192,387,Say the word ‘demeaning’,2,time ▼
+193,388,Arrange the playdough balls / Do the correct things with the balls,95,correct balls ▲
+194,390,Surprise memory test,96,remembered items ▲
+195,392,Score a goal with a steamroller,2,time ▼
+196,394,Fill a glass with water,97,parts water minus other ▲
+197,398,Fill a tray with things beginning with a letter you chose,98,correct-initialed things ▲
+198,401,Lasso Alex,2,time ▼
+199,403,"Get to know a person who alternately tells the truth, lies, and brags",32,correct answers ▲
+200,404,Build a tower behind you using a mirror and litter pickers,99,bricks ▲
+201,407,Push a watermelon up a slide using breadsticks,2,time ▼
+202,411,Throw eggs into metal receptacles,91,points ▲
+203,413,Find and put the gold rings on the stick,100,gold rings ▲
+204,414,Horse or laminator?,32,correct answers ▲
+205,416,Throw something into a pedal bin,4,meters ▲
+206,422,"Inflate, tie, and pop the most balloons",101,balloons ▲
+207,428,Complete the seven tasks in any order,2,time ▼
+208,430,Use a spread to delay a pop-up toy,35,time ▲
+209,432,"Fell the coconut, then move the drinks",2,time ▼
+210,434,Get the most eggs in the pan,102,egg ▲
+211,435,Get the most balls of the same colour in your bucket using litter pickers,103,correct minus incorrect balls ▲
+212,437,"Find the treasure / Make different, increasingly loud noises",2,time ▼
+213,439,Get all the exercise balls in the hoops while in a boat,2,time ▼
+214,440,Guess what is making the noises,104,correct guesses ▲
+215,441,Select a wind-up dinosaur,10,centimeters ▲
+216,444,Put the most spaghetti in a grapefruit,1,grams ▲
+217,445,Catapult a shoe into a bathtub,2,time ▼
+218,446,Draw an object on a rotating canvas,105,round wins ▲
+219,448,Make the phone ring,2,time ▼
+220,450,Drop a water balloon as far as possible without it bursting,4,meters ▲
+221,453,Bag the heaviest thing from the greatest distance,1,grams ▲
+222,453,Bag the heaviest thing from the greatest distance,10,centimeters ▲
+223,453,Bag the heaviest thing from the greatest distance,91,points ▲
+224,456,Feed your team-mate(s) the most watermelon,1,grams ▲
+225,461,Transfer the water from one barrel to another,59,inches ▲
+226,464,Move two chickens around a course using a remote-control car and a mobility scooter,2,time ▼
+227,466,Make the best and longest-lasting marble run,35,time ▲
+228,468,Work out how many sheets are on a toilet roll,106,difference in sheets ▼
+229,470,Fill the cup to overflowing without touching the red green,2,time ▼
+230,472,Extract water from a coconut,2,time ▼
+231,476,Complete the most tasks behind the five motorised doors,107,completed tasks ▲
+232,477,Work out how many balls are in the basket,108,difference in balls ▼
+233,478,Draw the monster described by the Taskmaster,109,monster criteria ▲
+234,480,Put the wellies on the spider’s feet,2,time ▼
+235,482,Neatly hang all the clothes on a rail without stepping over the line,2,time ▼
+236,484,Guess how many green eggs are under the Taskmaster’s chair,110,difference in green eggs ▼
+237,486,Get the biggest thing through the doughnut,111,centimeters cubed ▲
+238,488,Build the lightest tower,112,grams ▼
+239,489,Strike balls into a bath with an object,113,balls ▲
+240,493,Deliver all the plates to Alex,36,penalties ▼
+241,493,Deliver all the plates to Alex,2,time ▼
+242,494,Stack your buckets so that they are taller than you,2,time ▼
+243,496,Make the balloon hover,2,time ▼
+244,497,Have an argument,35,time ▲
+245,499,Correctly guess your standing in the group,104,correct guesses ▲
+246,501,Make the sauna stones hiss,2,time ▼
+247,503,Get your luggage through security,2,time ▼
+248,504,Act out nursery rhymes,114,nursery rhymes ▲
+249,506,Get all of the banana in the bottle,2,time ▼
+250,507,Put the bag of salt onto that table,2,time ▼
+251,508,Get the sheet of loo roll as far away as possible,4,meters ▲
+252,509,Identify the contents of the bowl,32,correct answers ▲
+253,511,Cover your legs in cling film and gaffer tape / Put on the captain’s hat,2,time ▼
+254,513,Sort the objects with your face,60,sorted objects ▲
+255,514,Slap and tong,115,slaps plus tongs ▲
+256,519,Identify the battered items,42,identified items ▲
+257,521,Fire rubber bands into Alex’s bum bag,116,rubber bands ▲
+258,523,Complete the most tasks,107,completed tasks ▲
+259,525,Get out of the front gate,117,alarms ▼
+260,526,Make your rubber gloves and wellies as heavy as possible,1,grams ▲
+261,528,Complete various tasks while saying ‘metronome’,118,missed beats ▼
+262,534,Build and topple a tower for a pot of yoghurt,119,score ▲
+263,539,Scientifically work out how much Alex’s feet and head weigh,120,difference in grams ▼
+264,540,Direct a teammate into the red circle,2,time ▼
+265,541,"Keeping your head still at all times, correctly don your special outfit",2,time ▼
+266,543,Strike Alex with a ball,2,time ▼
+267,545,Pop the balloon,2,time ▼
+268,546,"Strike poses to represent a hobby, an animal, and a celebrity",121,guessed poses ▲
+269,549,Work out the contents of the bags,122,guessed ingredients ▲
+270,550,Paint the space hopper green,123,speed points ▲
+271,550,Paint the space hopper green,124,coverage points ▲
+272,550,Paint the space hopper green,125,cleanliness points ▲
+273,550,Paint the space hopper green,91,points ▲
+274,551,Put on the medallion,2,time ▼
+275,553,Copy Alex,126,routine criteria ▲
+276,554,Make a sand bridge across the river,59,inches ▲
+277,556,Convey objects using shadows,105,round wins ▲
+278,558,Complete the course as slowly as possible,36,penalties ▼
+279,558,Complete the course as slowly as possible,35,time ▲
+280,560,Solve the riddle,2,time ▼
+281,561,Get the most forks in your bucket,127,bucketed forks ▲
+282,563,Sit on a cake,2,time ▼
+283,564,Get the most balls in the net,91,points ▲
+284,565,Prevent Alex from scoring a goal,35,time ▲
+285,566,Pop the most balloons,101,balloons ▲
+286,568,Land the iron on the ironing board,4,meters ▲
+287,570,Sit on the red chair in the secret tower,2,time ▼
+288,571,Make paper aeroplanes,128,landed aeroplanes ▲
+289,571,Make paper aeroplanes,129,sheets ▼
+290,571,Make paper aeroplanes,91,points ▲
+291,573,Put up a shelf for the Taskmaster's snooker balls,2,time ▼
+292,573,Put up a shelf for the Taskmaster's snooker balls,130,difference in inches ▼
+293,573,Put up a shelf for the Taskmaster's snooker balls,91,points ▲
+294,575,Pass everything through the pipe and the pipe through everything,2,time ▼
+295,576,Direct drawings using limited keywords,91,points ▲
+296,578,Make a popcorn necklace and do the right thing,2,time ▼
+297,581,Pop up before the objects,91,points ▲
+298,582,Blow a feather across a table with your nose,2,time ▼
+299,584,Have the longest telephone conversation,35,time ▲
+300,585,Find the soldier with hindsight,2,time ▼
+301,586,Get goosebumps,2,time ▼
+302,587,Duck-slide,91,points ▲
+303,589,Drink with your mouth open,2,time ▼
+304,592,Make noises without being identified by the Taskmaster,131,identified noises ▼
+305,595,Drink all the vinegar,2,time ▼
+306,596,Navigate the course with the pole,36,penalties ▼
+307,596,Navigate the course with the pole,10,centimeters ▲
+308,599,Find all ten ducks in the lab,70,ducks ▲
+309,604,Tie a ribbon round the maypole or hit it with a ping pong ball,2,time ▼
+310,606,Score an exercise ball hat-trick using a buggy,2,time ▼
+311,610,Make all the things happen at the same time,2,time ▼
+312,611,Enable Alex to bite his duck,2,time ▼
+313,612,Face leg or other leg?,64,deceptions ▲
+314,614,Guess Shoe,132,questions ▼
+315,616,Make a stirring speech out of the bunting,133,characters ▲
+316,618,Turn over the most beer mats,134,beer mats ▲
+317,622,Raise the water level to the top of the fish tank,135,millimeters ▼
+318,623,Answer Alex's phone call,2,time ▼
+319,627,Record a high number on a pedometer,58,steps ▲
+320,630,Display your vocal range,136,hertz ▼
+321,630,Display your vocal range,137,hertz ▲
+322,630,Display your vocal range,138,note range ▲
+323,633,Deliver a cocktail to Greg,2,time ▼
+324,635,Eat your beautiful sculpture,1,grams ▲
+325,635,Eat your beautiful sculpture,2,time ▼
+326,639,Poke your tongue out for the longest time,35,time ▲
+327,641,Write down things that fit the category,91,points ▲
+328,644,Make the longest cup snake,4,meters ▲
+329,646,Predict how many cans you can fit in a bag,139,tin cans ▲
+330,648,Identify the liquids,140,identified liquids ▲
+331,649,Get the most ducks in Alex's basket,141,basketed ducks ▲
+332,656,Get the duck into the pond,2,time ▼
+333,657,"Suitcase full of bricks, or suitcase full of balloons?",64,deceptions ▲
+334,659,What ten films are you in?,142,named films ▲
+335,660,Land loo roll in the toilet,143,sheets ▲
+336,662,Don't pop the balloon,1,grams ▲
+337,664,"Print, laminate, and distribute the most signs",144,signs ▲
+338,665,Obey all your signs,145,% signs obeyed ▲
+339,666,Put five grapes in the little bowl,1,grams ▲
+340,667,Sort the ducks and the socks,70,ducks ▲
+341,667,Sort the ducks and the socks,146,socks ▲
+342,667,Sort the ducks and the socks,147,ducks and socks ▲
+343,668,Make the Taskmaster say your words,105,round wins ▲
+344,670,Put the most sand in the shopping trolley,27,kilograms ▲
+345,671,Identify the ice cream flavours,65,guessed flavors ▲
+346,675,Turn on the bubble machine,2,time ▼
+347,682,Luggage trolley bowling,4,meters ▲
+348,683,Communicate animals by saying letters and doing impressions,148,identified animals ▲
+349,685,Hold the milk bottles above the microwaves,2,time ▼
+350,686,Reach the end of two lanes in the same amount of time,5,difference in seconds ▼
+351,687,Strike the bullseye with your paint,2,time ▼
+352,690,Pop 99 red balloons,2,time ▼
+353,691,Get this feather into the bath,2,time ▼
+354,692,Hit Bernard with an exercise ball,149,involved balls ▲
+355,695,Communicate an instruction in a secret language,2,time ▼
+356,696,Pin an alluring tail on the alluring animal,2,time ▼
+357,697,Find the back of your hand,150,wrong guesses ▼
+358,698,Guess the length of the extendible item,105,round wins ▲
+359,700,"Snort, raspberry, whistle",151,completed cycles ▲
+360,707,Eat the grape,2,time ▼
+361,709,"Throw an object, hide an object, and place it on the barrel",2,time ▼
+362,712,Count all the dots,152,difference in dots ▼
+363,714,Collect carp pellets in a fish bowl,153,carp pellets ▲
+364,715,Obey Greg's instructions,154,correct items ▲
+365,718,Put a ball of string on the cushion,2,time ▼
+366,719,Get all the rubber rings on your bargepole,155,poled rings ▲
+367,719,Get all the rubber rings on your bargepole,2,time ▼
+368,720,Throw your items into your bucket,156,bucketed items ▲
+369,723,Build a bridge over the red green for this potato,4,meters ▲
+370,727,Exit the caravan after exactly 20 minutes,5,difference in seconds ▼
+371,728,Catch the potatoes in the potato hat,19,potatoes ▲
+372,728,Catch the potatoes in the potato hat,157,animals ▼
+373,728,Catch the potatoes in the potato hat,158,potatotal ▲
+374,730,Know the most facts about sausages,159,sausage facts ▲
+375,732,Strike the most drums with a bouncy ball,160,strikes ▲
+376,733,Make the fastest egg boat,2,time ▼
+377,734,Task bingo,2,time ▼
+378,735,Pour your sand into the other bottle,35,time ▲
+379,738,Musical Simon Says,161,correct sequences ▲
+380,739,Salvage the most spoons,162,salvaged spoons ▲
+381,743,Efficiently shell an egg,163,pieces of eggless shell ▼
+382,744,Bash the big bell with the bowling ball,2,time ▼
+383,747,Rotate the pulper wheel without pulping the egg,164,rotations ▲
+384,748,Free yourselves and have a team hug,2,time ▼
+385,750,Imitate accents/walks,165,guessed impressions ▲
+386,752,Pile the pineapples on the path,166,piled pineapples ▲
+387,755,Use the scratching post to remove balls from your suit,167,balls ▼
+388,758,Deliver a one-minute history lecture,168,actual facts ▲
+389,759,Make exactly 99 holes in the piece of paper,2,time ▼
+390,762,Fill the glass up to the line,4,meters ▲
+391,763,Do what Alex does,5,difference in seconds ▼
+392,766,Scream with your mouth closed,169,decibels ▲
+393,768,Build a tower of cans in the lab,48,cans ▲
+394,769,Cross the finish line while connected to your team,2,time ▼
+395,770,Get the duck into the lake,2,time ▼
+396,770,Get the duck into the lake,36,penalties ▼
+397,771,Heavier or lighter?,32,correct answers ▲
+398,773,Pull the sword from the stone,2,time ▼
+399,777,Recite pi,170,decimal places of π ▲
+400,779,Get the ball in the hole without touching it,2,time ▼
+401,780,Get underneath the most unique things,171,things ▲
+402,780,Get underneath the most unique things,36,penalties ▼
+403,780,Get underneath the most unique things,91,points ▲
+404,782,Human war boats,172,hits ▲
+405,785,Complete all the tasks as a team,2,time ▼
+406,787,Roll your animal die,173,rounds survived ▲
+407,788,Tut the loudest,169,decibels ▲
+408,790,Burst the balloon without looking at it,174,aspirins ▲
+409,792,Get all of the water into the vase,2,time ▼
+410,793,Retrieve and sip your drink,91,points ▲
+411,795,Avoid the rubbish robots,35,time ▲
+412,796,Recreate the garage scene in the lab,175,forbidden words ▼
+413,796,Recreate the garage scene in the lab,176,pretty much right things ▲
+414,798,Pineapple bluff,91,points ▲
+415,800,Play with these switches / Balance the most golf tees,177,balanced tees ▲
+416,801,Pie the air dancer in the face,2,time ▼
+417,802,Place your cardboard replica within the boundary,4,meters ▲
+418,804,Pop your party popper the furthest,10,centimeters ▲
+419,806,Find the secret task,2,time ▼
+420,807,Complete the fortune trail,2,time ▼
+421,809,Mime the proverbs,178,identified proverbs ▲

@@ -1,0 +1,189 @@
+id,task,task_label,team,team_label,win
+1,23,Score 11 points,1,Frank and Tim,0
+2,23,Score 11 points,2,"Josh, Roisin and Romesh",1
+3,30,Make a bed while holding hands,1,Frank and Tim,1
+4,30,Make a bed while holding hands,2,"Josh, Roisin and Romesh",0
+5,35,Stage a realistic home movie blooper,1,Frank and Tim,1
+6,35,Stage a realistic home movie blooper,2,"Josh, Roisin and Romesh",0
+7,53,"See no potato, hear no potato, speak no potato",3,Jon and Richard,1
+8,53,"See no potato, hear no potato, speak no potato",4,"Doc, Joe and Katherine",0
+9,59,Construct something for the Taskmaster,3,Jon and Richard,0
+10,59,Construct something for the Taskmaster,4,"Doc, Joe and Katherine",1
+11,63,Create a stop-motion film starring a potato,3,Jon and Richard,1
+12,63,Create a stop-motion film starring a potato,4,"Doc, Joe and Katherine",0
+13,73,Release Alex,5,Rob and Sara,1
+14,73,Release Alex,6,"Al, Dave and Paul",0
+15,86,Create an impressive special effect,5,Rob and Sara,0
+16,86,Create an impressive special effect,6,"Al, Dave and Paul",1
+17,91,Play charades across a river,5,Rob and Sara,0
+18,91,Play charades across a river,6,"Al, Dave and Paul",1
+19,102,Get the flour onto the target,7,Hugh and Mel,1
+20,102,Get the flour onto the target,8,"Joe, Lolly and Noel",0
+21,107,Make a Taskmaster movie trailer,7,Hugh and Mel,1
+22,107,Make a Taskmaster movie trailer,8,"Joe, Lolly and Noel",0
+23,121,Do incompatible things with the bathtub,7,Hugh and Mel,1
+24,121,Do incompatible things with the bathtub,8,"Joe, Lolly and Noel",0
+25,136,Wheelie bin obstacle course,7,Hugh and Mel,0
+26,136,Wheelie bin obstacle course,8,"Joe, Lolly and Noel",1
+27,155,Create the greatest splat,9,Mark and Nish,1
+28,155,Create the greatest splat,10,"Aisling, Bob and Sally",0
+29,164,Do something remarkable synchronised,9,Mark and Nish,0
+30,164,Do something remarkable synchronised,10,"Aisling, Bob and Sally",1
+31,193,Write and perform a song about a stranger,9,Mark and Nish,1
+32,193,Write and perform a song about a stranger,10,"Aisling, Bob and Sally",0
+33,214,Keep Alex dry,11,Alice and Russell,1
+34,214,Keep Alex dry,12,"Asim, Liza and Tim",0
+35,225,Have the most fun in 3 minutes,11,Alice and Russell,0
+36,225,Have the most fun in 3 minutes,12,"Asim, Liza and Tim",1
+37,226,Exactly recreate your 3 minutes of fun,11,Alice and Russell,1
+38,226,Exactly recreate your 3 minutes of fun,12,"Asim, Liza and Tim",1
+39,233,Identify the link and do it 100 times,11,Alice and Russell,0
+40,233,Identify the link and do it 100 times,12,"Asim, Liza and Tim",1
+41,238,Knock over the ducks without leaving the carpet,11,Alice and Russell,0
+42,238,Knock over the ducks without leaving the carpet,12,"Asim, Liza and Tim",1
+43,245,List and then mime obscure animals,11,Alice and Russell,1
+44,245,List and then mime obscure animals,12,"Asim, Liza and Tim",0
+45,256,Perform a number from the Taskmaster musical,11,Alice and Russell,1
+46,256,Perform a number from the Taskmaster musical,12,"Asim, Liza and Tim",0
+47,272,Paint a blindfolded still life,13,Jessica and Kerry,0
+48,272,Paint a blindfolded still life,14,"James, Phil and Rhod",1
+49,292,Make yourselves appear as large or small as possible,13,Jessica and Kerry,0
+50,292,Make yourselves appear as large or small as possible,14,"James, Phil and Rhod",1
+51,293,Place objects on the hanger without it falling,13,Jessica and Kerry,1
+52,293,Place objects on the hanger without it falling,14,"James, Phil and Rhod",0
+53,297,Make a soap opera cliffhanger,13,Jessica and Kerry,0
+54,297,Make a soap opera cliffhanger,14,"James, Phil and Rhod",1
+55,303,Build an extension to the Taskmaster house,13,Jessica and Kerry,1
+56,303,Build an extension to the Taskmaster house,14,"James, Phil and Rhod",0
+57,315,Complete a 24-shot rally,13,Jessica and Kerry,1
+58,315,Complete a 24-shot rally,14,"James, Phil and Rhod",0
+59,332,"Convey an object using only facial expressions, noises, adjectives & verbs",15,Joe and Sian,1
+60,332,"Convey an object using only facial expressions, noises, adjectives & verbs",16,"Iain, Lou and Paul",0
+61,343,Get the most weight into a hammock,15,Joe and Sian,1
+62,343,Get the most weight into a hammock,16,"Iain, Lou and Paul",0
+63,349,Play long-distance catch with a beach ball,15,Joe and Sian,0
+64,349,Play long-distance catch with a beach ball,16,"Iain, Lou and Paul",1
+65,354,Design an iconic album cover,15,Joe and Sian,1
+66,354,Design an iconic album cover,16,"Iain, Lou and Paul",0
+67,362,"Answer the questions, pull the strings; do not release the green egg",15,Joe and Sian,1
+68,362,"Answer the questions, pull the strings; do not release the green egg",16,"Iain, Lou and Paul",0
+69,365,Catch the tennis balls,15,Joe and Sian,0
+70,365,Catch the tennis balls,16,"Iain, Lou and Paul",1
+71,371,Make yourselves look like one person,15,Joe and Sian,0
+72,371,Make yourselves look like one person,16,"Iain, Lou and Paul",1
+73,372,Complete some tasks as one person,15,Joe and Sian,1
+74,372,Complete some tasks as one person,16,"Iain, Lou and Paul",0
+75,387,Say the word ‘demeaning’,17,David and Jo,0
+76,387,Say the word ‘demeaning’,18,"Ed, Katy and Rose",1
+77,397,Bring a classic board game to life,17,David and Jo,1
+78,397,Bring a classic board game to life,18,"Ed, Katy and Rose",1
+79,403,"Get to know a person who alternately tells the truth, lies, and brags",17,David and Jo,0
+80,403,"Get to know a person who alternately tells the truth, lies, and brags",18,"Ed, Katy and Rose",1
+81,418,Supply a soundtrack for a film,17,David and Jo,0
+82,418,Supply a soundtrack for a film,18,"Ed, Katy and Rose",1
+83,424,Communicate pictures by drawing on your team-mate’s back,19,David and Ed,0
+84,424,Communicate pictures by drawing on your team-mate’s back,20,"Jo, Katy and Rose",1
+85,427,Make a cup of tea,17,David and Jo,1
+86,427,Make a cup of tea,18,"Ed, Katy and Rose",0
+87,437,"Find the treasure / Make different, increasingly loud noises",21,Daisy and Richard,0
+88,437,"Find the treasure / Make different, increasingly loud noises",22,"Johnny, Katherine and Mawaan",1
+89,446,Draw an object on a rotating canvas,21,Daisy and Richard,1
+90,446,Draw an object on a rotating canvas,22,"Johnny, Katherine and Mawaan",0
+91,449,Persuade the security guard to look in your bag,21,Daisy and Richard,1
+92,449,Persuade the security guard to look in your bag,22,"Johnny, Katherine and Mawaan",1
+93,456,Feed your team-mate(s) the most watermelon,21,Daisy and Richard,1
+94,456,Feed your team-mate(s) the most watermelon,22,"Johnny, Katherine and Mawaan",0
+95,462,Draw animals using straight lines,21,Daisy and Richard,0
+96,462,Draw animals using straight lines,22,"Johnny, Katherine and Mawaan",1
+97,465,Communicate the safe contents via reversed audio,21,Daisy and Richard,0
+98,465,Communicate the safe contents via reversed audio,22,"Johnny, Katherine and Mawaan",1
+99,473,Do not blink while staring at your opponent with a selected expression,23,Daisy and Katherine,0
+100,473,Do not blink while staring at your opponent with a selected expression,24,"Johnny, Mawaan and Richard",1
+101,481,Complete the best performance of a specific song,21,Daisy and Richard,1
+102,481,Complete the best performance of a specific song,22,"Johnny, Katherine and Mawaan",0
+103,497,Have an argument,25,Lee and Mike,1
+104,497,Have an argument,26,"Charlotte, Jamali and Sarah",0
+105,504,Act out nursery rhymes,25,Lee and Mike,1
+106,504,Act out nursery rhymes,26,"Charlotte, Jamali and Sarah",0
+107,507,Put the bag of salt onto that table,25,Lee and Mike,0
+108,507,Put the bag of salt onto that table,26,"Charlotte, Jamali and Sarah",1
+109,514,Slap and tong,25,Lee and Mike,0
+110,514,Slap and tong,26,"Charlotte, Jamali and Sarah",1
+111,518,Vandalise a wall creatively,25,Lee and Mike,1
+112,518,Vandalise a wall creatively,26,"Charlotte, Jamali and Sarah",0
+113,525,Get out of the front gate,25,Lee and Mike,1
+114,525,Get out of the front gate,26,"Charlotte, Jamali and Sarah",0
+115,529,Draw the best picture of a British animal,25,Lee and Mike,1
+116,529,Draw the best picture of a British animal,26,"Charlotte, Jamali and Sarah",0
+117,540,Direct a teammate into the red circle,25,Lee and Mike,1
+118,540,Direct a teammate into the red circle,26,"Charlotte, Jamali and Sarah",0
+119,548,Scale the mountain,27,Alan and Victoria,0
+120,548,Scale the mountain,28,"Desiree, Guz and Morgana",1
+121,556,Convey objects using shadows,27,Alan and Victoria,0
+122,556,Convey objects using shadows,28,"Desiree, Guz and Morgana",1
+123,560,Solve the riddle,27,Alan and Victoria,1
+124,560,Solve the riddle,28,"Desiree, Guz and Morgana",0
+125,564,Get the most balls in the net,27,Alan and Victoria,0
+126,564,Get the most balls in the net,28,"Desiree, Guz and Morgana",0
+127,579,Play and commentate on a socially-distanced sport,27,Alan and Victoria,1
+128,579,Play and commentate on a socially-distanced sport,28,"Desiree, Guz and Morgana",1
+129,587,Duck-slide,27,Alan and Victoria,0
+130,587,Duck-slide,28,"Desiree, Guz and Morgana",1
+131,590,Describe the Taskmaster / Chocolate button / Guess the tasks,27,Alan and Victoria,1
+132,590,Describe the Taskmaster / Chocolate button / Guess the tasks,28,"Desiree, Guz and Morgana",0
+133,606,Score an exercise ball hat-trick using a buggy,29,Ardal and Chris,1
+134,606,Score an exercise ball hat-trick using a buggy,30,"Bridget, Judi and Sophie",0
+135,612,Face leg or other leg?,29,Ardal and Chris,0
+136,612,Face leg or other leg?,30,"Bridget, Judi and Sophie",1
+137,615,Give Alex the best stag minute,29,Ardal and Chris,1
+138,615,Give Alex the best stag minute,30,"Bridget, Judi and Sophie",0
+139,633,Deliver a cocktail to Greg,29,Ardal and Chris,0
+140,633,Deliver a cocktail to Greg,30,"Bridget, Judi and Sophie",1
+141,641,Write down things that fit the category,29,Ardal and Chris,1
+142,641,Write down things that fit the category,30,"Bridget, Judi and Sophie",0
+143,650,Record a multi-track song about your team,29,Ardal and Chris,0
+144,650,Record a multi-track song about your team,30,"Bridget, Judi and Sophie",1
+145,661,Create the best picture of a bird,31,Munya and Sarah,1
+146,661,Create the best picture of a bird,32,"Dara, Fern and John",0
+147,668,Make the Taskmaster say your words,31,Munya and Sarah,0
+148,668,Make the Taskmaster say your words,32,"Dara, Fern and John",1
+149,670,Put the most sand in the shopping trolley,31,Munya and Sarah,1
+150,670,Put the most sand in the shopping trolley,32,"Dara, Fern and John",1
+151,681,Perform the best routine to this music,31,Munya and Sarah,0
+152,681,Perform the best routine to this music,32,"Dara, Fern and John",1
+153,683,Communicate animals by saying letters and doing impressions,31,Munya and Sarah,1
+154,683,Communicate animals by saying letters and doing impressions,32,"Dara, Fern and John",1
+155,691,Get this feather into the bath,31,Munya and Sarah,0
+156,691,Get this feather into the bath,32,"Dara, Fern and John",1
+157,695,Communicate an instruction in a secret language,31,Munya and Sarah,1
+158,695,Communicate an instruction in a secret language,32,"Dara, Fern and John",0
+159,698,Guess the length of the extendible item,31,Munya and Sarah,1
+160,698,Guess the length of the extendible item,32,"Dara, Fern and John",0
+161,708,Sculpt your team,31,Munya and Sarah,1
+162,708,Sculpt your team,32,"Dara, Fern and John",0
+163,723,Build a bridge over the red green for this potato,33,Frankie and Ivo,1
+164,723,Build a bridge over the red green for this potato,34,"Jenny, Kiell and Mae",0
+165,729,Perform a slow-motion fight scene,33,Frankie and Ivo,1
+166,729,Perform a slow-motion fight scene,34,"Jenny, Kiell and Mae",0
+167,739,Salvage the most spoons,33,Frankie and Ivo,0
+168,739,Salvage the most spoons,34,"Jenny, Kiell and Mae",1
+169,740,Stuff your team-mate's waders,33,Frankie and Ivo,0
+170,740,Stuff your team-mate's waders,34,"Jenny, Kiell and Mae",1
+171,748,Free yourselves and have a team hug,33,Frankie and Ivo,0
+172,748,Free yourselves and have a team hug,34,"Jenny, Kiell and Mae",1
+173,755,Use the scratching post to remove balls from your suit,33,Frankie and Ivo,0
+174,755,Use the scratching post to remove balls from your suit,34,"Jenny, Kiell and Mae",1
+175,757,Make these things the same colour,33,Frankie and Ivo,1
+176,757,Make these things the same colour,34,"Jenny, Kiell and Mae",1
+177,764,Perform a lullaby for a profession,33,Frankie and Ivo,0
+178,764,Perform a lullaby for a profession,34,"Jenny, Kiell and Mae",1
+179,769,Cross the finish line while connected to your team,35,Sue and Susan,0
+180,769,Cross the finish line while connected to your team,36,"Julian, Lucy and Sam",1
+181,782,Human war boats,35,Sue and Susan,0
+182,782,Human war boats,36,"Julian, Lucy and Sam",1
+183,785,Complete all the tasks as a team,35,Sue and Susan,0
+184,785,Complete all the tasks as a team,36,"Julian, Lucy and Sam",1
+185,796,Recreate the garage scene in the lab,35,Sue and Susan,1
+186,796,Recreate the garage scene in the lab,36,"Julian, Lucy and Sam",1
+187,809,Mime the proverbs,35,Sue and Susan,1
+188,809,Mime the proverbs,36,"Julian, Lucy and Sam",0
